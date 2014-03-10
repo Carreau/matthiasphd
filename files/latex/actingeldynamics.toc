@@ -1,0 +1,33 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}PART 1}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Misc To say}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Introduction}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Cells}{2}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Cell Motility}{3}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Cell Division}{3}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Cell Organelle}{4}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Description of cell}{4}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}Cytoskeleton}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Myosis}{6}{section.1.5}
+\contentsline {section}{\numberline {1.6}Active and Passive microrheologie}{6}{section.1.6}
+\contentsline {section}{\numberline {1.7}Optical tweezer}{6}{section.1.7}
+\contentsline {chapter}{\numberline {2}Materials and methods}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Actin}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Profiline}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Arp2/3}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Bead Motility}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}3D fitting}{7}{section.2.5}
+\contentsline {section}{\numberline {2.6}?? ?? ??}{7}{section.2.6}
+\contentsline {chapter}{\numberline {3}Results}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Actin Cloud}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Doublets}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Oocytes}{9}{section.3.3}
+\contentsline {chapter}{\numberline {4}Discussion}{11}{chapter.4}
+\contentsline {chapter}{\numberline {5}Optical Trap Setup}{13}{chapter.5}
+\contentsline {section}{\numberline {5.1}Preface}{13}{section.5.1}
+\contentsline {section}{\numberline {5.2}Choice of experimental tools}{13}{section.5.2}
+\contentsline {chapter}{\numberline {6}Liposome doublets}{15}{chapter.6}
+\contentsline {section}{\numberline {6.1}Relating Doublets to Living cell}{15}{section.6.1}
+\contentsline {section}{\numberline {6.2}Doublets geometric parameter}{15}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Finding a single liposome}{17}{subsection.6.2.1}
+\contentsline {chapter}{\numberline {7}References}{19}{chapter.7}

@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>PART 1 &mdash; Actin gel dynamics:Matthias Bussonnier</title>
+    
+    <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <link rel="top" title="Actin gel dynamics:Matthias Bussonnier" href="../index.html" />
+    <link rel="next" title="Materials and methods" href="part2.html" />
+    <link rel="prev" title="Contents" href="../index.html" />
+ 
+
+<!-- Google Scholar metadata -->
+<meta name="resource_type" content="Dissertation"/>
+<meta name="citation_publication_date" content="2012/08/21"/>
+<meta name="citation_pdf_url" content="http://mae.ucdavis.edu/~biosport/jkm/dissertation/HumanControlofaBicycle.pdf"/>
+<script type="text/javascript" src="http://localhost:8000/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<style>
+    body { 
+        min-width:200px;
+        font-family: Bitter, Georgia, 'Times New Roman', serif;
+        font-size: 15px;
+    }
+
+    .figure img {
+        max-width:90%;
+        margin:auto;
+    }
+
+    .figure{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    h1 + p:first-letter,
+    h2 + p:first-letter,
+    h3 + p:first-letter
+    { 
+        float: left;
+        color: #903;
+        font-size: 65px;
+        line-height: 50px;
+        padding-top: 4px;
+        padding-right: 6px;
+        padding-left: 3px;
+        font-family: Georgia, Serif;
+    }
+
+    p{
+       text-indent:2em;
+       
+    }
+
+    h2+p, h1+p, h3+p {
+       text-indent:inherit;
+       color: inherit;
+   }
+   div.content ul > li {
+background-image:none;
+   list-style-image: none;
+   list-style-position: outside;
+   list-style-type: none;
+   }
+
+   ul {padding-left: 14px; list-style: none;}
+   ul li:before {color: #903; content: "•"; position:relative; 
+       left: -7px; font-size: 18px; margin-left: -7px}
+
+   a:link, a:hover, a:active {
+       text-decoration: underline;
+       color: #903;
+   }
+</style>
+
+  </head>
+  <body>
+      <div class="header"><h1 class="heading"><a href="../index.html">
+          <span>Actin gel dynamics:Matthias Bussonnier</span></a></h1>
+        <h2 class="heading"><span>PART 1</span></h2>
+      </div>
+      <div class="topnav">
+      
+        <p>
+        «&#160;&#160;<a href="../index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="part2.html">Materials and methods</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+
+  <div class="section" id="part-1">
+<h1>PART 1<a class="headerlink" href="#part-1" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="misc-to-say">
+<h2>Misc To say<a class="headerlink" href="#misc-to-say" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li>Even in mitosis for big cell, actin is needed to assemble chromosoms <a class="reference internal" href="../index.html#lenart2005" id="id1">[Lenart, Bacher, Daigle,  et al.  2005]</a></li>
+<li>Rapid change in actin structure <a class="reference internal" href="../index.html#vasilev2012" id="id2">[Vasilev, Chun, Gragnaniello,  et al.  2012]</a>, timing is also important (exposition to inomycine disrupt cortex functionality)</li>
+<li>F-actin network cabable of supporting mechanical load <a class="reference internal" href="../index.html#feric2013" id="id3">[Feric, Brangwynne,  2013]</a></li>
+<li>Presence of f-Actin meshwork meshsize ~0.5µm <a class="reference internal" href="../index.html#feric2013" id="id4">[Feric, Brangwynne,  2013]</a></li>
+<li>This actin network can wistant repetitive compression <a class="reference internal" href="../index.html#feric2013" id="id5">[Feric, Brangwynne,  2013]</a></li>
+<li>F actin network might be linked to the lamin (a kind of IF) cortex around the nucleus <a class="reference internal" href="../index.html#feric2013" id="id6">[Feric, Brangwynne,  2013]</a></li>
+<li>Such a network woudl only need to sutain a pressure on the order od 0.01 PA <a class="reference internal" href="../index.html#feric2013" id="id7">[Feric, Brangwynne,  2013]</a>,
+and is essential to fight agains gravity</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p>Cells are the basic component of living organism, understanding their
+individual behavior and the way they function is a key step into understanding
+how they interact with their environment and other organism. One of the key
+component to most of organism is Actin, a protein which is highly conserved
+across the species and play a important role in cell mechanics, from cell
+migration to cell differentiation and division. It plays also a non negligible
+in most mechanical properties of the cell and how it interacts with its
+environment. In particular actin is the main component of the actin cortex :
+the part of the cell cytoskeleton below the plasma membrane mostly responsible
+for cell mechanical properties. The properties of this actin cortex is drive by
+the mechanics of the properties of its main component : a dynamic actin
+network. Understanding this actin network is hence a key piece to learn how
+the actin cortex behave.</p>
+<p>The properties of an actin network highly depend on it&#8217;s structure. The
+structure itself depends on many parameters that influence how the network is
+formed. Network structure and formation can be not only influence by its
+physical and chemical environments but also by the variation of this
+parameters with time and space.</p>
+<p>Cells are complex systems that adapt their shape, mechanical properties and
+biochemical conditions permanently. The spacial repartition of theses
+properties is also variable as the cell regulate the concentration of proteins
+all across its body. To well study the effect of each components independently,
+it is crucial to study actin network in a controlled environment.</p>
+<p>Biomimetic systems allow to respond to most of these concern, they provide a
+well controlled environment where biochemical condition can be well controlled
+both in space and time. Theses systems keep their biological relevance, as they
+can mimic <em>in vivo</em> phenomenon. Biomimetic systems are also well adapted to the
+tools available and the approach from a physics point of view. The optical trap
+will allow us to study local mechanical properties of actin  network  with a
+high time resolution which could allow to get insight into the variation of
+theses properties as a function of time.</p>
+<p>During my PhD, my work has mainly be to study the mechanics of branched actin
+network polymerizing on optically trapped polystyrene beads. Such network was
+studied before <a class="reference internal" href="../index.html#kawska2012" id="id8">[Kawska, Carvalho, Manzi,  et al.  2012]</a>  but have suspected to be highly inhomogeneous,
+the use of optical trap allowed to probe mechanics of part of the network
+unaccessible before.</p>
+<blockquote>
+<div><ul class="simple">
+<li>time resolution</li>
+<li>network dynamics</li>
+<li>Move to liposome,</li>
+<li>study in OOCyte :</li>
+<li>Basically from purely biiomimetic to real cells</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="cells">
+<h2>Cells<a class="headerlink" href="#cells" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>cell will differentiate differently depending on the substract  <a class="reference internal" href="../index.html#discher2005" id="id9">[Discher, Janmey, Wang,  2005]</a> <a class="reference internal" href="../index.html#engler2006" id="id10">[Engler, Sen, Sweeney, Discher,  2006]</a> <a class="reference internal" href="../index.html#saha2008" id="id11">[Saha, Keung, Irwin,  et al.  2008]</a></li>
+<li>give a standard size for a cell.</li>
+</ul>
+<p>Cells are the smallest living component which are present from unicellular
+plants to multicellular animals. Thus, cells should cover a huge range of
+behavior going from extremely specific on multicellular organism, to all the
+function that are needed to survive and reproduce for bacterial colony.
+Multicellular organism will grow specialized cell from neurone — for example
+responsible from propagating the electric signal along nerves — that grow on
+soft material, to osteoblast growing on stiff substrate and responsible to
+generate bone materials, going through germinal cells allowing the organism to
+reproduce. In the other hand, unicellular organisms are made of cell that are
+responsible for all the function of the organism, from motility to
+reproduction, passing through absorption of nutriment to replication of the
+cell.</p>
+<p>Cell are hence able to adapt to their environment as a function of time, and
+also have function and behavior that depends on time, and a small change of
+timing and/or biochemical conditions can highly injure the development of an
+organism [things on starfishes].</p>
+<p>Nonetheless, even with all theses different behavior and phenotype, the cells
+all have a common structure. They are constituted by a membrane which is
+responsible form separating the cytoplasm from the outside of the cell. The
+cytoplasm contains organelles, genetic material, and lots of proteins that the
+cell use to accomplish its functions. Cells are of course not completely
+isolated, and have numbers of mechanism to exchange and communicate with the
+outside. Communication with the outside can be with chemical signal, hence
+cells have developed way of transporting or detecting proteins and ions through
+it&#8217;s membrane. But it also need to change its mechanics. To do so, cells can
+for example change there osmotic pressure by varying their osmotic pressure,
+but can also exert and feel force through the membrane. Cross membrane
+proteins, named integrins are made to do so, but need a structure on the inside
+of the cell that can support the forces transmitted by integrins.</p>
+<p>This structure, which is situated just below the cell membrane, is named the actin cortex,</p>
+<blockquote>
+<div>All the living kingdom is characterised by the fact that organism can reproduce,</div></blockquote>
+<p>And</p>
+<div class="section" id="cell-motility">
+<h3>Cell Motility<a class="headerlink" href="#cell-motility" title="Permalink to this headline">¶</a></h3>
+<p>Wether cells are part of multicellular or uni-cellular organism, they should
+be able to move in their environment Usually, cell movement is differentiated
+in two categories: when cells are placed on a two dimensional environment
+—&nbsp;which is often the case for epidermal cells, or a culture cells –, or a three
+dimensional environment.</p>
+<p>Motility on a  two dimensional environment is called reptation. To move by
+reptation. Cells need to be spread on the surface, in the front of the cell can
+be seen a lamelipodia, a thin and wide protrusion of the cell that will
+progress forward, then the rear of the cell will detach, making the centroid of
+cell change position. On the edge of the lamelipodia is present tubular
+protrusion that will go father than the leading edge of the lamelipodia, attach
+to the surface.</p>
+</div>
+<div class="section" id="cell-division">
+<h3>Cell Division<a class="headerlink" href="#cell-division" title="Permalink to this headline">¶</a></h3>
+<p>We saw that cell phenotype was changing as a function of time.  In
+particular, cell divide to and grow. The mechanism of cell division can be
+quite different depending on the type of dividing cells. Bacteria, for
+example, will replicate identically, giving birth to two identical daughter
+cells. Somatic cells of most multicellular organism, will also divide
+symmetrically leading to 2 daughter cells having the same genetic material,
+than the mother cell.  On the other hand, Mouse OOcyte, will at some point
+of their maturation — Meiosis — divide asymmetrically two time in a row,
+leading to a mature OOcyte and 3 polar body.</p>
+<blockquote>
+<div><p>Mitosis in normal cell,</p>
+<ul class="simple">
+<li>cell detach from surface,</li>
+<li>rounds up</li>
+<li>nucleus center</li>
+<li>nuclear breakdown</li>
+<li>chromosome forms,</li>
+<li>actin pack chromosome,</li>
+<li>microtubule fetch chromosome</li>
+<li>spindel form and migrate to the centrosome,</li>
+<li>cytokinetic actin ring contract.</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="cell-organelle">
+<h3>Cell Organelle<a class="headerlink" href="#cell-organelle" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li>Mitoncondria, ER (made to produce proteins), also serve in lacust</li>
+<li>nucleus en eucariotes cells, contains the chromosomes.</li>
+<li>Nucleus get moved by actin filement to the periclinal/anticlinal wall,</li>
+<li>centromere centriole,</li>
+<li>Organelles are supported by</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="description-of-cell">
+<h3>Description of cell<a class="headerlink" href="#description-of-cell" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li>Unit of all living things</li>
+<li>Move, divide, react to their environment, differentiate</li>
+<li>divide<ul>
+<li>spherical, cytokinetic ring, filopodia</li>
+<li>how force effect actin</li>
+</ul>
+</li>
+<li>focal adhesion</li>
+<li>that was mostly all of what was internal&lt;-&gt; external interaction there are also inner cell effect :</li>
+<li>organelle,<ul>
+<li>nucleus/spindle positioning in division</li>
+<li>from OOcyte, diploid -&gt; haploid</li>
+<li>Movement nucleus to periclinal/anticlinal wall away from UV.</li>
+<li>translocation in locust</li>
+</ul>
+</li>
+</ul>
+</div></blockquote>
+<p>We can see in plants that actin, also known as microfilement <a class="reference internal" href="../index.html#iwabuchi2010" id="id13">[Iwabuchi, Takagi,  2010]</a> is used to move nucleus away from</p>
+</div>
+</div>
+<div class="section" id="cytoskeleton">
+<h2>Cytoskeleton<a class="headerlink" href="#cytoskeleton" title="Permalink to this headline">¶</a></h2>
+<p>The cytoskeleton, literally skeleton of the cell, is the structure which give
+it shape to a cell.  As for other multicellular animals that possesses
+skeleton, its shape is often a hint on how a organism move. As feet, fins and
+wigs are characteristics that will tell you whether a animal does more
+preferably prefer land, see or air, the cytoskeleton is will tell you many
+things a bout a cell.</p>
+<p>In the other hand, unlike (exo)-Skeleton of animals which is ridged and
+unchanging, the cytoskeleton of cell is a  highly dynamic structure that keep
+remodeling itself on a short time scale compared to the speed at which a cell
+move. That&#8217;s through this dynamics that the cytoskeleton can achieve its
+functions.  As mammals skeletons are necessary to transmit force from one part
+of the body to another, the cell cytoskeleton is responsible to not only
+transmit the force the cell is exerting, but also to generate theses force.
+Thats through its cytoskeleton that a cell can be connected to its environment,
+both mechanically and biochemically.</p>
+<div class="admonition-todo admonition" id="index-0">
+<p class="first admonition-title">Todo</p>
+<p class="last">trouver des ref pour ci dessous</p>
+</div>
+<p>The cytoskeleton is mainly composed of three type of filaments.  The
+microtubules, intermediate filament and actin filament, also known as
+microfilament.</p>
+<p>Microtubules are the wider with a diameter of 20nm and [un article où on voit le diametre] the stiffer of the three kinds of filament with a persistence
+length in the order of millimeter, which is much longer than the size of the
+usual cell. Microtubules are extensively studied [cite some reviews ...].
+Microtubules form polar (oriented) filament that can be walked on by molecular
+motors that can be decomposed in two families – kinesins  and dyneins –
+depending on the end toward which the motor preferably walk. Microtubules are
+mostly known for their action during the cells mitosis where they will form
+majority of the mitotic spindle that drive the segregation of the chromosomes
+in two groups, each group ending in one of the daughter cells.</p>
+<p>We will not be interested directly into the effect and behavior of microtubules in this manuscript.</p>
+<p>Intermediate filaments are of medium diameter in the order of around 10nm, in
+between actin and microtubules filament, hence their name.  Unlike microtubules
+and actin filament, intermediate filaments are composed by several sub-families
+of proteins and are non-polar.</p>
+<p>Actin, is the third component of the cytoskeleton, the one we will focus most of our effort.</p>
+<blockquote>
+<div><ul class="simple">
+<li>cf fletcher 2010 review <a class="reference internal" href="../index.html#fletcher2010" id="id16">[Fletcher, Mullins,  2010]</a> the cytoskeleton as 3 main functions :<ul>
+<li>organize cell in space</li>
+<li>connect cell to external environment (biochemical and mechanical)</li>
+<li>generate and coordinate force to allow cell to change shape.</li>
+<li>some things on temporal and spacial effect of structures like &#8220;bud scar&#8221;</li>
+<li>schema of branched Arp2/3 actin factor</li>
+</ul>
+</li>
+<li>Loading history determines the velocity of actin-network growth
+<a class="reference internal" href="../index.html#parekh2005" id="id17">[Parekh, Chaudhuri, Theriot, Fletcher,  2005]</a> hence network can record history, single filament
+cannot.</li>
+<li>more than 150 protein have been found to bind with actin.</li>
+<li>Wave complex,<ul>
+<li>Wasp, N-Wasp ( need to cite <cite>Machesky1999</cite> )</li>
+</ul>
+</li>
+<li>Not composed only by actin</li>
+</ul>
+</div></blockquote>
+<p>Should cite <cite>Pollard2003</cite></p>
+<blockquote>
+<div><ul class="simple">
+<li>Some network need actin, some other do not. (Fletcher review 2010)</li>
+<li>NPF</li>
+<li>Polymerase, (depolymerase severing),</li>
+<li>crosslinker,<ul>
+<li>// like fascine<ul>
+<li>rotate like alpha-acitinnin</li>
+<li>effect of cross linking distance [Morse20..]</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>stabilizing</li>
+<li>Moleular motors.</li>
+<li>interphase, cellule prepare for division</li>
+<li>Mitosis : &#8220;DNA Segregating&#8221;</li>
+<li>need to describe actin,<ul>
+<li>depending on the length scale semi-flexible polymers.</li>
+</ul>
+</li>
+<li>polymerisation barbed end pointed end, (directed)<ul>
+<li>form microfilement</li>
+</ul>
+</li>
+<li>cytoskeleton is dynamic</li>
+<li>formed under the plasme membrane</li>
+<li>ratchet nechanisme</li>
+<li>use of Arp2/3 to branch</li>
+<li>capping, protein,  formin (OOcyte)</li>
+<li>myosin, run on actin to barbed end/ processive/not processive.<ul>
+<li>stress fibres</li>
+</ul>
+</li>
+<li>troppomyosine</li>
+<li>phaloidine</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="myosis">
+<h2>Myosis<a class="headerlink" href="#myosis" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><ul class="simple">
+<li>Asymetric division of oocyte,</li>
+<li>from diploid, to haploid,
+- spindle usually in mmithosis pulled by microtubule</li>
+</ul>
+</div></blockquote>
+</div>
+<div class="section" id="active-and-passive-microrheologie">
+<h2>Active and Passive microrheologie<a class="headerlink" href="#active-and-passive-microrheologie" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="optical-tweezer">
+<h2>Optical tweezer<a class="headerlink" href="#optical-tweezer" title="Permalink to this headline">¶</a></h2>
+</div>
+</div>
+
+
+
+
+      </div>
+      <div class="bottomnav">
+      
+        <p>
+        «&#160;&#160;<a href="../index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../index.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="part2.html">Materials and methods</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+
+    <div class="footer">
+        &copy; Copyright 2014, Matthias Bussonnier.
+      Last updated on Mar 10, 2014.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2+.
+    </div>
+
+<div align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+	<img
+	alt="Creative Commons License" style="border-width:0"
+	src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
+</a>
+<br />
+This work is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/3.0/">Creative Commons
+Attribution 3.0 Unported License</a>
+</div>
+
+
+  </body>
+</html>
