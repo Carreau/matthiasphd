@@ -8,7 +8,9 @@ var auth = express.basicAuth(function(user,pass) {
           ;
 });
 
-app.use('/', auth, express.static(__dirname + '/files'));
+app.use('/', auth)
+app.use('/', express.static(__dirname + '/files'));
+console.log(__dirname + '/files/');
 
 app.listen();
 var port =  process.env.PORT||5000
