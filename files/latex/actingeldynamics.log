@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 MAR 2014 18:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 MAR 2014 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,7 +1036,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 6.
-<doublets-schema.png, id=251, 659.263pt x 558.888pt>
+<doublets-schema.png, id=289, 659.263pt x 558.888pt>
 File: doublets-schema.png Graphic file (type png)
  <use doublets-schema.png>
 Package pdftex.def Info: doublets-schema.png used on input line 701.
@@ -1054,7 +1054,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [16 <./doublets-schema.png>]
-<modl-2d-doublet.png, id=264, 654.0435pt x 213.9192pt>
+<modl-2d-doublet.png, id=302, 654.0435pt x 213.9192pt>
 File: modl-2d-doublet.png Graphic file (type png)
 
 <use modl-2d-doublet.png>
@@ -1065,7 +1065,7 @@ File: modl-2d-doublet.png Graphic file (type png)
 Package pdftex.def Info: modl-2d-doublet.png used on input line 763.
 (pdftex.def)             Requested size: 469.755pt x 153.64305pt.
 
-<corrfun-noise-.png, id=265, 624.4128pt x 521.0667pt>
+<corrfun-noise-.png, id=303, 624.4128pt x 521.0667pt>
 File: corrfun-noise-.png Graphic file (type png)
  <use corrfun-noise-.png>
 Package pdftex.def Info: corrfun-noise-.png used on input line 773.
@@ -1091,36 +1091,118 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [18 <./corrfun-noise-.png>]
 Chapter 7.
-(./actingeldynamics.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 790.
- [19
+[19
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 790.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20
+
+]
+Overfull \hbox (23.82147pt too wide) in paragraph at lines 797--799
+\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=285
+1742&tool=pmcentrez&rendertype=abstract[][],
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 806--808
+[]\T1/ptm/m/n/10.95 Agnieszka Kawska, Kévin Car-valho, John Manzi, Ra-jaa
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 806--808
+\T1/ptm/m/it/10.95 of Sci-ences of the United States of Amer-ica\T1/ptm/m/n/10.
+95 , 109(36):14440^^U5, Septem-ber 2012. [][]URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
+[]\T1/ptm/m/n/10.95 Sapun H Parekh, Ovi-jit Chaud-huri,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
+\T1/ptm/m/n/10.95 Julie A The-riot, and Daniel A Fletcher. Load-ing his-tory de
+-ter-mines the ve-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
+\T1/ptm/m/n/10.95 loc-ity of actin-network growth.. \T1/ptm/m/it/10.95 Na-ture 
+cell bi-ol-ogy\T1/ptm/m/n/10.95 , 7(12):1219^^U23, De-cem-ber
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
+\T1/ptm/m/n/10.95 2005. [][]URL: http://www.nature.com.gate1.inist.fr/ncb/journ
+al/v7/n12/full/ncb1336.html
+ []
+
+[21
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 815--817
+[]\T1/ptm/m/n/10.95 Krishanu Saha, Al-bert J Ke-ung, Eliz-a-beth F Ir-win, Yang
+
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 815--817
+\T1/ptm/m/n/10.95 Li, Lau-ren Lit-tle, David V Schaf-fer, and Kevin E Healy. Su
+b-strate mod-u-lus di-rects
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--817
+\T1/ptm/m/n/10.95 neu-ral stem cell be-hav-ior.. \T1/ptm/m/it/10.95 Bio-phys-i-
+cal jour-nal\T1/ptm/m/n/10.95 , 95(9):4426^^U38, Novem-ber 2008. [][]URL:
+ []
+
+
+Overfull \hbox (23.82147pt too wide) in paragraph at lines 815--817
+\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=256
+7955&tool=pmcentrez&rendertype=abstract[][],
+ []
+
+(./actingeldynamics.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 826.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 826.
  (./actingeldynamics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 790.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 790.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 826.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 826.
 Package rerunfilecheck Info: File `actingeldynamics.out' has not changed.
-(rerunfilecheck)             Checksum: 87A0F251CF339229B3905FD2BF9339FA;1892.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 790.
+(rerunfilecheck)             Checksum: 3F1237304A184D732199A62544A6FF0B;1941.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 826.
  ) 
 Here is how much of TeX's memory you used:
- 9602 strings out of 493488
- 135460 string characters out of 3141326
- 235985 words of memory out of 3000000
- 12595 multiletter control sequences out of 15000+200000
+ 9652 strings out of 493488
+ 136709 string characters out of 3141326
+ 237183 words of memory out of 3000000
+ 12618 multiletter control sequences out of 15000+200000
  52160 words of font info for 64 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 36i,12n,48p,484b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,12n,48p,580b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on actingeldynamics.pdf (23 pages, 523245 bytes).
+Output written on actingeldynamics.pdf (26 pages, 537114 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 270 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
- 292 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 408 PDF objects out of 1000 (max. 8388607)
+ 361 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 300 words of extra memory for PDF output out of 10000 (max. 10000000)
 
