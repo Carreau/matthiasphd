@@ -5,6 +5,7 @@ var app = express();
 var auth = express.basicAuth(function(user,pass) {
       return ('user' === user && 'pass' === pass)
             || (user === 'matthias' && pass == 'matthias')
+            || (user === 'timo' && pass == 'timo')
           ;
 });
 
