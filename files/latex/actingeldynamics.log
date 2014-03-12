@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 MAR 2014 19:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  12 MAR 2014 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -927,7 +927,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 33.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
  [1
 
 ])
@@ -942,7 +942,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 161.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 161.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 166.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 165.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -951,6 +951,12 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 
 ]
+<oocyte-wild-type.png, id=238, 513.92pt x 513.92pt>
+File: oocyte-wild-type.png Graphic file (type png)
+ <use oocyte-wild-type.png>
+Package pdftex.def Info: oocyte-wild-type.png used on input line 294.
+(pdftex.def)             Requested size: 328.82706pt x 328.82925pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -967,7 +973,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3]
+[3 <./oocyte-wild-type.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 372.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -989,10 +998,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [6]
-Chapter 2.
-[7
 
-]
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1002,7 +1014,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [8
 
 ]
-Chapter 3.
+Chapter 2.
 [9]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1013,7 +1025,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [10
 
 ]
-Chapter 4.
+Chapter 3.
 [11]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1024,7 +1036,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [12
 
 ]
-Chapter 5.
+Chapter 4.
 [13]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1035,45 +1047,56 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [14
 
 ]
-Chapter 6.
-<doublets-schema.png, id=289, 659.263pt x 558.888pt>
-File: doublets-schema.png Graphic file (type png)
- <use doublets-schema.png>
-Package pdftex.def Info: doublets-schema.png used on input line 701.
-(pdftex.def)             Requested size: 659.26138pt x 558.88663pt.
-File: doublets-schema.png Graphic file (type png)
-
-<use doublets-schema.png>
-Package pdftex.def Info: doublets-schema.png used on input line 701.
-(pdftex.def)             Requested size: 469.755pt x 398.23741pt.
- [15]
+Chapter 5.
+[15]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16 <./doublets-schema.png>]
-<modl-2d-doublet.png, id=302, 654.0435pt x 213.9192pt>
+[16
+
+]
+Chapter 6.
+<doublets-schema.png, id=330, 659.263pt x 558.888pt>
+File: doublets-schema.png Graphic file (type png)
+ <use doublets-schema.png>
+Package pdftex.def Info: doublets-schema.png used on input line 690.
+(pdftex.def)             Requested size: 659.26138pt x 558.88663pt.
+File: doublets-schema.png Graphic file (type png)
+
+<use doublets-schema.png>
+Package pdftex.def Info: doublets-schema.png used on input line 690.
+(pdftex.def)             Requested size: 469.755pt x 398.23741pt.
+ [17]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18 <./doublets-schema.png>]
+<modl-2d-doublet.png, id=342, 654.0435pt x 213.9192pt>
 File: modl-2d-doublet.png Graphic file (type png)
 
 <use modl-2d-doublet.png>
-Package pdftex.def Info: modl-2d-doublet.png used on input line 763.
+Package pdftex.def Info: modl-2d-doublet.png used on input line 752.
 (pdftex.def)             Requested size: 654.0419pt x 213.91867pt.
 File: modl-2d-doublet.png Graphic file (type png)
  <use modl-2d-doublet.png>
-Package pdftex.def Info: modl-2d-doublet.png used on input line 763.
+Package pdftex.def Info: modl-2d-doublet.png used on input line 752.
 (pdftex.def)             Requested size: 469.755pt x 153.64305pt.
 
-<corrfun-noise-.png, id=303, 624.4128pt x 521.0667pt>
+<corrfun-noise-.png, id=343, 624.4128pt x 521.0667pt>
 File: corrfun-noise-.png Graphic file (type png)
  <use corrfun-noise-.png>
-Package pdftex.def Info: corrfun-noise-.png used on input line 773.
+Package pdftex.def Info: corrfun-noise-.png used on input line 762.
 (pdftex.def)             Requested size: 624.41127pt x 521.06541pt.
 File: corrfun-noise-.png Graphic file (type png)
 
 <use corrfun-noise-.png>
-Package pdftex.def Info: corrfun-noise-.png used on input line 773.
+Package pdftex.def Info: corrfun-noise-.png used on input line 762.
 (pdftex.def)             Requested size: 469.755pt x 392.00758pt.
 
 
@@ -1082,16 +1105,16 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17 <./modl-2d-doublet.png>]
+[19 <./modl-2d-doublet.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18 <./corrfun-noise-.png>]
+[20 <./corrfun-noise-.png>]
 Chapter 7.
-[19
+[21
 
 ]
 
@@ -1100,76 +1123,58 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20
+[22
 
 ]
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 797--799
+Overfull \hbox (23.82147pt too wide) in paragraph at lines 786--788
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=285
 1742&tool=pmcentrez&rendertype=abstract[][],
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 806--808
+Underfull \hbox (badness 6893) in paragraph at lines 795--797
 []\T1/ptm/m/n/10.95 Agnieszka Kawska, Kévin Car-valho, John Manzi, Ra-jaa
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 806--808
+Underfull \hbox (badness 5954) in paragraph at lines 795--797
 \T1/ptm/m/it/10.95 of Sci-ences of the United States of Amer-ica\T1/ptm/m/n/10.
 95 , 109(36):14440^^U5, Septem-ber 2012. [][]URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 812--814
+Underfull \hbox (badness 10000) in paragraph at lines 801--803
 []\T1/ptm/m/n/10.95 Sapun H Parekh, Ovi-jit Chaud-huri,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 812--814
+Underfull \hbox (badness 10000) in paragraph at lines 801--803
 \T1/ptm/m/n/10.95 Julie A The-riot, and Daniel A Fletcher. Load-ing his-tory de
 -ter-mines the ve-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 812--814
+Underfull \hbox (badness 10000) in paragraph at lines 801--803
 \T1/ptm/m/n/10.95 loc-ity of actin-network growth.. \T1/ptm/m/it/10.95 Na-ture 
 cell bi-ol-ogy\T1/ptm/m/n/10.95 , 7(12):1219^^U23, De-cem-ber
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 812--814
+Underfull \hbox (badness 10000) in paragraph at lines 801--803
 \T1/ptm/m/n/10.95 2005. [][]URL: http://www.nature.com.gate1.inist.fr/ncb/journ
 al/v7/n12/full/ncb1336.html
  []
 
-[21
+[23
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 815--817
-[]\T1/ptm/m/n/10.95 Krishanu Saha, Al-bert J Ke-ung, Eliz-a-beth F Ir-win, Yang
-
- []
-
-
-Underfull \hbox (badness 8094) in paragraph at lines 815--817
-\T1/ptm/m/n/10.95 Li, Lau-ren Lit-tle, David V Schaf-fer, and Kevin E Healy. Su
-b-strate mod-u-lus di-rects
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 815--817
-\T1/ptm/m/n/10.95 neu-ral stem cell be-hav-ior.. \T1/ptm/m/it/10.95 Bio-phys-i-
-cal jour-nal\T1/ptm/m/n/10.95 , 95(9):4426^^U38, Novem-ber 2008. [][]URL:
- []
-
-
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 815--817
-\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=256
-7955&tool=pmcentrez&rendertype=abstract[][],
+Overfull \hbox (23.82147pt too wide) in paragraph at lines 804--806
+\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=211
+4620&tool=pmcentrez&rendertype=abstract[][],
  []
 
 (./actingeldynamics.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 826.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 815.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1177,32 +1182,38 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 826.
+[24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 815.
  (./actingeldynamics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 826.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 826.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 815.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 815.
 Package rerunfilecheck Info: File `actingeldynamics.out' has not changed.
-(rerunfilecheck)             Checksum: 3F1237304A184D732199A62544A6FF0B;1941.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 826.
+(rerunfilecheck)             Checksum: 361CC9FA519AF7C730D0B4DE2B16AD33;2347.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 815.
  ) 
 Here is how much of TeX's memory you used:
- 9652 strings out of 493488
- 136709 string characters out of 3141326
- 237183 words of memory out of 3000000
- 12618 multiletter control sequences out of 15000+200000
- 52160 words of font info for 64 fonts, out of 3000000 for 9000
+ 9704 strings out of 493488
+ 137764 string characters out of 3141326
+ 237939 words of memory out of 3000000
+ 12651 multiletter control sequences out of 15000+200000
+ 62636 words of font info for 71 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
- 36i,12n,48p,580b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,14n,48p,560b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf
--dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on actingeldynamics.pdf (26 pages, 537114 bytes).
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2012
+/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-
+dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on actingeldynamics.pdf (28 pages, 775107 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 87 named destinations out of 1000 (max. 500000)
- 300 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 470 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 337 words of extra memory for PDF output out of 10000 (max. 10000000)
 

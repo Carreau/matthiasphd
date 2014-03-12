@@ -25,7 +25,7 @@
     <script type="text/javascript" src="_static/doctools.js"></script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="top" title="Actin gel dynamics:Matthias Bussonnier" href="#" />
-    <link rel="next" title="PART 1" href="parts/part1.html" />
+    <link rel="next" title="Background" href="parts/part1.html" />
  
 
 <!-- Google Scholar metadata -->
@@ -33,6 +33,7 @@
 <meta name="citation_publication_date" content="2012/08/21"/>
 <meta name="citation_pdf_url" content="http://mae.ucdavis.edu/~biosport/jkm/dissertation/HumanControlofaBicycle.pdf"/>
 <script type="text/javascript" src="http://localhost:8000/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <style>
     body { 
@@ -89,6 +90,36 @@ background-image:none;
        text-decoration: underline;
        color: #903;
    }
+    .figure 
+    {
+        border: solid 2px #903;
+        border-radius:10px;
+        padding: 10px;
+        
+    }
+    .figure > a 
+    {
+        display:block;
+        padding:auto;
+        width:100%;
+        
+    }
+
+    div.figure a > img
+    {
+        display: block;
+        margin:0 auto;
+    }
+
+    .caption{
+        border-left: solid thick #903; 
+        padding-left: 10px;
+        color: gray;
+        width: 80%;
+        margin: 0 10%;
+        margin-top: 30px;
+    }
+
 </style>
 
   </head>
@@ -102,7 +133,7 @@ background-image:none;
         <p>
         <a class="uplink" href="#">Contents</a>
         &#160;&#160;::&#160;&#160;
-        <a href="parts/part1.html">PART 1</a>&#160;&#160;»
+        <a href="parts/part1.html">Background</a>&#160;&#160;»
         </p>
 
       </div>
@@ -114,20 +145,26 @@ background-image:none;
 <h1>Contents<a class="headerlink" href="#contents" title="Permalink to this headline">¶</a></h1>
 <div class="toctree-wrapper compound">
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="parts/part1.html">PART 1</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#misc-to-say">Misc To say</a></li>
+<li class="toctree-l1"><a class="reference internal" href="parts/part1.html">Background</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="parts/part1.html#introduction">Introduction</a></li>
-<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#cells">Cells</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#cell-motility">Cell Motility</a></li>
-<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#cell-division">Cell Division</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#living-cells">Living Cells</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#the-cell-cytoskeleton">The Cell Cytoskeleton</a></li>
 <li class="toctree-l3"><a class="reference internal" href="parts/part1.html#cell-organelle">Cell Organelle</a></li>
-<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#description-of-cell">Description of cell</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#cytoskeleton">Cytoskeleton</a></li>
-<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#myosis">Myosis</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#the-role-of-actin-cytoskeletton">The Role Of Actin Cytoskeletton</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#cell-motility">Cell Motility</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#the-actin-cortex">The actin cortex</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#organelle-positioning-actin-cloud">Organelle Positioning (actin cloud)</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#nuclear-positionning-during-miosis">Nuclear positionning during miosis</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#in-vitro-reconstituted-actin-networks">In vitro reconstituted actin networks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#actin-networks-as-viscoelastic-material">Actin networks as viscoelastic material</a></li>
 <li class="toctree-l2"><a class="reference internal" href="parts/part1.html#active-and-passive-microrheologie">Active and Passive microrheologie</a></li>
 <li class="toctree-l2"><a class="reference internal" href="parts/part1.html#optical-tweezer">Optical tweezer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#membrane-physics">Membrane Physics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#myosis-to-move-away">Myosis (to move away)</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="parts/part2.html">Materials and methods</a><ul>
@@ -166,7 +203,73 @@ background-image:none;
 </ul>
 <div class="section" id="references">
 <h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
-<p id="bibtex-bibliography-index-0"></p>
+<p id="bibtex-bibliography-index-0"><table class="docutils citation" frame="void" id="dosremedios2003" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[dRemedios, Chhabra, Kekic,  et al.  2003]</td><td>C&nbsp;G dos Remedios, D&nbsp;Chhabra, M&nbsp;Kekic, I&nbsp;V Dedova, M&nbsp;Tsubakihara, D&nbsp;A Berry, and N&nbsp;J Nosworthy. Actin binding proteins: regulation of cytoskeletal microfilaments.. <em>Physiological reviews</em>, 83(2):433–73, April 2003. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/12663865">URL: http://www.ncbi.nlm.nih.gov/pubmed/12663865</a>, <a class="reference external" href="http://dx.doi.org/10.1152/physrev.00026.2002">doi:10.1152/physrev.00026.2002</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="engler2006" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Engler, Sen, Sweeney, Discher,  2006]</td><td>Adam&nbsp;J. Engler, Shamik Sen, H.&nbsp;Lee Sweeney, and Dennis&nbsp;E. Discher. Matrix elasticity directs stem cell lineage specification.. <em>Cell</em>, 126(4):677–89, August 2006. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/16923388">URL: http://www.ncbi.nlm.nih.gov/pubmed/16923388</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.cell.2006.06.044">doi:10.1016/j.cell.2006.06.044</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="feric2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Feric, Brangwynne,  2013]</td><td>Marina Feric and Clifford&nbsp;P Brangwynne. A nuclear F-actin scaffold stabilizes ribonucleoprotein droplets against gravity in large cells. <em>Nature Cell Biology</em>, 15:1253–1259, 2013. <a class="reference external" href="http://dx.doi.org/10.1038/ncb2830">URL: http://dx.doi.org/10.1038/ncb2830</a>, <a class="reference external" href="http://dx.doi.org/10.1038/ncb2830">doi:10.1038/ncb2830</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="fletcher2010" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Fletcher, Mullins,  2010]</td><td>Daniel&nbsp;A Fletcher and R&nbsp;Dyche Mullins. Cell mechanics and the cytoskeleton.. <em>Nature</em>, 463(7280):485–92, January 2010. <a class="reference external" href="http://dx.doi.org/10.1038/nature08908 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2851742&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://dx.doi.org/10.1038/nature08908 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2851742&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1038/nature08908">doi:10.1038/nature08908</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="goley2006" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Goley, Welch,  2006]</td><td>Erin&nbsp;D Goley and Matthew&nbsp;D Welch. The ARP2/3 complex: an actin nucleator comes of age.. <em>Nature reviews. Molecular cell biology</em>, 7(10):713–26, October 2006. <a class="reference external" href="http://dx.doi.org/10.1038/nrm2026">URL: http://dx.doi.org/10.1038/nrm2026</a>, <a class="reference external" href="http://dx.doi.org/10.1038/nrm2026">doi:10.1038/nrm2026</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="iwabuchi2010" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Iwabuchi, Takagi,  2010]</td><td>Kosei Iwabuchi and Shingo Takagi. Actin-based mechanisms for light-dependent intracellular positioning of nuclei and chloroplasts in Arabidopsis.. <em>Plant signaling &amp; behavior</em>, 5(8):1010–3, August 2010. <a class="reference external" href="http://www.plantphysiol.org/content/152/3/1309">URL: http://www.plantphysiol.org/content/152/3/1309</a>, <a class="reference external" href="http://dx.doi.org/10.1104/pp.109.149526">doi:10.1104/pp.109.149526</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="kawska2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Kawska, Carvalho, Manzi,  et al.  2012]</td><td>Agnieszka Kawska, Kévin Carvalho, John Manzi, Rajaa Boujemaa-Paterski, Laurent Blanchoin, Jean-Louis Martiel, and Cécile Sykes. How actin network dynamics control the onset of actin-based motility.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 109(36):14440–5, September 2012. <a class="reference external" href="http://www.pnas.org/content/109/36/14440.short">URL: http://www.pnas.org/content/109/36/14440.short</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.1117096109">doi:10.1073/pnas.1117096109</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="lenart2005" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Lenart, Bacher, Daigle,  et al.  2005]</td><td>Péter Lénárt, Christian&nbsp;P Bacher, Nathalie Daigle, Arthur&nbsp;R Hand, Roland Eils, Mark Terasaki, and Jan Ellenberg. A contractile nuclear actin network drives chromosome congression in oocytes.. <em>Nature</em>, 436:812–818, 2005. <a class="reference external" href="http://dx.doi.org/10.1038/nature03810">doi:10.1038/nature03810</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="parekh2005" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Parekh, Chaudhuri, Theriot, Fletcher,  2005]</td><td>Sapun&nbsp;H Parekh, Ovijit Chaudhuri, Julie&nbsp;A Theriot, and Daniel&nbsp;A Fletcher. Loading history determines the velocity of actin-network growth.. <em>Nature cell biology</em>, 7(12):1219–23, December 2005. <a class="reference external" href="http://www.nature.com.gate1.inist.fr/ncb/journal/v7/n12/full/ncb1336.html http://www.ncbi.nlm.nih.gov/pubmed/16299496">URL: http://www.nature.com.gate1.inist.fr/ncb/journal/v7/n12/full/ncb1336.html http://www.ncbi.nlm.nih.gov/pubmed/16299496</a>, <a class="reference external" href="http://dx.doi.org/10.1038/ncb1336">doi:10.1038/ncb1336</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pollard1986" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pollard,  1986]</td><td>T&nbsp;D Pollard. Rate constants for the reactions of ATP- and ADP-actin with the ends of actin filaments.. <em>The Journal of cell biology</em>, 103(6 Pt 2):2747–54, December 1986. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2114620&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2114620&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1083/jcb.103.6.2747">doi:10.1083/jcb.103.6.2747</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="vasilev2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Vasilev, Chun, Gragnaniello,  et al.  2012]</td><td>Filip Vasilev, Jong&nbsp;T. Chun, Giovanni Gragnaniello, Ezio Garante, and Luigia Santella. Effects of ionomycin on egg activation and early development in starfish. <em>PLoS ONE</em>, 2012. <a class="reference external" href="http://dx.doi.org/10.1371/journal.pone.0039231">doi:10.1371/journal.pone.0039231</a>.</td></tr>
+</tbody>
+</table>
+</p>
 </div>
 </div>
 
@@ -179,7 +282,7 @@ background-image:none;
         <p>
         <a class="uplink" href="#">Contents</a>
         &#160;&#160;::&#160;&#160;
-        <a href="parts/part1.html">PART 1</a>&#160;&#160;»
+        <a href="parts/part1.html">Background</a>&#160;&#160;»
         </p>
 
       </div>
@@ -187,7 +290,7 @@ background-image:none;
 
     <div class="footer">
         &copy; Copyright 2014, Matthias Bussonnier.
-      Last updated on Mar 10, 2014.
+      Last updated on Mar 12, 2014.
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2+.
     </div>
 

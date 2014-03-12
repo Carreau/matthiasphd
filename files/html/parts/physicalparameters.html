@@ -33,6 +33,7 @@
 <meta name="citation_publication_date" content="2012/08/21"/>
 <meta name="citation_pdf_url" content="http://mae.ucdavis.edu/~biosport/jkm/dissertation/HumanControlofaBicycle.pdf"/>
 <script type="text/javascript" src="http://localhost:8000/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <style>
     body { 
@@ -89,6 +90,36 @@ background-image:none;
        text-decoration: underline;
        color: #903;
    }
+    .figure 
+    {
+        border: solid 2px #903;
+        border-radius:10px;
+        padding: 10px;
+        
+    }
+    .figure > a 
+    {
+        display:block;
+        padding:auto;
+        width:100%;
+        
+    }
+
+    div.figure a > img
+    {
+        display: block;
+        margin:0 auto;
+    }
+
+    .caption{
+        border-left: solid thick #903; 
+        padding-left: 10px;
+        color: gray;
+        width: 80%;
+        margin: 0 10%;
+        margin-top: 30px;
+    }
+
 </style>
 
   </head>
@@ -141,7 +172,7 @@ such a system has already been studied, we believe that the new technique we
 develop can allow the non-invasive measure of variation of tension on liposome.</p>
 <div class="figure" id="figdoubletsschema">
 <img alt="Formation doublet schema" src="../_images/doublets-schema.png" />
-<p class="caption">Single liposome can formxe a doublets with a single double double layer
+<p class="caption">Figure 1: Single liposome can formxe a doublets with a single double double layer
 separating them, adhere with a double bi-layer, or cover with atin.  Bare
 doublets can then get covered with actin and actin covered liposome can
 adhere together. The two kinds of doublets can be differentiated by using
@@ -191,7 +222,7 @@ homogeneous thickness around the liposome will also manifest as a fluorecent rin
 <p>In the case of actin shell, when the thickness of the actin shell is bigger compared the resolution limit of our method, then the liposome radius should be taken as the inner raius of the ring</p>
 <div class="figure">
 <img alt="liposome Model" src="../_images/modl-2d-doublet.png" />
-<p class="caption">Left : A simulation of liposome fluorescent of an uniform shell or
+<p class="caption">Figure 2: Left : A simulation of liposome fluorescent of an uniform shell or
 membrane.
 Middle: Same Image Adding gaussian noise to simulate a plane from
 a confocal Z-stack.
@@ -222,7 +253,7 @@ and non fluorescent medium.</p>
 
     <div class="footer">
         &copy; Copyright 2014, Matthias Bussonnier.
-      Last updated on Mar 10, 2014.
+      Last updated on Mar 12, 2014.
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2+.
     </div>
 

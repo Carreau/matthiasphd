@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Cells &mdash; Actin gel dynamics:Matthias Bussonnier</title>
+    <title>Living Cells &mdash; Actin gel dynamics:Matthias Bussonnier</title>
     
     <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
@@ -32,6 +32,7 @@
 <meta name="citation_publication_date" content="2012/08/21"/>
 <meta name="citation_pdf_url" content="http://mae.ucdavis.edu/~biosport/jkm/dissertation/HumanControlofaBicycle.pdf"/>
 <script type="text/javascript" src="http://localhost:8000/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <style>
     body { 
@@ -88,13 +89,43 @@ background-image:none;
        text-decoration: underline;
        color: #903;
    }
+    .figure 
+    {
+        border: solid 2px #903;
+        border-radius:10px;
+        padding: 10px;
+        
+    }
+    .figure > a 
+    {
+        display:block;
+        padding:auto;
+        width:100%;
+        
+    }
+
+    div.figure a > img
+    {
+        display: block;
+        margin:0 auto;
+    }
+
+    .caption{
+        border-left: solid thick #903; 
+        padding-left: 10px;
+        color: gray;
+        width: 80%;
+        margin: 0 10%;
+        margin-top: 30px;
+    }
+
 </style>
 
   </head>
   <body>
       <div class="header"><h1 class="heading"><a href="../index.html">
           <span>Actin gel dynamics:Matthias Bussonnier</span></a></h1>
-        <h2 class="heading"><span>Cells</span></h2>
+        <h2 class="heading"><span>Living Cells</span></h2>
       </div>
       <div class="topnav">
       
@@ -107,85 +138,210 @@ background-image:none;
         
         
 
-  <div class="section" id="cells">
-<h1>Cells<a class="headerlink" href="#cells" title="Permalink to this headline">¶</a></h1>
-<ul class="simple">
-<li>cell will differentiate differently depending on the substract  [Discher2005] [Engler2006] [Saha2008]</li>
-<li>give a standard size for a cell.</li>
-</ul>
+  <div class="section" id="living-cells">
+<h1>Living Cells<a class="headerlink" href="#living-cells" title="Permalink to this headline">¶</a></h1>
+<div class="admonition-todo admonition" id="index-0">
+<p class="first last admonition-title">Todo</p>
+</div>
+<div class="admonition-todo admonition" id="index-1">
+<p class="first admonition-title">Todo</p>
+<p class="last">We can see in plants that actin, also known as microfilament
+<a class="reference internal" href="../index.html#iwabuchi2010" id="id1">[Iwabuchi, Takagi,  2010]</a> is used to move nucleus away from</p>
+</div>
 <p>Cells are the smallest living component which are present from unicellular
 plants to multicellular animals. Thus, cells should cover a huge range of
 behavior going from extremely specific on multicellular organism, to all the
 function that are needed to survive and reproduce for bacterial colony.
-Multicellular organism will grow specialized cell from neurone — for example
-responsible from propagating the electric signal along nerves — that grow on
-soft material, to osteoblast growing on stiff substrate and responsible to
-generate bone materials, going through germinal cells allowing the organism to
-reproduce. In the other hand, unicellular organisms are made of cell that are
-responsible for all the function of the organism, from motility to
-reproduction, passing through absorption of nutriment to replication of the
-cell.</p>
+Multicellular organism will grow specialized cell from neurone to osteoblast
+going through germinal or muscle cells. In the other hand, unicellular
+organisms are made of cell that are responsible for all the function of the
+organism, from motility to reproduction, passing through absorption of
+nutriment to replication of the cell.</p>
 <p>Cell are hence able to adapt to their environment as a function of time, and
 also have function and behavior that depends on time, and a small change of
 timing and/or biochemical conditions can highly injure the development of an
-organism [things on starfishes].</p>
+organism <a class="reference internal" href="../index.html#lenart2005" id="id2">[Lenart, Bacher, Daigle,  et al.  2005]</a>, it has also been observe that the mechanical
+properties of substrate can govern the differentiation of cell
+<a class="reference internal" href="../index.html#engler2006" id="id3">[Engler, Sen, Sweeney, Discher,  2006]</a> .</p>
 <p>Nonetheless, even with all theses different behavior and phenotype, the cells
 all have a common structure. They are constituted by a membrane which is
 responsible form separating the cytoplasm from the outside of the cell. The
-cytoplasm contains organelles, genetic material, and lots of proteins that the
-cell use to accomplish its functions. Cells are of course not completely
+cytoplasm contains organelles, genetic material, and number of proteins that
+the cell use to accomplish its functions. Cells are of course not completely
 isolated, and have numbers of mechanism to exchange and communicate with the
-outside. Communication with the outside can be with chemical signal, hence
-cells have developed way of transporting or detecting proteins and ions through
-it&#8217;s membrane. But it also need to change its mechanics. To do so, cells can
-for example change there osmotic pressure by varying their osmotic pressure,
-but can also exert and feel force through the membrane. Cross membrane
-proteins, named integrins are made to do so, but need a structure on the inside
-of the cell that can support the forces transmitted by integrins.</p>
-<p>This structure, which is situated just below the cell membrane, is named the actin cortex,</p>
-<blockquote>
-<div>All the living kingdom is characterised by the fact that organism can reproduce,</div></blockquote>
-<p>And</p>
-<div class="section" id="cell-motility">
-<h2>Cell Motility<a class="headerlink" href="#cell-motility" title="Permalink to this headline">¶</a></h2>
-<p>Wether cells are part of multicellular or uni-cellular organism, they should
-be able to move in their environment Usually, cell movement is differentiated
-in two categories: when cells are placed on a two dimensional environment
-—&nbsp;which is often the case for epidermal cells, or a culture cells –, or a three
-dimensional environment.</p>
-<p>Motility on a  two dimensional environment is called reptation. To move by
-reptation. Cells need to be spread on the surface, in the front of the cell can
-be seen a lamelipodia, a thin and wide protrusion of the cell that will
-progress forward, then the rear of the cell will detach, making the centroid of
-cell change position. On the edge of the lamelipodia is present tubular
-protrusion that will go father than the leading edge of the lamelipodia, attach
-to the surface.</p>
+outside. Communication with the outside are either chemical or mechanics.  To
+sens their mechanical environment, cell use adhesion complexes to attach to the
+medium, and integrins as trans-membrane protein will transfer the force to the
+cell cytoskeleton situated inside the cell.</p>
+<div class="figure" id="oocytewt">
+<a class="reference internal image-reference" href="../_images/oocyte-wild-type.png"><img alt="&quot;Bright field image of an OOcyte&quot;" src="../_images/oocyte-wild-type.png" style="width: 70%;" /></a>
+<p class="caption">Figure 1: Bright field image of a mouse oocyte before meiosis. Cell diameter is
+of 80 µm. The nucleus can be clearly seen at the center of the
+cell. Image Credit to Maria Almonacid from Collège de France.</p>
 </div>
-<div class="section" id="cell-division">
-<h2>Cell Division<a class="headerlink" href="#cell-division" title="Permalink to this headline">¶</a></h2>
-<p>We saw that cell phenotype was changing as a function of time.  In
-particular, cell divide to and grow. The mechanism of cell division can be
-quite different depending on the type of dividing cells. Bacteria, for
-example, will replicate identically, giving birth to two identical daughter
-cells. Somatic cells of most multicellular organism, will also divide
-symmetrically leading to 2 daughter cells having the same genetic material,
-than the mother cell.  On the other hand, Mouse OOcyte, will at some point
-of their maturation — Meiosis — divide asymmetrically two time in a row,
-leading to a mature OOcyte and 3 polar body.</p>
+<p>This structure, which is situated just below the cell membrane, is named the
+actin cortex,</p>
+<div class="section" id="the-cell-cytoskeleton">
+<h2>The Cell Cytoskeleton<a class="headerlink" href="#the-cell-cytoskeleton" title="Permalink to this headline">¶</a></h2>
+<p>The cytoskeleton, literally skeleton of the cell, is the structure which give
+it shape to a cell.  As for other multicellular animals that possesses
+skeleton, its shape is often a hint on how a organism move. As feet, fins and
+wigs are characteristics that will tell you whether a animal does more
+preferably prefer land, see or air, the cytoskeleton is will tell you many
+things a bout a cell.</p>
+<p>In the other hand, unlike (exo)-Skeleton of animals which is ridged and
+unchanging, the cytoskeleton of cell is a  highly dynamic structure that keep
+remodeling itself on a short time scale compared to the speed at which a cell
+move. That&#8217;s through this dynamics that the cytoskeleton can achieve its
+functions.  As mammals skeletons are necessary to transmit force from one part
+of the body to another, the cell cytoskeleton is responsible to not only
+transmit the force the cell is exerting, but also to generate theses force.
+Thats through its cytoskeleton that a cell can be connected to its environment,
+both mechanically and biochemically.</p>
+<div class="admonition-todo admonition" id="index-2">
+<p class="first admonition-title">Todo</p>
+<p class="last">trouver des ref pour ci dessous</p>
+</div>
+<p>The cytoskeleton is mainly composed of three type of filaments.  The
+microtubules, intermediate filament and actin filament, also known as
+microfilament.</p>
+<div class="section" id="microtubules">
+<h3>Microtubules<a class="headerlink" href="#microtubules" title="Permalink to this headline">¶</a></h3>
+<p>Microtubules are the wider with a diameter of 20nm and [un article où on voit le diameter] the stiffer of the three kinds of filament with a persistence
+length in the order of millimeter, which is much longer than the size of the
+usual cell. Microtubules are extensively studied [cite some reviews ...].
+Microtubules form polar (oriented) filament that can be walked on by molecular
+motors that can be decomposed in two families – kinesins  and dyneins –
+depending on the end toward which the motor preferably walk. Microtubules are
+mostly known for their action during the cells mitosis where they will form
+majority of the mitotic spindle that drive the segregation of the chromosomes
+in two groups, each group ending in one of the daughter cells.</p>
+<p>We will not be interested directly into the effect and behavior of microtubules
+in this manuscript.</p>
+</div>
+<div class="section" id="intermediate-filaments">
+<h3>Intermediate filaments<a class="headerlink" href="#intermediate-filaments" title="Permalink to this headline">¶</a></h3>
+<p>Intermediate filaments are of medium diameter in the order of around 10nm, in
+between actin and microtubules filament, hence their name.  Unlike microtubules
+and actin filament, intermediate filaments are composed by several sub-families
+of proteins and are non-polar.</p>
+</div>
+<div class="section" id="actin">
+<h3>Actin<a class="headerlink" href="#actin" title="Permalink to this headline">¶</a></h3>
+<p>Actin, is the third component of the cytoskeleton, the one we will focus most
+of our effort. Actin can forms actin filament, the thinest of the three kind
+that form the cytoskeleton. Actin is produced in the cell as a globular protein
+of ~40 kDa that once associated with ATP or ADP polymerise into helicoidal
+filament with a diameter between 7 and 9nm. The formed actin filament are
+polar, which both extremity respectively called the plus (<cite>+</cite>) or
+barbed end, and the minus (<cite>-</cite>) or pointed end. The polarity of the actin
+filament is of importance as this give rise to a proved direction for most
+processes that can happen on the filament.</p>
+<p>The actin protein is highly conserved across species, and is know to directly
+interact with hundreds of proteins <a class="reference internal" href="../index.html#dosremedios2003" id="id6">[dRemedios, Chhabra, Kekic,  et al.  2003]</a>. As hint before it can in particular bind to ATP, that can hydrolyse into,</p>
+<div class="section" id="dynamic-of-actin-polymerisation">
+<h4>Dynamic of actin polymerisation<a class="headerlink" href="#dynamic-of-actin-polymerisation" title="Permalink to this headline">¶</a></h4>
+<p>The assembly mechanism that allow to go from singles monomers of actin (also
+refer to as G-actin in solution) to actin filament (also refer as F-actin)
+need to be well understood to explain the different structure of network actin
+filament can give once put in presence of other proteins.</p>
+<p>The polymerisation of ATP/ADP actin monomer to form an actin filament need to go
+through the step of forming a actin proto-filament which is constituted of at
+least 3 actin monomers. This will most of the time be the kinetically limiting
+step. Once proto-filaments are present in solution, single monomers can be
+freely added or removed on both end of the filament.</p>
+<p>We now need to distinguish between the dynamic of adding or removing on both
+ends of the filament. Indeed it has been show that the association and
+dissociation rate are differing between the pointed (-) and barbed (+) end.
+More particularly, the association rate at the barbed rate is higher that on
+the pointed end, and same goes for the dissociation rate which has a bigger
+constant on the minus end of actin filament. This lead to in imbalance of actin
+(de)-polymerisation on both ends, which leads to actin filament preferably
+growing on the barbed end and preferably shrinking from the pointed end.</p>
+<p>The equations that drive the polymerisation can thus be written as follow</p>
+<div class="math">
+\[\begin{split}\frac{dC_b}{dt} &amp;= k_{+,b}.[monomers] - k_{-,b} \\
+\frac{dC_p}{dt} &amp;= k_{+,p}.[monomers] - k_{-,p} \\\end{split}\]</div>
+<p>Where <cite>b</cite> and <cite>p</cite> designate respectively the barbed and pointed end, and
+<span class="math">\(k_+\)</span> and <span class="math">\(k_-\)</span> are the polymerisation and depolymerisation rate.
+The concentration in barbed and pointed end denoted by <span class="math">\(C_\_\)</span>. By
+assuming that the number of pointed end is equal to the number of barbed end,
+one can derive the steady state which give rise to the critical monomer
+concentration below which a actin filament cannot grow: <span class="math">\([monomers]_c\)</span>.</p>
+<p>The rate constant of elongation of actin have been determined to also depend of
+whether the monomer was bound to ADP or ATP <a class="reference internal" href="../index.html#pollard1986" id="id7">[Pollard,  1986]</a>. We should now
+consider the fact that ATP-bound actin will hydrolyse to ADP-Pi then release
+the inorganic phosphate, and thus with a rate that also depend on whether the
+monomer is part of a filament or in solution.</p>
+<p>It should be noted that the stationary state</p>
+<div class="admonition-todo admonition" id="index-3">
+<p class="first admonition-title">Todo</p>
+<ul class="last simple">
+<li>cf fletcher 2010 review <a class="reference internal" href="../index.html#fletcher2010" id="id8">[Fletcher, Mullins,  2010]</a> the cytoskeleton as 3 main
+functions :<ul>
+<li>organize cell in space</li>
+<li>connect cell to external environment (biochemical and mechanical)</li>
+<li>generate and coordinate force to allow cell to change shape.</li>
+<li>some things on temporal and spacial effect of structures like &#8220;bud scar&#8221;</li>
+<li>schema of branched Arp2/3 actin factor</li>
+</ul>
+</li>
+<li>Loading history determines the velocity of actin-network growth
+<a class="reference internal" href="../index.html#parekh2005" id="id9">[Parekh, Chaudhuri, Theriot, Fletcher,  2005]</a> hence network can record history, single filament
+cannot.</li>
+<li>more than 150 protein have been found to bind with actin.</li>
+<li>Wave complex,<ul>
+<li>Wasp, N-Wasp ( need to cite <cite>Machesky1999</cite> )</li>
+</ul>
+</li>
+<li>Not composed only by actin</li>
+</ul>
+</div>
+<div class="admonition-todo admonition" id="index-4">
+<p class="first admonition-title">Todo</p>
 <blockquote>
-<div><p>Mitosis in normal cell,</p>
+<div><p>Should cite <cite>Pollard2003</cite></p>
 <ul class="simple">
-<li>cell detach from surface,</li>
-<li>rounds up</li>
-<li>nucleus center</li>
-<li>nuclear breakdown</li>
-<li>chromosome forms,</li>
-<li>actin pack chromosome,</li>
-<li>microtubule fetch chromosome</li>
-<li>spindel form and migrate to the centrosome,</li>
-<li>cytokinetic actin ring contract.</li>
+<li>Some network need actin, some other do not. (Fletcher review 2010)</li>
+<li>NPF</li>
+<li>Polymerase, (depolymerase severing),</li>
+<li>crosslinker,<ul>
+<li>// like fascine<ul>
+<li>rotate like alpha-acitinnin</li>
+<li>effect of cross linking distance [Morse20..]</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>stabilizing</li>
+<li>Moleular motors.</li>
+<li>interphase, cellule prepare for division</li>
+<li>Mitosis : &#8220;DNA Segregating&#8221;</li>
+<li>need to describe actin,<ul>
+<li>depending on the length scale semi-flexible polymers.</li>
+</ul>
+</li>
+<li>polymerisation barbed end pointed end, (directed)<ul>
+<li>form microfilement</li>
+</ul>
+</li>
+<li>cytoskeleton is dynamic</li>
+<li>formed under the plasme membrane</li>
+<li>ratchet nechanisme</li>
+<li>use of Arp2/3 to branch</li>
+<li>capping, protein,  formin (OOcyte)</li>
+<li>myosin, run on actin to barbed end/ processive/not processive.<ul>
+<li>stress fibres</li>
+</ul>
+</li>
+<li>troppomyosine</li>
 </ul>
 </div></blockquote>
+<p class="last">All the living kingdom is characterised by the fact that organism can reproduce,</p>
+</div>
+<p>And</p>
+</div>
+</div>
 </div>
 <div class="section" id="cell-organelle">
 <h2>Cell Organelle<a class="headerlink" href="#cell-organelle" title="Permalink to this headline">¶</a></h2>
@@ -198,30 +354,6 @@ leading to a mature OOcyte and 3 polar body.</p>
 <li>Organelles are supported by</li>
 </ul>
 </div></blockquote>
-</div>
-<div class="section" id="description-of-cell">
-<h2>Description of cell<a class="headerlink" href="#description-of-cell" title="Permalink to this headline">¶</a></h2>
-<blockquote>
-<div><ul class="simple">
-<li>Unit of all living things</li>
-<li>Move, divide, react to their environment, differentiate</li>
-<li>divide<ul>
-<li>spherical, cytokinetic ring, filopodia</li>
-<li>how force effect actin</li>
-</ul>
-</li>
-<li>focal adhesion</li>
-<li>that was mostly all of what was internal&lt;-&gt; external interaction there are also inner cell effect :</li>
-<li>organelle,<ul>
-<li>nucleus/spindle positioning in division</li>
-<li>from OOcyte, diploid -&gt; haploid</li>
-<li>Movement nucleus to periclinal/anticlinal wall away from UV.</li>
-<li>translocation in locust</li>
-</ul>
-</li>
-</ul>
-</div></blockquote>
-<p>We can see in plants that actin, also known as microfilement [Iwabuchi2010] is used to move nucleus away from</p>
 </div>
 </div>
 
@@ -240,7 +372,7 @@ leading to a mature OOcyte and 3 polar body.</p>
 
     <div class="footer">
         &copy; Copyright 2014, Matthias Bussonnier.
-      Last updated on Mar 10, 2014.
+      Last updated on Mar 12, 2014.
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2+.
     </div>
 
