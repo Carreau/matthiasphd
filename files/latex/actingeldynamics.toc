@@ -7,18 +7,23 @@
 \contentsline {subsubsection}{Intermediate filaments}{4}{subsubsection*.4}
 \contentsline {subsubsection}{Actin}{4}{subsubsection*.5}
 \contentsline {paragraph}{Dynamic of actin polymerisation}{4}{paragraph*.6}
-\contentsline {subsection}{\numberline {1.2.2}Cell Organelle}{6}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}The Role Of Actin Cytoskeletton}{7}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Cell Motility}{7}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}The actin cortex}{7}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Organelle Positioning (actin cloud)}{7}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Nuclear positionning during miosis}{7}{subsection.1.3.4}
-\contentsline {section}{\numberline {1.4}In vitro reconstituted actin networks}{7}{section.1.4}
-\contentsline {section}{\numberline {1.5}Actin networks as viscoelastic material}{7}{section.1.5}
-\contentsline {section}{\numberline {1.6}Active and Passive microrheologie}{7}{section.1.6}
-\contentsline {section}{\numberline {1.7}Optical tweezer}{7}{section.1.7}
-\contentsline {section}{\numberline {1.8}Membrane Physics}{7}{section.1.8}
-\contentsline {section}{\numberline {1.9}Myosis (to move away)}{7}{section.1.9}
+\contentsline {paragraph}{Proteins influencing actin polymerisation}{6}{paragraph*.7}
+\contentsline {subparagraph}{Polymerase family}{6}{subparagraph*.8}
+\contentsline {subparagraph}{Crosslinkers}{6}{subparagraph*.9}
+\contentsline {subparagraph}{Stabilising proteins}{6}{subparagraph*.10}
+\contentsline {subparagraph}{Capping Protein}{6}{subparagraph*.11}
+\contentsline {subsection}{\numberline {1.2.2}Cell Organelle}{7}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}The Role Of Actin Cytoskeletton}{8}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Cell Motility}{8}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}The actin cortex}{8}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Organelle Positioning (actin cloud)}{8}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Nuclear positionning during miosis}{8}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}In vitro reconstituted actin networks}{8}{section.1.4}
+\contentsline {section}{\numberline {1.5}Actin networks as viscoelastic material}{8}{section.1.5}
+\contentsline {section}{\numberline {1.6}Active and Passive microrheologie}{8}{section.1.6}
+\contentsline {section}{\numberline {1.7}Optical tweezer}{8}{section.1.7}
+\contentsline {section}{\numberline {1.8}Membrane Physics}{8}{section.1.8}
+\contentsline {section}{\numberline {1.9}Myosis (to move away)}{8}{section.1.9}
 \contentsline {chapter}{\numberline {2}Materials and methods}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Actin}{9}{section.2.1}
 \contentsline {section}{\numberline {2.2}Profiline}{9}{section.2.2}
@@ -39,4 +44,4 @@
 \contentsline {section}{\numberline {6.2}Doublets geometric parameter}{17}{section.6.2}
 \contentsline {subsection}{\numberline {6.2.1}Finding a single liposome}{19}{subsection.6.2.1}
 \contentsline {chapter}{\numberline {7}References}{21}{chapter.7}
-\contentsline {chapter}{Bibliography}{23}{chapter*.8}
+\contentsline {chapter}{Bibliography}{23}{chapter*.13}

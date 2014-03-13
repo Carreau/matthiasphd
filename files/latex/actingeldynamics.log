@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  12 MAR 2014 17:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  13 MAR 2014 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -927,7 +927,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 42.
  [1
 
 ])
@@ -991,6 +991,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [5]
+Overfull \hbox (87.60281pt too wide) in paragraph at lines 483--483
+ []\T1/ptm/b/n/10.95 Cap-ping Pro-tein[] [] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1011,11 +1015,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8
+[8]
+Chapter 2.
+[9
 
 ]
-Chapter 2.
-[9]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1059,15 +1063,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapter 6.
-<doublets-schema.png, id=330, 659.263pt x 558.888pt>
+<doublets-schema.png, id=335, 659.263pt x 558.888pt>
 File: doublets-schema.png Graphic file (type png)
  <use doublets-schema.png>
-Package pdftex.def Info: doublets-schema.png used on input line 690.
+Package pdftex.def Info: doublets-schema.png used on input line 730.
 (pdftex.def)             Requested size: 659.26138pt x 558.88663pt.
 File: doublets-schema.png Graphic file (type png)
 
 <use doublets-schema.png>
-Package pdftex.def Info: doublets-schema.png used on input line 690.
+Package pdftex.def Info: doublets-schema.png used on input line 730.
 (pdftex.def)             Requested size: 469.755pt x 398.23741pt.
  [17]
 
@@ -1077,26 +1081,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [18 <./doublets-schema.png>]
-<modl-2d-doublet.png, id=342, 654.0435pt x 213.9192pt>
+<modl-2d-doublet.png, id=347, 654.0435pt x 213.9192pt>
 File: modl-2d-doublet.png Graphic file (type png)
 
 <use modl-2d-doublet.png>
-Package pdftex.def Info: modl-2d-doublet.png used on input line 752.
+Package pdftex.def Info: modl-2d-doublet.png used on input line 792.
 (pdftex.def)             Requested size: 654.0419pt x 213.91867pt.
 File: modl-2d-doublet.png Graphic file (type png)
  <use modl-2d-doublet.png>
-Package pdftex.def Info: modl-2d-doublet.png used on input line 752.
+Package pdftex.def Info: modl-2d-doublet.png used on input line 792.
 (pdftex.def)             Requested size: 469.755pt x 153.64305pt.
 
-<corrfun-noise-.png, id=343, 624.4128pt x 521.0667pt>
+<corrfun-noise-.png, id=348, 624.4128pt x 521.0667pt>
 File: corrfun-noise-.png Graphic file (type png)
  <use corrfun-noise-.png>
-Package pdftex.def Info: corrfun-noise-.png used on input line 762.
+Package pdftex.def Info: corrfun-noise-.png used on input line 802.
 (pdftex.def)             Requested size: 624.41127pt x 521.06541pt.
 File: corrfun-noise-.png Graphic file (type png)
 
 <use corrfun-noise-.png>
-Package pdftex.def Info: corrfun-noise-.png used on input line 762.
+Package pdftex.def Info: corrfun-noise-.png used on input line 802.
 (pdftex.def)             Requested size: 469.755pt x 392.00758pt.
 
 
@@ -1126,41 +1130,41 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [22
 
 ]
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 786--788
+Overfull \hbox (23.82147pt too wide) in paragraph at lines 831--833
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=285
 1742&tool=pmcentrez&rendertype=abstract[][],
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 795--797
+Underfull \hbox (badness 6893) in paragraph at lines 840--842
 []\T1/ptm/m/n/10.95 Agnieszka Kawska, Kévin Car-valho, John Manzi, Ra-jaa
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 795--797
+Underfull \hbox (badness 5954) in paragraph at lines 840--842
 \T1/ptm/m/it/10.95 of Sci-ences of the United States of Amer-ica\T1/ptm/m/n/10.
 95 , 109(36):14440^^U5, Septem-ber 2012. [][]URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 801--803
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
 []\T1/ptm/m/n/10.95 Sapun H Parekh, Ovi-jit Chaud-huri,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 801--803
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
 \T1/ptm/m/n/10.95 Julie A The-riot, and Daniel A Fletcher. Load-ing his-tory de
 -ter-mines the ve-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 801--803
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
 \T1/ptm/m/n/10.95 loc-ity of actin-network growth.. \T1/ptm/m/it/10.95 Na-ture 
 cell bi-ol-ogy\T1/ptm/m/n/10.95 , 7(12):1219^^U23, De-cem-ber
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 801--803
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
 \T1/ptm/m/n/10.95 2005. [][]URL: http://www.nature.com.gate1.inist.fr/ncb/journ
 al/v7/n12/full/ncb1336.html
  []
@@ -1168,13 +1172,13 @@ al/v7/n12/full/ncb1336.html
 [23
 
 ]
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 804--806
+Overfull \hbox (23.82147pt too wide) in paragraph at lines 849--851
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=211
 4620&tool=pmcentrez&rendertype=abstract[][],
  []
 
 (./actingeldynamics.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 815.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 860.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1183,19 +1187,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 815.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 860.
  (./actingeldynamics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 815.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 815.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 860.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 860.
 Package rerunfilecheck Info: File `actingeldynamics.out' has not changed.
-(rerunfilecheck)             Checksum: 361CC9FA519AF7C730D0B4DE2B16AD33;2347.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 815.
+(rerunfilecheck)             Checksum: 206E167EDC8B6C9865BFE3188D292E2F;2348.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 860.
  ) 
 Here is how much of TeX's memory you used:
- 9704 strings out of 493488
- 137764 string characters out of 3141326
- 237939 words of memory out of 3000000
- 12651 multiletter control sequences out of 15000+200000
+ 9720 strings out of 493488
+ 138131 string characters out of 3141326
+ 238214 words of memory out of 3000000
+ 12662 multiletter control sequences out of 15000+200000
  62636 words of font info for 71 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
  36i,14n,48p,560b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1210,10 +1214,10 @@ e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
 dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts
 /type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw
 /times/utmri8a.pfb>
-Output written on actingeldynamics.pdf (28 pages, 775107 bytes).
+Output written on actingeldynamics.pdf (28 pages, 777630 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
- 413 compressed objects within 5 object streams
- 98 named destinations out of 1000 (max. 500000)
+ 476 PDF objects out of 1000 (max. 8388607)
+ 419 compressed objects within 5 object streams
+ 103 named destinations out of 1000 (max. 500000)
  337 words of extra memory for PDF output out of 10000 (max. 10000000)
 
