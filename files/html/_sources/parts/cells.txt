@@ -235,7 +235,7 @@ numbers of parameter that we have already introduce, the formation of an actin
 network is a even more complex process that involve many other components.
 Especially, actin monomers and filament can interact with a high number of
 proteins that will effect previously established dynamics.  We will present
-some categories of such preoteins.
+some categories of such proteins.
 
 Polymerase family
 """""""""""""""""
@@ -246,10 +246,10 @@ polymerisation of actin. In the right condition, polymerase will increase the
 actin monomers. This can lead to an average longer filament length.
 
 
-`Formins` Are one of those polymerase proteins that will
-increase the polymerisation rate at the barbed end. It has the particularity of
-being processive, meeting that it will stay bound to the barbed and while
-catalysing the addition on new monomers. 
+`Formins` Are one of those polymerase proteins that will increase the
+polymerisation rate at the barbed end. It has the particularity of being
+processive, meeting that it will stay bound to the barbed and while catalysing
+the addition on new monomers. We will see that the processivity of formins also 
 
 
 Crosslinkers
