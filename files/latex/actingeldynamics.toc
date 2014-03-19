@@ -1,0 +1,48 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Background}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Living Cells}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The Cell Cytoskeleton}{3}{subsection.1.2.1}
+\contentsline {subsubsection}{Microtubules}{4}{subsubsection*.3}
+\contentsline {subsubsection}{Intermediate filaments}{4}{subsubsection*.4}
+\contentsline {subsubsection}{Actin}{4}{subsubsection*.5}
+\contentsline {paragraph}{Dynamic of actin polymerisation}{5}{paragraph*.6}
+\contentsline {paragraph}{Proteins influencing actin polymerisation}{6}{paragraph*.7}
+\contentsline {subparagraph}{Polymerase and polymerase family}{6}{subparagraph*.8}
+\contentsline {subparagraph}{Actin depolymerisation and severing}{6}{subparagraph*.9}
+\contentsline {subparagraph}{Capping Protein}{6}{subparagraph*.10}
+\contentsline {subparagraph}{Crosslinkers}{7}{subparagraph*.11}
+\contentsline {subparagraph}{Stabilising actin filaments}{7}{subparagraph*.12}
+\contentsline {subparagraph}{Molecular Motor}{7}{subparagraph*.13}
+\contentsline {subparagraph}{Latrunculin}{7}{subparagraph*.14}
+\contentsline {subparagraph}{Profilin}{7}{subparagraph*.15}
+\contentsline {subparagraph}{Nucleation promoting factory}{8}{subparagraph*.16}
+\contentsline {subparagraph}{Branching Agent}{8}{subparagraph*.17}
+\contentsline {subsection}{\numberline {1.2.2}TODO}{8}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Cell Organelle}{9}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}The Role Of Actin Cytoskeletton}{10}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Cell Motility}{10}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}The actin cortex}{10}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Organelle Positioning (actin cloud)}{10}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Nuclear positionning during miosis}{10}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}In vitro reconstituted actin networks}{10}{section.1.4}
+\contentsline {chapter}{\numberline {2}Liposomes}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Actin networks as viscoelastic material}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Active and Passive microrheology}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Optical tweezer}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}Membrane Physics}{11}{section.2.4}
+\contentsline {section}{\numberline {2.5}Myosis (to move away)}{11}{section.2.5}
+\contentsline {chapter}{\numberline {3}Materials and methods}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Actin}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Profiline}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}Arp2/3}{13}{section.3.3}
+\contentsline {section}{\numberline {3.4}Bead Motility}{13}{section.3.4}
+\contentsline {section}{\numberline {3.5}3D fitting}{13}{section.3.5}
+\contentsline {section}{\numberline {3.6}?? ?? ??}{13}{section.3.6}
+\contentsline {chapter}{\numberline {4}Results}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Actin Cloud}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Doublets}{15}{section.4.2}
+\contentsline {section}{\numberline {4.3}Oocytes}{15}{section.4.3}
+\contentsline {chapter}{\numberline {5}Discussion}{17}{chapter.5}
+\contentsline {chapter}{\numberline {6}References}{19}{chapter.6}
+\contentsline {chapter}{Bibliography}{21}{chapter*.19}
