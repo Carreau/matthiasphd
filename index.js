@@ -10,6 +10,12 @@ var auth = express.basicAuth(function(user,pass) {
 });
 
 app.use('/', auth)
+app.use('/',function(req, res, next){
+      if(req.url === '/'){
+        res.redirect('/html');
+      }
+      next();
+});
 app.use('/', express.static(__dirname + '/files'));
 console.log(__dirname + '/files/');
 
