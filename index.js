@@ -16,6 +16,8 @@ app.use('/',function(req, res, next){
       }
       next();
 });
+app.use('/latex', express.directory(__dirname+'/files/latex'));
+//app.use('/epub', express.directory(__dirname+'/files/epub'));
 app.use('/', express.static(__dirname + '/files'));
 console.log(__dirname + '/files/');
 
