@@ -35,9 +35,9 @@
 %
 \renewcommand{\maketitle}{%
   \begin{titlepage}%
-    \setcounter{page}{3}
     \let\footnotesize\small
     \let\footnoterule\relax
+    \rule{\textwidth}{1pt}%
     \ifsphinxpdfoutput
       \begingroup
       % These \defs are required to deal with multi-line authors; it
@@ -60,9 +60,9 @@
           \@author
         \end{tabular}
         \par}
-      \vfill
+      \vfill\vfill
       {\large
-       August 2012 \par
+       \@date \par
        \vfill
        \py@authoraddress \par
       }%
@@ -97,7 +97,9 @@
 \let\py@OldTableofcontents=\tableofcontents
 \renewcommand{\tableofcontents}{%
   \pagenumbering{roman}%
+  \setcounter{page}{1}%
   \pagebreak%
+  \pagestyle{plain}%
   {%
     \parskip = 0mm%
     \py@OldTableofcontents%
@@ -109,7 +111,7 @@
     \fi%
     \cleardoublepage%
   }%
-  %
+  \pagenumbering{arabic}%
   \@ifundefined{fancyhf}{}{\pagestyle{normal}}%
 }
 \pagenumbering{alph}

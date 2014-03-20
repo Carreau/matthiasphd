@@ -1,48 +1,115 @@
 \select@language {english}
-\contentsline {chapter}{\numberline {1}Background}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Living Cells}{2}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}The Cell Cytoskeleton}{3}{subsection.1.2.1}
-\contentsline {subsubsection}{Microtubules}{4}{subsubsection*.3}
-\contentsline {subsubsection}{Intermediate filaments}{4}{subsubsection*.4}
-\contentsline {subsubsection}{Actin}{4}{subsubsection*.5}
-\contentsline {paragraph}{Dynamic of actin polymerisation}{5}{paragraph*.6}
-\contentsline {paragraph}{Proteins influencing actin polymerisation}{6}{paragraph*.7}
-\contentsline {subparagraph}{Polymerase and polymerase family}{6}{subparagraph*.8}
-\contentsline {subparagraph}{Actin depolymerisation and severing}{6}{subparagraph*.9}
-\contentsline {subparagraph}{Capping Protein}{6}{subparagraph*.10}
-\contentsline {subparagraph}{Crosslinkers}{7}{subparagraph*.11}
-\contentsline {subparagraph}{Stabilising actin filaments}{7}{subparagraph*.12}
-\contentsline {subparagraph}{Molecular Motor}{7}{subparagraph*.13}
-\contentsline {subparagraph}{Latrunculin}{7}{subparagraph*.14}
-\contentsline {subparagraph}{Profilin}{7}{subparagraph*.15}
-\contentsline {subparagraph}{Nucleation promoting factory}{8}{subparagraph*.16}
-\contentsline {subparagraph}{Branching Agent}{8}{subparagraph*.17}
-\contentsline {subsection}{\numberline {1.2.2}TODO}{8}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Cell Organelle}{9}{subsection.1.2.3}
-\contentsline {section}{\numberline {1.3}The Role Of Actin Cytoskeletton}{10}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Cell Motility}{10}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}The actin cortex}{10}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Organelle Positioning (actin cloud)}{10}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Nuclear positionning during miosis}{10}{subsection.1.3.4}
-\contentsline {section}{\numberline {1.4}In vitro reconstituted actin networks}{10}{section.1.4}
-\contentsline {chapter}{\numberline {2}Liposomes}{11}{chapter.2}
-\contentsline {section}{\numberline {2.1}Actin networks as viscoelastic material}{11}{section.2.1}
-\contentsline {section}{\numberline {2.2}Active and Passive microrheology}{11}{section.2.2}
-\contentsline {section}{\numberline {2.3}Optical tweezer}{11}{section.2.3}
-\contentsline {section}{\numberline {2.4}Membrane Physics}{11}{section.2.4}
-\contentsline {section}{\numberline {2.5}Myosis (to move away)}{11}{section.2.5}
-\contentsline {chapter}{\numberline {3}Materials and methods}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1}Actin}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}Profiline}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Arp2/3}{13}{section.3.3}
-\contentsline {section}{\numberline {3.4}Bead Motility}{13}{section.3.4}
-\contentsline {section}{\numberline {3.5}3D fitting}{13}{section.3.5}
-\contentsline {section}{\numberline {3.6}?? ?? ??}{13}{section.3.6}
-\contentsline {chapter}{\numberline {4}Results}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Actin Cloud}{15}{section.4.1}
-\contentsline {section}{\numberline {4.2}Doublets}{15}{section.4.2}
-\contentsline {section}{\numberline {4.3}Oocytes}{15}{section.4.3}
-\contentsline {chapter}{\numberline {5}Discussion}{17}{chapter.5}
-\contentsline {chapter}{\numberline {6}References}{19}{chapter.6}
-\contentsline {chapter}{Bibliography}{21}{chapter*.19}
+\contentsline {chapter}{\numberline {1}Background}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Living Cells}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Oocyte}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Cell Organelles}{5}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}The Cytoskeleton}{7}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}The Role And Composition Of The Cytoskeleton}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Composition of cell cytoskeleton}{8}{subsection.1.4.1}
+\contentsline {subsubsection}{Dynamics of actin polymerisation}{9}{subsubsection*.4}
+\contentsline {subsubsection}{Actin network can be controlled by a host of actin binding proteins}{11}{subsubsection*.5}
+\contentsline {paragraph}{Formins}{11}{paragraph*.6}
+\contentsline {paragraph}{Actin depolymerization and severing}{11}{paragraph*.7}
+\contentsline {paragraph}{Capping Protein}{12}{paragraph*.8}
+\contentsline {paragraph}{Cross-linkers}{12}{paragraph*.9}
+\contentsline {paragraph}{Stabilizing actin filaments}{12}{paragraph*.10}
+\contentsline {paragraph}{Profilin}{13}{paragraph*.11}
+\contentsline {paragraph}{Branching Agent}{13}{paragraph*.12}
+\contentsline {paragraph}{Molecular Motor}{14}{paragraph*.13}
+\contentsline {subparagraph}{Myosin II}{14}{subparagraph*.14}
+\contentsline {subparagraph}{Myosin V}{16}{subparagraph*.15}
+\contentsline {subparagraph}{Myosin cycle}{16}{subparagraph*.16}
+\contentsline {subsection}{\numberline {1.4.2}The actin cortex}{17}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Cell Motility}{18}{subsection.1.4.3}
+\contentsline {subsubsection}{Lamellipodium based Motility}{18}{subsubsection*.17}
+\contentsline {subsubsection}{Blebbing based Motility}{20}{subsubsection*.18}
+\contentsline {subsection}{\numberline {1.4.4}Organelle Positioning}{23}{subsection.1.4.4}
+\contentsline {section}{\numberline {1.5}In vitro reconstituted actin networks}{23}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Bead motility assay}{24}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Liposomes}{26}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Membrane Physics}{27}{section.1.6}
+\contentsline {section}{\numberline {1.7}Actin networks as viscoelastic material}{28}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Elastics Modulus}{29}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Poisson Ratio}{31}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Viscosity}{31}{subsection.1.7.3}
+\contentsline {subsection}{\numberline {1.7.4}Viscoelastic}{31}{subsection.1.7.4}
+\contentsline {section}{\numberline {1.8}Optical tweezer}{33}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Determination of force and displacement on bead}{34}{subsection.1.8.1}
+\contentsline {chapter}{\numberline {2}Materials and methods}{37}{chapter.2}
+\contentsline {section}{\numberline {2.1}Buffers}{37}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}G Buffer}{37}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Polymerisation Buffer}{37}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}X Buffer with BSA}{38}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}ATP Mix Buffer}{38}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Protein preparation}{38}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}pWA}{38}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Actin}{38}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}profiline}{38}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Arp2/3}{39}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Capping protein}{39}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Myosin II}{39}{subsection.2.2.6}
+\contentsline {section}{\numberline {2.3}Lipids, reagent and proteins}{39}{section.2.3}
+\contentsline {section}{\numberline {2.4}doublets preparation}{40}{section.2.4}
+\contentsline {section}{\numberline {2.5}Bead Preparation}{40}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Actin-Bead Preparation}{40}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Probe Bead Preparation}{40}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Force indentation experiments}{41}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Preparation of sample}{41}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}QPD positioning and calibration of microscope}{41}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Initial bead trapping}{41}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Indentations}{42}{subsection.2.6.4}
+\contentsline {section}{\numberline {2.7}Time Shared Optical Trap}{44}{section.2.7}
+\contentsline {section}{\numberline {2.8}Oocyte}{46}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}Oocyte obtention}{46}{subsection.2.8.1}
+\contentsline {chapter}{\numberline {3}Mechanical properties of a far reaching actin cloud}{47}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{47}{section.3.1}
+\contentsline {section}{\numberline {3.2}Actin-Bead System}{48}{section.3.2}
+\contentsline {section}{\numberline {3.3}Probe Bead System}{51}{section.3.3}
+\contentsline {section}{\numberline {3.4}Experimental description}{52}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Approach Phase}{52}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Relaxation Phase}{52}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Retraction part}{54}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Reconstitution of Force-distance-curve}{54}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Repetitive indent}{55}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Effect of approach speed}{55}{subsection.3.4.6}
+\contentsline {section}{\numberline {3.5}Experimental observations}{58}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Approach phase modeling}{60}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Variation of parameters with Capping Protein}{62}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Determination of Young's Modulus}{65}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Mechanical properties}{67}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.5}Interpretation}{69}{subsection.3.5.5}
+\contentsline {section}{\numberline {3.6}Relaxation phase}{72}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Retraction Phase}{76}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.7}Discussion}{78}{section.3.7}
+\contentsline {chapter}{\numberline {4}Liposomes Doublets}{81}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{81}{section.4.1}
+\contentsline {section}{\numberline {4.2}Experimental description}{81}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Formation of liposomes doublets}{81}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Formation of actin cortex on doublets}{82}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Visualisation of the interface}{82}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Geometrical parameters}{82}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Experimental Observations}{85}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Effect of myosin injection}{85}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Relation between the angles and tension}{86}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Contact angle dispersion}{87}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Tension of actin-shell}{87}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}3D observation}{87}{section.4.4}
+\contentsline {section}{\numberline {4.5}Discussion}{92}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Cortical tension is homogeneous for single doublet}{92}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Relative increase in cortical tension}{92}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Cortical tension increase in doublets and in cells}{92}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Different contributions for cortical tension}{93}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}Conclusion}{93}{subsection.4.5.5}
+\contentsline {section}{\numberline {4.6}3D fitting}{94}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}First step: Finding a single liposome}{94}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Fitting a doublet}{98}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Discussion}{104}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Conclusion}{105}{subsection.4.6.4}
+\contentsline {chapter}{\numberline {5}Activity in oocyte cytoplasm}{107}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{107}{section.5.1}
+\contentsline {section}{\numberline {5.2}OOcytes}{107}{section.5.2}
+\contentsline {section}{\numberline {5.3}Measure of activity}{107}{section.5.3}
+\contentsline {section}{\numberline {5.4}Conclusion}{111}{section.5.4}
+\contentsline {chapter}{\numberline {6}Conclusion}{113}{chapter.6}
+\contentsline {chapter}{Bibliography}{115}{chapter*.34}

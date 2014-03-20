@@ -1,32 +1,99 @@
 \BOOKMARK [0][-]{chapter.1}{Background}{}% 1
 \BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 2
 \BOOKMARK [1][-]{section.1.2}{Living Cells}{chapter.1}% 3
-\BOOKMARK [2][-]{subsection.1.2.1}{The Cell Cytoskeleton}{section.1.2}% 4
-\BOOKMARK [2][-]{subsection.1.2.2}{TODO}{section.1.2}% 5
-\BOOKMARK [2][-]{subsection.1.2.3}{Cell Organelle}{section.1.2}% 6
-\BOOKMARK [1][-]{section.1.3}{The Role Of Actin Cytoskeletton}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.3.1}{Cell Motility}{section.1.3}% 8
-\BOOKMARK [2][-]{subsection.1.3.2}{The actin cortex}{section.1.3}% 9
-\BOOKMARK [2][-]{subsection.1.3.3}{Organelle Positioning \(actin cloud\)}{section.1.3}% 10
-\BOOKMARK [2][-]{subsection.1.3.4}{Nuclear positionning during miosis}{section.1.3}% 11
-\BOOKMARK [1][-]{section.1.4}{In vitro reconstituted actin networks}{chapter.1}% 12
-\BOOKMARK [0][-]{chapter.2}{Liposomes}{}% 13
-\BOOKMARK [1][-]{section.2.1}{Actin networks as viscoelastic material}{chapter.2}% 14
-\BOOKMARK [1][-]{section.2.2}{Active and Passive microrheology}{chapter.2}% 15
-\BOOKMARK [1][-]{section.2.3}{Optical tweezer}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.4}{Membrane Physics}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.5}{Myosis \(to move away\)}{chapter.2}% 18
-\BOOKMARK [0][-]{chapter.3}{Materials and methods}{}% 19
-\BOOKMARK [1][-]{section.3.1}{Actin}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.2}{Profiline}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.3}{Arp2/3}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.4}{Bead Motility}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.5}{3D fitting}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.6}{?? ?? ??}{chapter.3}% 25
-\BOOKMARK [0][-]{chapter.4}{Results}{}% 26
-\BOOKMARK [1][-]{section.4.1}{Actin Cloud}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.2}{Doublets}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.3}{Oocytes}{chapter.4}% 29
-\BOOKMARK [0][-]{chapter.5}{Discussion}{}% 30
-\BOOKMARK [0][-]{chapter.6}{References}{}% 31
-\BOOKMARK [0][-]{chapter*.19}{Bibliography}{}% 32
+\BOOKMARK [1][-]{section.1.3}{Oocyte}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.3.1}{Cell Organelles}{section.1.3}% 5
+\BOOKMARK [2][-]{subsection.1.3.2}{The Cytoskeleton}{section.1.3}% 6
+\BOOKMARK [1][-]{section.1.4}{The Role And Composition Of The Cytoskeleton}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.4.1}{Composition of cell cytoskeleton}{section.1.4}% 8
+\BOOKMARK [2][-]{subsection.1.4.2}{The actin cortex}{section.1.4}% 9
+\BOOKMARK [2][-]{subsection.1.4.3}{Cell Motility}{section.1.4}% 10
+\BOOKMARK [2][-]{subsection.1.4.4}{Organelle Positioning}{section.1.4}% 11
+\BOOKMARK [1][-]{section.1.5}{In vitro reconstituted actin networks}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.5.1}{Bead motility assay}{section.1.5}% 13
+\BOOKMARK [2][-]{subsection.1.5.2}{Liposomes}{section.1.5}% 14
+\BOOKMARK [1][-]{section.1.6}{Membrane Physics}{chapter.1}% 15
+\BOOKMARK [1][-]{section.1.7}{Actin networks as viscoelastic material}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.7.1}{Elastics Modulus}{section.1.7}% 17
+\BOOKMARK [2][-]{subsection.1.7.2}{Poisson Ratio}{section.1.7}% 18
+\BOOKMARK [2][-]{subsection.1.7.3}{Viscosity}{section.1.7}% 19
+\BOOKMARK [2][-]{subsection.1.7.4}{Viscoelastic}{section.1.7}% 20
+\BOOKMARK [1][-]{section.1.8}{Optical tweezer}{chapter.1}% 21
+\BOOKMARK [2][-]{subsection.1.8.1}{Determination of force and displacement on bead}{section.1.8}% 22
+\BOOKMARK [0][-]{chapter.2}{Materials and methods}{}% 23
+\BOOKMARK [1][-]{section.2.1}{Buffers}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.1.1}{G Buffer}{section.2.1}% 25
+\BOOKMARK [2][-]{subsection.2.1.2}{Polymerisation Buffer}{section.2.1}% 26
+\BOOKMARK [2][-]{subsection.2.1.3}{X Buffer with BSA}{section.2.1}% 27
+\BOOKMARK [2][-]{subsection.2.1.4}{ATP Mix Buffer}{section.2.1}% 28
+\BOOKMARK [1][-]{section.2.2}{Protein preparation}{chapter.2}% 29
+\BOOKMARK [2][-]{subsection.2.2.1}{pWA}{section.2.2}% 30
+\BOOKMARK [2][-]{subsection.2.2.2}{Actin}{section.2.2}% 31
+\BOOKMARK [2][-]{subsection.2.2.3}{profiline}{section.2.2}% 32
+\BOOKMARK [2][-]{subsection.2.2.4}{Arp2/3}{section.2.2}% 33
+\BOOKMARK [2][-]{subsection.2.2.5}{Capping protein}{section.2.2}% 34
+\BOOKMARK [2][-]{subsection.2.2.6}{Myosin II}{section.2.2}% 35
+\BOOKMARK [1][-]{section.2.3}{Lipids, reagent and proteins}{chapter.2}% 36
+\BOOKMARK [1][-]{section.2.4}{doublets preparation}{chapter.2}% 37
+\BOOKMARK [1][-]{section.2.5}{Bead Preparation}{chapter.2}% 38
+\BOOKMARK [2][-]{subsection.2.5.1}{Actin-Bead Preparation}{section.2.5}% 39
+\BOOKMARK [2][-]{subsection.2.5.2}{Probe Bead Preparation}{section.2.5}% 40
+\BOOKMARK [1][-]{section.2.6}{Force indentation experiments}{chapter.2}% 41
+\BOOKMARK [2][-]{subsection.2.6.1}{Preparation of sample}{section.2.6}% 42
+\BOOKMARK [2][-]{subsection.2.6.2}{QPD positioning and calibration of microscope}{section.2.6}% 43
+\BOOKMARK [2][-]{subsection.2.6.3}{Initial bead trapping}{section.2.6}% 44
+\BOOKMARK [2][-]{subsection.2.6.4}{Indentations}{section.2.6}% 45
+\BOOKMARK [1][-]{section.2.7}{Time Shared Optical Trap}{chapter.2}% 46
+\BOOKMARK [1][-]{section.2.8}{Oocyte}{chapter.2}% 47
+\BOOKMARK [2][-]{subsection.2.8.1}{Oocyte obtention}{section.2.8}% 48
+\BOOKMARK [0][-]{chapter.3}{Mechanical properties of a far reaching actin cloud}{}% 49
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 50
+\BOOKMARK [1][-]{section.3.2}{Actin-Bead System}{chapter.3}% 51
+\BOOKMARK [1][-]{section.3.3}{Probe Bead System}{chapter.3}% 52
+\BOOKMARK [1][-]{section.3.4}{Experimental description}{chapter.3}% 53
+\BOOKMARK [2][-]{subsection.3.4.1}{Approach Phase}{section.3.4}% 54
+\BOOKMARK [2][-]{subsection.3.4.2}{Relaxation Phase}{section.3.4}% 55
+\BOOKMARK [2][-]{subsection.3.4.3}{Retraction part}{section.3.4}% 56
+\BOOKMARK [2][-]{subsection.3.4.4}{Reconstitution of Force-distance-curve}{section.3.4}% 57
+\BOOKMARK [2][-]{subsection.3.4.5}{Repetitive indent}{section.3.4}% 58
+\BOOKMARK [2][-]{subsection.3.4.6}{Effect of approach speed}{section.3.4}% 59
+\BOOKMARK [1][-]{section.3.5}{Experimental observations}{chapter.3}% 60
+\BOOKMARK [2][-]{subsection.3.5.1}{Approach phase modeling}{section.3.5}% 61
+\BOOKMARK [2][-]{subsection.3.5.2}{Variation of parameters with Capping Protein}{section.3.5}% 62
+\BOOKMARK [2][-]{subsection.3.5.3}{Determination of Young's Modulus}{section.3.5}% 63
+\BOOKMARK [2][-]{subsection.3.5.4}{Mechanical properties}{section.3.5}% 64
+\BOOKMARK [2][-]{subsection.3.5.5}{Interpretation}{section.3.5}% 65
+\BOOKMARK [1][-]{section.3.6}{Relaxation phase}{chapter.3}% 66
+\BOOKMARK [2][-]{subsection.3.6.1}{Retraction Phase}{section.3.6}% 67
+\BOOKMARK [1][-]{section.3.7}{Discussion}{chapter.3}% 68
+\BOOKMARK [0][-]{chapter.4}{Liposomes Doublets}{}% 69
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 70
+\BOOKMARK [1][-]{section.4.2}{Experimental description}{chapter.4}% 71
+\BOOKMARK [2][-]{subsection.4.2.1}{Formation of liposomes doublets}{section.4.2}% 72
+\BOOKMARK [2][-]{subsection.4.2.2}{Formation of actin cortex on doublets}{section.4.2}% 73
+\BOOKMARK [2][-]{subsection.4.2.3}{Visualisation of the interface}{section.4.2}% 74
+\BOOKMARK [2][-]{subsection.4.2.4}{Geometrical parameters}{section.4.2}% 75
+\BOOKMARK [1][-]{section.4.3}{Experimental Observations}{chapter.4}% 76
+\BOOKMARK [2][-]{subsection.4.3.1}{Effect of myosin injection}{section.4.3}% 77
+\BOOKMARK [2][-]{subsection.4.3.2}{Relation between the angles and tension}{section.4.3}% 78
+\BOOKMARK [2][-]{subsection.4.3.3}{Contact angle dispersion}{section.4.3}% 79
+\BOOKMARK [2][-]{subsection.4.3.4}{Tension of actin-shell}{section.4.3}% 80
+\BOOKMARK [1][-]{section.4.4}{3D observation}{chapter.4}% 81
+\BOOKMARK [1][-]{section.4.5}{Discussion}{chapter.4}% 82
+\BOOKMARK [2][-]{subsection.4.5.1}{Cortical tension is homogeneous for single doublet}{section.4.5}% 83
+\BOOKMARK [2][-]{subsection.4.5.2}{Relative increase in cortical tension}{section.4.5}% 84
+\BOOKMARK [2][-]{subsection.4.5.3}{Cortical tension increase in doublets and in cells}{section.4.5}% 85
+\BOOKMARK [2][-]{subsection.4.5.4}{Different contributions for cortical tension}{section.4.5}% 86
+\BOOKMARK [2][-]{subsection.4.5.5}{Conclusion}{section.4.5}% 87
+\BOOKMARK [1][-]{section.4.6}{3D fitting}{chapter.4}% 88
+\BOOKMARK [2][-]{subsection.4.6.1}{First step: Finding a single liposome}{section.4.6}% 89
+\BOOKMARK [2][-]{subsection.4.6.2}{Fitting a doublet}{section.4.6}% 90
+\BOOKMARK [2][-]{subsection.4.6.3}{Discussion}{section.4.6}% 91
+\BOOKMARK [2][-]{subsection.4.6.4}{Conclusion}{section.4.6}% 92
+\BOOKMARK [0][-]{chapter.5}{Activity in oocyte cytoplasm}{}% 93
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 94
+\BOOKMARK [1][-]{section.5.2}{OOcytes}{chapter.5}% 95
+\BOOKMARK [1][-]{section.5.3}{Measure of activity}{chapter.5}% 96
+\BOOKMARK [1][-]{section.5.4}{Conclusion}{chapter.5}% 97
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 98
+\BOOKMARK [0][-]{chapter*.34}{Bibliography}{}% 99
