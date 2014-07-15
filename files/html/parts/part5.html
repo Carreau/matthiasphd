@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Activity in oocyte cytoplasm &mdash; Actin gel dynamics:Matthias Bussonnier</title>
+    <title>Active cytoplasm movement in mouse oocytes &mdash; Actin gel dynamics:Matthias Bussonnier</title>
     
     <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
@@ -26,7 +26,7 @@
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="top" title="Actin gel dynamics:Matthias Bussonnier" href="../index.html" />
     <link rel="next" title="Conclusion" href="conclusion.html" />
-    <link rel="prev" title="Liposomes Doublets" href="part4.html" />
+    <link rel="prev" title="Cortical tension measured on liposome doublets" href="part4.html" />
  
 
 <!-- Google Scholar metadata -->
@@ -149,18 +149,27 @@ background-image:none;
         margin-top: 30px;
     }
 
+    td.label {
+        width:300px;
+        text-align:right;
+    }
+
+    p.caption {
+        text-indent: 0;
+    }
+
 </style>
 
   </head>
   <body>
       <div class="header"><h1 class="heading"><a href="../index.html">
           <span>Actin gel dynamics:Matthias Bussonnier</span></a></h1>
-        <h2 class="heading"><span>Activity in oocyte cytoplasm</span></h2>
+        <h2 class="heading"><span>Active cytoplasm movement in mouse oocytes</span></h2>
       </div>
       <div class="topnav">
       
         <p>
-        «&#160;&#160;<a href="part4.html">Liposomes Doublets</a>
+        «&#160;&#160;<a href="part4.html">Cortical tension measured on liposome doublets</a>
         &#160;&#160;::&#160;&#160;
         <a class="uplink" href="../index.html">Contents</a>
         &#160;&#160;::&#160;&#160;
@@ -172,128 +181,138 @@ background-image:none;
         
         
 
-  <div class="section" id="activity-in-oocyte-cytoplasm">
-<h1>Activity in oocyte cytoplasm<a class="headerlink" href="#activity-in-oocyte-cytoplasm" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="active-cytoplasm-movement-in-mouse-oocytes">
+<h1>Active cytoplasm movement in mouse oocytes<a class="headerlink" href="#active-cytoplasm-movement-in-mouse-oocytes" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="introduction">
 <h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
-<p>Mouse oocyte are big spherical cell with a diameter in the order of 80 µm.  It
-ha been shown that the spindle positioning during meiotic division of oocyte is
-dependant of an actin meshwork present in the cell <a class="reference internal" href="../index.html#schuh2008" id="id1">[Schuh, Ellenberg,  2008]</a>.  This
-actin meshwork is regulated by endogenous vesicle which dynamic is myosin-Vb
-dependant <a class="reference internal" href="../index.html#holubcova2013" id="id2">[Holubcova, Howard, Schuh,  2013]</a>. In a collaboration with Marie-Hélène Verhlac
-and Maria Almonacid in Collège de France, we designed a way to  measure
+<p>Mouse oocyte are big spherical cells with a diameter of about 80 µm.  Previous work has shown
+that the spindle positioning during meiotic cell division in oocytes depends
+on an actin meshwork that is present in the cell&#8217;s cytoplasm <a class="reference internal" href="../index.html#schuh2008" id="id1">[Schuh, Ellenberg,  2008]</a>.  This
+actin meshwork is regulated by formin that is localized to endogenous vesicles.
+Additionally, these vesicles recruit the myosin-Vb motor protein, that are know do drive the active movement
+of the vesicles in the cytoplasm <a class="reference internal" href="../index.html#holubcova2013" id="id2">[Holubcova, Howard, Schuh,  2013]</a>. In a collaborative project with the group of Marie-Hélène Verlhac
+and her Postdoc Maria Almonacid at the Collège de France, I designed a way to measure
 cytoplasmic activity in mouse oocyte.</p>
-<p><a class="pageref" href="#oocytewt">Figure  1</a> shows a mouse
-oocyte where the nucleus can be seen positioned at the center of the cell.</p>
+<p>In <a class="pageref" href="#oocytewt">figure  1</a> a typical mouse
+oocyte is presented where the nucleus can be seen to be positioned at the center of the cell.
+Current questions in this system relate to the mechanical processes during meiosis such as the chromosome migration,
+the asymmetric cell division and the positioning of organelles by the dynamic remodelling of the actin network.
+While our team did active and passive microrheology measurements on the timescales or 10 seconds, I developed a
+method that is suitable for longer timescales in the order of minutes, that are more relevant for the process of meiosis.</p>
 <div class="figure" id="oocytewt">
 <a class="reference internal image-reference" href="../_images/oocyte-wild-type.png"><img alt="&quot;Bright field image of an oocyte&quot;" src="../_images/oocyte-wild-type.png" style="width: 60%;" /></a>
-<p class="caption">Figure 1: Bright field image of a mouse oocyte before meiosis. Cell diameter is of
-80µm. The nucleus can be clearly seen at the center of the cell. The
-nucleus is positioned at the center of the oocyte during Meiosis I by the
-help of the actin network. The positioning is a crucial factor for the
-normal division of the oocyte.  Oocytes are a good reference system  by
-their symmetry and their sufficient size that help measuring spatial
-variation of mechanical properties.  Image Credit to Maria Almonacid from
-Collège de France.</p>
+<p class="caption">Figure 1: Bright field image of a mouse oocyte before meiosis (scale bar is 20 µm).
+The cell diameter is about 80µm. The nucleus is positioned at the center of
+the oocyte during meiosis I by the help of the actin network. The
+positioning is a crucial factor for the normal division of the oocyte. The
+oocytes are a good reference system as they provide a clean spherical
+symmetry and due to their size give a good spatial differences between the
+cortex and the cytosol which helps in measuring spatial variations of
+mechanical properties and vesicle movement.  Image Credit to Maria
+Almonacid, Collège de France.</p>
 </div>
 </div>
 <div class="section" id="oocytes">
-<h2>OOcytes<a class="headerlink" href="#oocytes" title="Permalink to this headline">¶</a></h2>
-<p>As oocyte meshwork in oocyte is controlled by the activity of formins than
-drive actin polymerisation and Myosins Vb that controlled the dynamism of the
-vesicle in the meshwork, we decided to develop the analysis in 3 type oocytes.
-Wild types oocyte, oocyte preleved on Formin 2 invalidated female that lack the
-actin meshwork and oocytes injected  with the dominant-negative tail of Myosin
-Vb (<a class="pageref" href="#fig3oo">Fig  2</a>)</p>
+<h2>Oocytes<a class="headerlink" href="#oocytes" title="Permalink to this headline">¶</a></h2>
+<p>The cytosolic actin meshwork in oocytes is controlled by the activity of formins (Fmn2) that
+nucleate actin polymerisation and by the activity of the vesicle bound molecular motor protein myosin Vb that
+controls the dynamic movement of the
+vesicles in the actin meshwork. Hence it is of interest to study oocytes that have formin and myosin Vb deficits.
+In particular, we focused on three types: 1) Wild types oocyte, 2) oocytes prepared from Formin 2 invalidated female
+(Fnm2-/-) that lack the
+actin meshwork and 3) oocytes injected with the RNA coding for the dominant-negative tail of Myosin
+Vb (<a class="pageref" href="#fig3oo">Fig  2</a>), thus replacing the active myosin Vb on the vesicles.</p>
 <div class="figure" id="fig3oo">
 <a class="reference internal image-reference" href="../_images/3-oocytes.png"><img alt="../_images/3-oocytes.png" src="../_images/3-oocytes.png" style="width: 100%;" /></a>
-<p class="caption">Figure 2: Bright field image microscopy of the 3 kinds of oocyte (Credit to Maria
-Almonacid, Collège de France). WT) Image of Wild Type OOcyte, Scalebar is
+<p class="caption">Figure 2: Bright field image microscopy of the 3 kinds of oocytes (Credit to Maria
+Almonacid, Collège de France). WT) Image of Wild Type Oocyte, Scale bar is
 20µm. Fmn2-/-) Oocytes extracted from females with invalidated Formin 2,
 theses oocytes lack the actin meshwork. MyosinVb Tails) Oocyte injected
-with a Myosin Vb dominant negative tail have a less actin vesicle
-population.</p>
+with the RNA coding for Myosin Vb dominant negative tails. These cells have a less active vesicle
+population. The white square gives an example of the region that is used for the analysis presented in this chapter.</p>
 </div>
 </div>
 <div class="section" id="measure-of-activity">
 <h2>Measure of activity<a class="headerlink" href="#measure-of-activity" title="Permalink to this headline">¶</a></h2>
-<p>The diffusion of actin positive vesicle ta can be seen during oocyte meiosis is
-less important in Formin -/- and MyosinVb-tails oocytes than in Wild type.
-While particle tracking with the vesicle present in oocyte is possible, it is a
-complex process especially with the diffusion of vesicle outside the focal
-plane of the microscope. In order to measure the activity we thus decided to
-investigate the variations of the bright field images in mouse oocyte.</p>
-<p>We can compute the difference between  region of interest (ROI) of images as a
-function of time to see how fast the bright field image changes. We can compare
-the result for wild type (<a class="pageref" href="#decay-wt">Fig  3</a>), Formin Knockout (<a class="pageref" href="#decay-fmn2">Fig  5</a>) and MyosinVb dominant negative tail (<a class="pageref" href="#decay-myo">Fig  4</a>).</p>
-<div class="figure" id="decay-wt">
-<a class="reference internal image-reference" href="../_images/decay-wt.png"><img alt="../_images/decay-wt.png" src="../_images/decay-wt.png" style="width: 70%;" /></a>
-<p class="caption">Figure 3: Bright field images of Wild type mouse oocyte at t=0, t=1m et t=174m as
-well at the difference between t=1m, t=174m and initial image. Blue
+<p>The diffusive like motion of actin positive vesicles that can be observed during oocyte meiosis is
+reduced in Fmn2-/- and MyosinVb-tails oocytes when compared to the wild type.
+While the use of particle tracking algorithms to measure vesicle motion in oocyte is possible, it remains a
+complex process especially as the vesicles may move outside the focal
+plane of the microscope. As a simple approach to measure the vesicle activity we decided to
+investigate the temporal variations of the bright field images in mouse oocytes.</p>
+<p>We can compute the time dependent difference between predefined region of interest (ROI) in an image
+series to see how fast the bright field images change. Then we compare
+the result between wild type, Formin Knockout and MyosinVb dominant negative tails (<a class="pageref" href="#decay-all">Fig  3</a>).</p>
+<div class="figure" id="decay-all">
+<a class="reference internal image-reference" href="../_images/decay-all.png"><img alt="../_images/decay-all.png" src="../_images/decay-all.png" style="width: 80%;" /></a>
+<p class="caption">Figure 3: Bright field images of 3 types of mouse oocyte : Wild type in first column,
+Formin knockout in second, Myosin Tail dominant negative in the third. Row 1
+to 3 represent the region of interest of <a class="pageref" href="#fig3oo">figure  2</a> (20 µm side)
+for each kind of oocyte. Row 1 show region of interest at t=0s, row 2 at
+t=1min and row 3 at t=10min. The color-coded difference between images at
+t=0s and 60s are shown on row 4, and between t=0s and 10min row 6. Blue
 indicate that the later image is brighter that the original one and red
-indicate that it is darker.  For wild type oocyte, we can see that the
-scale difference between images is similar for a <span class="math">\(\Delta t\)</span> of 1
-minute and 174 minute. Region show is the same as indicated in <a class="pageref" href="#fig3oo">figure  2</a>.</p>
+indicate that it is darker. For wild type oocyte, the difference of images
+reaches rapidly its maximum value (Image J and M similar), Whereas for
+Fmn2-/- and MyoVb the difference between images separated by 60 seconds
+(K,L) is much smaller than after 10 minutes (N,O) which can be seen as the
+(K) is whiter than (N) and (L) is whiter than (O). The change in cytoplasm
+is thus much faster in WT oocyte (<span class="math">\(&lt; min\)</span>) while it takes
+significantly longer in Fmn2-/- and MyosinVb oocytes.</p>
 </div>
-<div class="figure" id="decay-myo">
-<a class="reference internal image-reference" href="../_images/decay-myo.png"><img alt="../_images/decay-myo.png" src="../_images/decay-myo.png" style="width: 70%;" /></a>
-<p class="caption">Figure 4: Bright field images of MyoVb tails mouse oocyte at t=0, t=1m et t=174m as
-well at the difference between t=1m, t=174m and initial image. Blue
-indicate that the later image is brighter that the original one and red
-indicate that it is darker.  We can see that the difference between images
-is much stronger after several hours (174min) than after a minute, unlike
-in <a class="pageref" href="#decay-wt">Figure  3</a>. Region show is the same as indicated in <a class="pageref" href="#fig3oo">figure  2</a>.</p>
-</div>
-<div class="figure" id="decay-fmn2">
-<a class="reference internal image-reference" href="../_images/decay-fmn2.png"><img alt="../_images/decay-fmn2.png" src="../_images/decay-fmn2.png" style="width: 70%;" /></a>
-<p class="caption">Figure 5: Bright field images of Fmn2-/- mouse oocyte at t=0, t=1m et t=174m as well
-at the difference between t=1m, t=174m and initial image. Blue indicate
-that the later image is brighter that the original one and red indicate
-that it is darker.  We can see that the difference between images is much
-stronger after several hours (174min) than after a minute, unlike
-in <a class="pageref" href="#decay-wt">Figure  3</a>. Region show is the same as indicated in <a class="pageref" href="#fig3oo">figure  2</a>.</p>
-</div>
-<p>A quantitative measurement of the difference of the images is the
-autocorrelation of these thought time. The correlation of two images <span class="math">\(x\)</span>
-and <span class="math">\(y\)</span> of same dimension is defined as :</p>
-<div class="math">
-\[r_{xy}=\frac{\sum\limits_{i=1}^n (x_i-\bar{x})(y_i-\bar{y})}{(n-1) s_x s_y}\]</div>
-<p>In which <span class="math">\(x_i\)</span> and <span class="math">\(y_i\)</span> are luminosity values of each of the
-<span class="math">\(n\)</span> pixels in <span class="math">\(\bar{x},\bar{y}\)</span> correspond to average values over
-the images, <span class="math">\(s_x\)</span> and <span class="math">\(s_y\)</span> are the standard deviation of the
-luminosity values.</p>
-<p>We can compare the decrease of correlation with time depending on the type of
-oocyte. In order to extract a single value that represent the activity, we can phenomenologically fit the correlation as a function of time with a decaying exponential with an offset :</p>
+<p>To get a quantitative measurement of the speed at which the difference of the
+images changes, we can compute the autocorrelation of bright field images
+thought time. The correlation of two images <span class="math">\(A\)</span> and <span class="math">\(B\)</span> of same
+dimension is defined as :</p>
+<div class="math" id="equation-eqa501">
+<span class="eqno">(1)</span>\[r_{AB}=\frac{\sum\limits_{i=1}^n (A_i-\bar{A})(B_i-\bar{B})}{(n-1) s_A s_B}\]</div>
+<p>In which <span class="math">\(A_i\)</span> and <span class="math">\(B_i\)</span> are luminosity values of each of the
+<span class="math">\(n\)</span> pixels of the images,  <span class="math">\(\bar{A},\bar{B}\)</span> correspond to average
+luminosity values over the images, <span class="math">\(s_A\)</span> and <span class="math">\(s_B\)</span> are the standard
+deviations of the luminosity values. The correlation will give us a single
+value that characterise the similarity of the images. A correlation of
+<span class="math">\(1\)</span> mean the images are identical, a correlation of <cite>0</cite>, mean that the
+images have nothing in common, a negative value of correlation mean that the
+second image is globally dark where the first one is bright and bright when the
+first one is dark. We can thus obtain a measurement of similarity of images
+over time, that should start at <span class="math">\(1\)</span> for <span class="math">\(\Delta t=0s\)</span> between
+images. We expect it to decrease until it eventually reaches zero.</p>
+<p>We can compare the decrease of correlation over time depending on the type of
+oocyte. In order to extract a single value that represents the activity, we can
+phenomenologically fit the correlation as a decaying exponential with an offset
+:</p>
 <div class="math" id="equation-edecay">
-<span class="eqno">(1)</span>\[r(t) = (1-off).e^{(-t/\tau)}+off\]</div>
-<p>In which <span class="math">\(t\)</span> is time, and <span class="math">\(\tau\)</span> is the characteristic time of
-correlation decay. The offset  <span class="math">\(off\)</span> represent the value of the
-correlation at infinite time to take into account artifact in the chosen region
-of interest, and defect in the image that will not decorrelate through time.</p>
-<p>Example of the result of calculating the correlation through time, and fitting
-a decaying exponential can be seen on <a class="pageref" href="#fig-exp-decay">figure  6</a></p>
+<span class="eqno">(2)</span>\[r(t) = (1-off).e^{(-t/\tau)}+off\]</div>
+<p>In which <span class="math">\(t\)</span> is time, and <span class="math">\(\tau\)</span> is a characteristic time
+representing the correlation decay. The offset  <span class="math">\(off\)</span> represent the value
+of the correlation at infinite time to take into account artifacts in the chosen
+region of interest, and defects in the image that will not decorrelate over
+time.</p>
+<p><a class="pageref" href="#fig-exp-decay">Figure  4</a> gives typical examples of the result of the
+measured autocorrelation over time, and a single exponential decay fit.</p>
 <div class="figure" id="fig-exp-decay">
 <a class="reference internal image-reference" href="../_images/corrtime.png"><img alt="../_images/corrtime.png" src="../_images/corrtime.png" style="width: 65%;" /></a>
-<p class="caption">Figure 6: Decreasing of autocorrelation off images  (solid line ) through time, with
-exponential decay fit (dotted lines) as in <a href="#equation-edecay">(1)</a>, and value of the
-characteristic decay time <span class="math">\(\tau\)</span> as legend. We can see that the
+<p class="caption">Figure 4: Decreasing autocorrelation of images intensity (solid line) over time, with
+exponential decay fit (dotted lines) as in <a href="#equation-edecay">(2)</a>. The characteristic decay time of the fit
+<span class="math">\(\tau\)</span> in the legend. We can see in the plot that the
 correlation of the images decrease much faster in wild type oocyte (red
-curves, <span class="math">\(\tau \sim minute\)</span>) than in Formin knockout (blue lines
-<span class="math">\(\tau &gt; hour\)</span>) that lack the actin meshwork, or than the myosin Vb
-tails dominant negative (green <span class="math">\(\tau &gt; hour\)</span>)</p>
+curves, <span class="math">\(\tau \sim minute\)</span>) in compared to Fmn2-/- (blue lines
+<span class="math">\(\tau &gt; hour\)</span>) that lack the actin meshwork, or to dominant negative myosin Vb
+tails (green <span class="math">\(\tau &gt; hour\)</span>). While the fit quality is not impressively good, the
+overall change in the timescales is well captured.</p>
 </div>
-<p>We see the value of the characteristic time increases with when we disrupt the
-actin network or the  source of its dynamism by inactivating Myosin Vb. We can
-then use the inverse of <span class="math">\(\tau\)</span> as an indicator of activity.</p>
+<p>The results show that the values of the characteristic time increases when
+the actin network is disrupted in Fnm2-/- cells or when the source of its dynamics is removed by inactivating
+Myosin Vb. We can then use the inverse of <span class="math">\(\tau\)</span> as an indicator of
+activity.</p>
 <p>Once we have define the activity of a region of the cytoplasm of the cell, we
-can repeat the measurement on different area of the cytoplasm, and we can
-reproduce a map of the activity in the cell as a function of the position (
-<a class="pageref" href="#fig-activity-map">Fig  7</a>.</p>
+can repeat the measurement on different areas of the cytoplasm. This allows to
+reproduce a map of the activity in the cell as a function of the position (<a class="pageref" href="#fig-activity-map">Fig  5</a>).</p>
 <div class="figure" id="fig-activity-map">
-<a class="reference internal image-reference" href="../_images/CellAct-WT.png"><img alt="../_images/CellAct-WT.png" src="../_images/CellAct-WT.png" style="width: 80%;" /></a>
-<p class="caption">Figure 7: Activity for different region of  10 by 10 pixels of a wild type oocyte.
-Value of <span class="math">\(1/\tau\)</span> plotted as color square overlay on to of the
-analysed bright field image. Example for an of a wild type oocyte. Scale
+<a class="reference internal image-reference" href="../_images/CellAct-WT.png"><img alt="../_images/CellAct-WT.png" src="../_images/CellAct-WT.png" style="width: 95%;" /></a>
+<p class="caption">Figure 5: Activity for different region of  10 by 10 pixels of a wild type oocyte.
+Value of <span class="math">\(1/\tau\)</span> plotted as color square overlaying the
+analysed bright field image. Scale
 bar is 20 µm. We can see that the activity is near the nucleus is lower
 (blue) than in the middle of the cytoplasm.</p>
 </div>
@@ -303,18 +322,19 @@ particular area of the cytoplasm with time.</p>
 </div>
 <div class="section" id="conclusion">
 <h2>Conclusion<a class="headerlink" href="#conclusion" title="Permalink to this headline">¶</a></h2>
-<p>In this part we developed a methods that allow to determine the cytoplasmic
-activity. Tis methods also allow to determine the variation of this cytoplasmic
-activity with space and time. This methods is the study of oocyte as it allows
-to probe timescale from the second to the hour which is in the order of the
-relevant timescale for oocyte maturation of a few hours. It is also
-complementary to techniques like micro rheology that have difficulties probing
-timescale beyond tens of seconds due to thermal drift and cell movements, but
-reach much shorter timescale.</p>
-<p>The use of this technique is currently under investigation at Collège de France
-by Marie-Hélène Verhlac and Maria Almonacid. It is used to measure the activity
-of actin network in oocyte and determine their effect on the meiosis of mouse
-oocyte.</p>
+<p>In this part we developed a method that allows to determine the cytoplasmic
+activity in oocytes by a noninvasive image analysis. This method also allows
+to measure the spatial and temporal variation of this cytoplasmic
+activity. A further advantage of this method is its flexibility regarding the timescales
+that are probed reaching from the second up to hours, noting that this is similar to the
+timescales relevant for oocyte maturation. Measurements on timescales of minutes are also
+complementary to techniques like active optical tweezer based micro-rheology that have difficulties in probing
+timescale beyond tens of seconds due to thermal drift and cell movement, but
+reach on the other hand much shorter timescales of below ms.</p>
+<p>The proposed technique is currently actively applied by Marie-Hélène Verlhac and Maria Almonacid at the Collège de France.
+It is used to measure the activity
+of actin networks in oocyte and determine their effect on the meiosis of mouse
+oocyte and the organelle positioning.</p>
 </div>
 </div>
 
@@ -325,7 +345,7 @@ oocyte.</p>
       <div class="bottomnav">
       
         <p>
-        «&#160;&#160;<a href="part4.html">Liposomes Doublets</a>
+        «&#160;&#160;<a href="part4.html">Cortical tension measured on liposome doublets</a>
         &#160;&#160;::&#160;&#160;
         <a class="uplink" href="../index.html">Contents</a>
         &#160;&#160;::&#160;&#160;
@@ -337,7 +357,7 @@ oocyte.</p>
 
     <div class="footer">
         &copy; Copyright 2014, Matthias Bussonnier.
-      Last updated on Jul 14, 2014.
+      Last updated on Jul 19, 2014.
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.2.
     </div>
 
