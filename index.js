@@ -9,7 +9,7 @@ var auth = express.basicAuth(function(user,pass) {
           ;
 });
 
-app.use('/', auth)
+//app.use('/', auth)
 app.use('/',function(req, res, next){
       if(req.url === '/'){
         res.redirect('/html');
