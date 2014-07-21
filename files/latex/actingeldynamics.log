@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 JUL 2014 12:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 JUL 2014 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1031,7 +1031,7 @@ LaTeX Font Info:    Try loading font information for TS1+ptm on input line 425.
  (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<oocyte-polar.png, id=581, 767.86874pt x 770.88pt>
+<oocyte-polar.png, id=582, 767.86874pt x 770.88pt>
 File: oocyte-polar.png Graphic file (type png)
  <use oocyte-polar.png>
 Package pdftex.def Info: oocyte-polar.png used on input line 437.
@@ -1039,28 +1039,28 @@ Package pdftex.def Info: oocyte-polar.png used on input line 437.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 447.
 
-<figure-1-30.jpg, id=586, 674.52pt x 422.5386pt>
+<figure-1-30.jpg, id=587, 674.52pt x 422.5386pt>
 File: figure-1-30.jpg Graphic file (type jpg)
  <use figure-1-30.jpg>
 Package pdftex.def Info: figure-1-30.jpg used on input line 467.
 (pdftex.def)             Requested size: 375.80544pt x 235.42078pt.
  [5]
 [6 <./oocyte-polar.png>] [7 <./figure-1-30.jpg>]
-<microtubules-structure.jpg, id=613, 674.52pt x 447.1104pt>
+<microtubules-structure.jpg, id=614, 674.52pt x 447.1104pt>
 File: microtubules-structure.jpg Graphic file (type jpg)
 
 <use microtubules-structure.jpg>
 Package pdftex.def Info: microtubules-structure.jpg used on input line 558.
 (pdftex.def)             Requested size: 328.82706pt x 217.96713pt.
  [8 <./microtubules-structure.jpg>]
-<actin-structure.jpg, id=626, 674.52pt x 391.7034pt>
+<actin-structure.jpg, id=627, 674.52pt x 391.7034pt>
 File: actin-structure.jpg Graphic file (type jpg)
  <use actin-structure.jpg>
 Package pdftex.def Info: actin-structure.jpg used on input line 600.
 (pdftex.def)             Requested size: 328.82706pt x 190.95613pt.
 
 [9 <./actin-structure.jpg>]
-<elongation-rate-constant.png, id=639, 168.63pt x 382.42876pt>
+<elongation-rate-constant.png, id=640, 168.63pt x 382.42876pt>
 File: elongation-rate-constant.png Graphic file (type png)
 
 <use elongation-rate-constant.png>
@@ -1070,28 +1070,28 @@ Package pdftex.def Info: elongation-rate-constant.png used on input line 633.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 692.
 
-[11] [12] <pwa-deploy.png, id=695, 873.2625pt x 340.27126pt>
+[11] [12] <pwa-deploy.png, id=696, 873.2625pt x 340.27126pt>
 File: pwa-deploy.png Graphic file (type png)
 
 <use pwa-deploy.png>
 Package pdftex.def Info: pwa-deploy.png used on input line 822.
 (pdftex.def)             Requested size: 281.85587pt x 109.8236pt.
  [13]
-<pollard2003-actin-cycle.jpg, id=712, 361.35pt x 260.29991pt>
+<pollard2003-actin-cycle.jpg, id=713, 361.35pt x 260.29991pt>
 File: pollard2003-actin-cycle.jpg Graphic file (type jpg)
 
 <use pollard2003-actin-cycle.jpg>
 Package pdftex.def Info: pollard2003-actin-cycle.jpg used on input line 844.
 (pdftex.def)             Requested size: 328.82706pt x 236.87328pt.
  [14 <./pwa-deploy.png>] [15 <./pollard2003-actin-cycle.jpg>] <figure-16-54a.jp
-g, id=739, 674.52pt x 176.3388pt>
+g, id=740, 674.52pt x 176.3388pt>
 File: figure-16-54a.jpg Graphic file (type jpg)
 
 <use figure-16-54a.jpg>
 Package pdftex.def Info: figure-16-54a.jpg used on input line 964.
 (pdftex.def)             Requested size: 328.82706pt x 85.96548pt.
  [16] [17 <./figure-16-54a.jpg>]
-<Actin-Cortex-Moronne-2006.jpg, id=758, 513.92pt x 776.9025pt>
+<Actin-Cortex-Moronne-2006.jpg, id=759, 513.92pt x 776.9025pt>
 File: Actin-Cortex-Moronne-2006.jpg Graphic file (type jpg)
 
 <use Actin-Cortex-Moronne-2006.jpg>
@@ -1099,34 +1099,34 @@ Package pdftex.def Info: Actin-Cortex-Moronne-2006.jpg used on input line 1048.
 
 (pdftex.def)             Requested size: 328.82706pt x 497.09735pt.
 
-<Schafer2004.jpg, id=762, 602.25pt x 515.9275pt>
+<Schafer2004.jpg, id=763, 602.25pt x 515.9275pt>
 File: Schafer2004.jpg Graphic file (type jpg)
  <use Schafer2004.jpg>
 Package pdftex.def Info: Schafer2004.jpg used on input line 1071.
 (pdftex.def)             Requested size: 281.85587pt x 241.46254pt.
 
-<figure-16-86.jpg, id=767, 2107.875pt x 548.0475pt>
+<figure-16-86.jpg, id=768, 2107.875pt x 548.0475pt>
 File: figure-16-86.jpg Graphic file (type jpg)
  <use figure-16-86.jpg>
 Package pdftex.def Info: figure-16-86.jpg used on input line 1110.
 (pdftex.def)             Requested size: 422.77663pt x 109.91696pt.
 
 [18] [19 <./Actin-Cortex-Moronne-2006.jpg>] [20 <./Schafer2004.jpg> <./figure-1
-6-86.jpg>] <Bleb-nature-paluch.jpg, id=794, 320.8788pt x 285.03288pt>
+6-86.jpg>] <Bleb-nature-paluch.jpg, id=795, 320.8788pt x 285.03288pt>
 File: Bleb-nature-paluch.jpg Graphic file (type jpg)
 
 <use Bleb-nature-paluch.jpg>
 Package pdftex.def Info: Bleb-nature-paluch.jpg used on input line 1146.
 (pdftex.def)             Requested size: 187.89912pt x 166.90665pt.
  [21 <./Bleb-nature-paluch.jpg>] [22]
-<Plastino-Sykes-2005.png, id=829, 759.83875pt x 245.91875pt>
+<Plastino-Sykes-2005.png, id=830, 759.83875pt x 245.91875pt>
 File: Plastino-Sykes-2005.png Graphic file (type png)
 
 <use Plastino-Sykes-2005.png>
 Package pdftex.def Info: Plastino-Sykes-2005.png used on input line 1270.
 (pdftex.def)             Requested size: 281.85587pt x 91.22115pt.
 
-<symmetry-breaking-phase-diagram.png, id=833, 556.0775pt x 415.5525pt>
+<symmetry-breaking-phase-diagram.png, id=834, 556.0775pt x 415.5525pt>
 File: symmetry-breaking-phase-diagram.png Graphic file (type png)
 
 <use symmetry-breaking-phase-diagram.png>
@@ -1135,48 +1135,48 @@ Package pdftex.def Info: symmetry-breaking-phase-diagram.png used on input line
 (pdftex.def)             Requested size: 328.82706pt x 245.73184pt.
  [23 <./Plastino-Sykes-2005.png>]
 [24 <./symmetry-breaking-phase-diagram.png>]
-<joel-2-11.png, id=855, 677.53125pt x 261.97874pt>
+<joel-2-11.png, id=856, 677.53125pt x 261.97874pt>
 File: joel-2-11.png Graphic file (type png)
  <use joel-2-11.png>
 Package pdftex.def Info: joel-2-11.png used on input line 1358.
 (pdftex.def)             Requested size: 375.80544pt x 145.31598pt.
 
-<joel-5-12.png, id=858, 627.34375pt x 248.93pt>
+<joel-5-12.png, id=859, 627.34375pt x 248.93pt>
 File: joel-5-12.png Graphic file (type png)
  <use joel-5-12.png>
 Package pdftex.def Info: joel-5-12.png used on input line 1369.
 (pdftex.def)             Requested size: 422.77663pt x 167.7622pt.
  [25 <./joel-2-11.png>] [26 <./joel-5-12.png>]
-<Cell-Surface-tension.png, id=884, 502.87875pt x 408.52625pt>
+<Cell-Surface-tension.png, id=885, 502.87875pt x 408.52625pt>
 File: Cell-Surface-tension.png Graphic file (type png)
 
 <use Cell-Surface-tension.png>
 Package pdftex.def Info: Cell-Surface-tension.png used on input line 1438.
 (pdftex.def)             Requested size: 187.89912pt x 152.64217pt.
- <F2_large.jpg, id=889, 1284.8pt x 939.51pt>
+ <F2_large.jpg, id=890, 1284.8pt x 939.51pt>
 File: F2_large.jpg Graphic file (type jpg)
 
 <use F2_large.jpg>
 Package pdftex.def Info: F2_large.jpg used on input line 1480.
 (pdftex.def)             Requested size: 281.85587pt x 206.10507pt.
  [27 <./Cell-Surface-tension.png>] [28 <./F2_large.jpg>]
-<youngm.png, id=921, 2125.0628pt x 831.51102pt>
+<youngm.png, id=922, 2125.0628pt x 831.51102pt>
 File: youngm.png Graphic file (type png)
  <use youngm.png>
 Package pdftex.def Info: youngm.png used on input line 1530.
 (pdftex.def)             Requested size: 375.80544pt x 147.03914pt.
- [29 <./youngm.png>] <MKV.png, id=938, 518.4168pt x 130.5678pt>
+ [29 <./youngm.png>] <MKV.png, id=939, 518.4168pt x 130.5678pt>
 File: MKV.png Graphic file (type png)
  <use MKV.png>
 Package pdftex.def Info: MKV.png used on input line 1624.
 (pdftex.def)             Requested size: 328.82706pt x 82.81796pt.
- [30] [31 <./MKV.png>] <ot1.png, id=982, 2064.85715pt x 1009.71515pt>
+ [30] [31 <./MKV.png>] <ot1.png, id=983, 2064.85715pt x 1009.71515pt>
 File: ot1.png Graphic file (type png)
  <use ot1.png>
 Package pdftex.def Info: ot1.png used on input line 1735.
 (pdftex.def)             Requested size: 328.82706pt x 160.78737pt.
  [32]
-<setup-plus-1.png, id=997, 1451.4225pt x 1389.2703pt>
+<setup-plus-1.png, id=998, 1451.4225pt x 1389.2703pt>
 File: setup-plus-1.png Graphic file (type png)
  <use setup-plus-1.png>
 Package pdftex.def Info: setup-plus-1.png used on input line 1766.
@@ -1186,14 +1186,14 @@ Package pdftex.def Info: setup-plus-1.png used on input line 1766.
 
 ]
 Chapter 2.
-[37] [38] [39] [40] <frontend.png, id=1055, 1049.42062pt x 703.12688pt>
+[37] [38] [39] [40] <frontend.png, id=1056, 1049.42062pt x 703.12688pt>
 File: frontend.png Graphic file (type png)
 
 <use frontend.png>
 Package pdftex.def Info: frontend.png used on input line 2139.
 (pdftex.def)             Requested size: 422.77663pt x 283.26279pt.
  [41] [42 <./frontend.png>]
-<beed_move.png, id=1067, 849.0154pt x 1755.21835pt>
+<beed_move.png, id=1068, 849.0154pt x 1755.21835pt>
 File: beed_move.png Graphic file (type png)
  <use beed_move.png>
 Package pdftex.def Info: beed_move.png used on input line 2224.
@@ -1203,14 +1203,14 @@ Package pdftex.def Info: beed_move.png used on input line 2224.
 
 ]
 Chapter 3.
-<Bead-tirf-fluo-sim.png, id=1096, 511.9125pt x 341.275pt>
+<Bead-tirf-fluo-sim.png, id=1097, 511.9125pt x 341.275pt>
 File: Bead-tirf-fluo-sim.png Graphic file (type png)
 
 <use Bead-tirf-fluo-sim.png>
 Package pdftex.def Info: Bead-tirf-fluo-sim.png used on input line 2331.
 (pdftex.def)             Requested size: 328.82706pt x 219.2172pt.
  [47]
-<intensity_profile_xnM_Arp_xnM_CP_xmin.png, id=1116, 590.205pt x 724.7075pt>
+<intensity_profile_xnM_Arp_xnM_CP_xmin.png, id=1117, 590.205pt x 724.7075pt>
 File: intensity_profile_xnM_Arp_xnM_CP_xmin.png Graphic file (type png)
 
 <use intensity_profile_xnM_Arp_xnM_CP_xmin.png>
@@ -1219,44 +1219,44 @@ t line 2367.
 (pdftex.def)             Requested size: 375.80544pt x 461.45584pt.
  [48 <./Bead-tirf-fluo-sim.png>] [49 <./intensity_profile_xnM_Arp_xnM_CP_xmin.p
 ng>] [50]
-<force_time.png, id=1154, 1445.4pt x 722.7pt>
+<force_time.png, id=1155, 1445.4pt x 722.7pt>
 File: force_time.png Graphic file (type png)
  <use force_time.png>
 Package pdftex.def Info: force_time.png used on input line 2475.
 (pdftex.def)             Requested size: 328.82706pt x 164.40898pt.
 
-<force-distance.png, id=1157, 867.24pt x 515.9275pt>
+<force-distance.png, id=1158, 867.24pt x 515.9275pt>
 File: force-distance.png Graphic file (type png)
  <use force-distance.png>
 Package pdftex.def Info: force-distance.png used on input line 2511.
 (pdftex.def)             Requested size: 375.80544pt x 223.56856pt.
 
-[51 <./force_time.png>] <reproc-time.png, id=1169, 1300.86pt x 722.7pt>
+[51 <./force_time.png>] <reproc-time.png, id=1170, 1300.86pt x 722.7pt>
 File: reproc-time.png Graphic file (type png)
 
 <use reproc-time.png>
 Package pdftex.def Info: reproc-time.png used on input line 2536.
 (pdftex.def)             Requested size: 469.755pt x 260.9768pt.
- <reproc.png, id=1170, 1156.32pt x 433.62pt>
+ <reproc.png, id=1171, 1156.32pt x 433.62pt>
 File: reproc.png Graphic file (type png)
 
 <use reproc.png>
 Package pdftex.def Info: reproc.png used on input line 2547.
 (pdftex.def)             Requested size: 375.80544pt x 140.92482pt.
- <many_speed.png, id=1175, 722.7pt x 578.16pt>
+ <many_speed.png, id=1176, 722.7pt x 578.16pt>
 File: many_speed.png Graphic file (type png)
 
 <use many_speed.png>
 Package pdftex.def Info: many_speed.png used on input line 2567.
 (pdftex.def)             Requested size: 281.85587pt x 225.48149pt.
  [52 <./force-distance.png>] [53 <./reproc-time.png> <./reproc.png>] <cloud-rep
-elling.png, id=1193, 867.24pt x 578.16pt>
+elling.png, id=1194, 867.24pt x 578.16pt>
 File: cloud-repelling.png Graphic file (type png)
 
 <use cloud-repelling.png>
 Package pdftex.def Info: cloud-repelling.png used on input line 2598.
 (pdftex.def)             Requested size: 399.29462pt x 266.19502pt.
- <d0_violin.png, id=1194, 750.805pt x 515.9275pt>
+ <d0_violin.png, id=1195, 750.805pt x 515.9275pt>
 File: d0_violin.png Graphic file (type png)
 
 <use d0_violin.png>
@@ -1264,14 +1264,14 @@ Package pdftex.def Info: d0_violin.png used on input line 2607.
 (pdftex.def)             Requested size: 305.33788pt x 209.82333pt.
  [54 <./many_speed.png>] [55 <./cloud-repelling.png>]
 [56 <./d0_violin.png>]
-<force-distance-fit.png, id=1227, 867.24pt x 515.9275pt>
+<force-distance-fit.png, id=1228, 867.24pt x 515.9275pt>
 File: force-distance-fit.png Graphic file (type png)
 
 <use force-distance-fit.png>
 Package pdftex.def Info: force-distance-fit.png used on input line 2681.
 (pdftex.def)             Requested size: 469.755pt x 279.46266pt.
 
-<force-distance-fit-loglog.png, id=1229, 867.24pt x 515.9275pt>
+<force-distance-fit-loglog.png, id=1230, 867.24pt x 515.9275pt>
 File: force-distance-fit-loglog.png Graphic file (type png)
 
 <use force-distance-fit-loglog.png>
@@ -1279,26 +1279,26 @@ Package pdftex.def Info: force-distance-fit-loglog.png used on input line 2697.
 
 (pdftex.def)             Requested size: 375.80544pt x 223.56856pt.
 
-<alpha_violin.png, id=1233, 650.43pt x 1067.99pt>
+<alpha_violin.png, id=1234, 650.43pt x 1067.99pt>
 File: alpha_violin.png Graphic file (type png)
  <use alpha_violin.png>
 Package pdftex.def Info: alpha_violin.png used on input line 2717.
 (pdftex.def)             Requested size: 281.85587pt x 462.81192pt.
 
-<rescaled_powerlaw.png, id=1235, 750.805pt x 515.9275pt>
+<rescaled_powerlaw.png, id=1236, 750.805pt x 515.9275pt>
 File: rescaled_powerlaw.png Graphic file (type png)
 
 <use rescaled_powerlaw.png>
 Package pdftex.def Info: rescaled_powerlaw.png used on input line 2732.
 (pdftex.def)             Requested size: 328.82706pt x 225.96176pt.
  [57 <./force-distance-fit.png>]
-<beta_violin.png, id=1251, 750.805pt x 515.9275pt>
+<beta_violin.png, id=1252, 750.805pt x 515.9275pt>
 File: beta_violin.png Graphic file (type png)
  <use beta_violin.png>
 Package pdftex.def Info: beta_violin.png used on input line 2770.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
 
-<delta_violin.png, id=1253, 750.805pt x 515.9275pt>
+<delta_violin.png, id=1254, 750.805pt x 515.9275pt>
 File: delta_violin.png Graphic file (type png)
  <use delta_violin.png>
 Package pdftex.def Info: delta_violin.png used on input line 2787.
@@ -1306,25 +1306,25 @@ Package pdftex.def Info: delta_violin.png used on input line 2787.
 
 [58 <./force-distance-fit-loglog.png>] [59 <./alpha_violin.png>] [60 <./rescale
 d_powerlaw.png> <./beta_violin.png>] [61 <./delta_violin.png>]
-<E0_violin.png, id=1288, 750.805pt x 515.9275pt>
+<E0_violin.png, id=1289, 750.805pt x 515.9275pt>
 File: E0_violin.png Graphic file (type png)
  <use E0_violin.png>
 Package pdftex.def Info: E0_violin.png used on input line 2866.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
  [62]
-[63 <./E0_violin.png>] <xi_violin.png, id=1332, 750.805pt x 515.9275pt>
+[63 <./E0_violin.png>] <xi_violin.png, id=1333, 750.805pt x 515.9275pt>
 File: xi_violin.png Graphic file (type png)
 
 <use xi_violin.png>
 Package pdftex.def Info: xi_violin.png used on input line 2951.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
- <delta-xi-corr.png, id=1335, 433.62pt x 433.62pt>
+ <delta-xi-corr.png, id=1336, 433.62pt x 433.62pt>
 File: delta-xi-corr.png Graphic file (type png)
 
 <use delta-xi-corr.png>
 Package pdftex.def Info: delta-xi-corr.png used on input line 2961.
 (pdftex.def)             Requested size: 469.755pt x 469.7781pt.
- <delta-xi-facets.png, id=1336, 722.7pt x 722.7pt>
+ <delta-xi-facets.png, id=1337, 722.7pt x 722.7pt>
 File: delta-xi-facets.png Graphic file (type png)
 
 <use delta-xi-facets.png>
@@ -1332,46 +1332,46 @@ Package pdftex.def Info: delta-xi-facets.png used on input line 2969.
 (pdftex.def)             Requested size: 469.755pt x 469.76045pt.
  [64 <./xi_violin.png>] [65 <./delta-xi-corr.png>]
 [66 <./delta-xi-facets.png>]
-<interp-delta.png, id=1368, 11657.70692pt x 4152.74539pt>
+<interp-delta.png, id=1369, 11657.70692pt x 4152.74539pt>
 File: interp-delta.png Graphic file (type png)
 
 <use interp-delta.png>
 Package pdftex.def Info: interp-delta.png used on input line 3020.
 (pdftex.def)             Requested size: 422.77663pt x 150.55693pt.
- <time-delta-corr.png, id=1371, 433.62pt x 433.62pt>
+ <time-delta-corr.png, id=1372, 433.62pt x 433.62pt>
 File: time-delta-corr.png Graphic file (type png)
 
 <use time-delta-corr.png>
 Package pdftex.def Info: time-delta-corr.png used on input line 3043.
 (pdftex.def)             Requested size: 422.77663pt x 422.80096pt.
- [67 <./interp-delta.png>] [68 <./time-delta-corr.png>] <3phases.png, id=1395, 
+ [67 <./interp-delta.png>] [68 <./time-delta-corr.png>] <3phases.png, id=1396, 
 750.805pt x 515.9275pt>
 File: 3phases.png Graphic file (type png)
  <use 3phases.png>
 Package pdftex.def Info: 3phases.png used on input line 3098.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
 
-<tau_violin.png, id=1396, 750.805pt x 515.9275pt>
+<tau_violin.png, id=1397, 750.805pt x 515.9275pt>
 File: tau_violin.png Graphic file (type png)
  <use tau_violin.png>
 Package pdftex.def Info: tau_violin.png used on input line 3105.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
 
-<sticking-event.png, id=1401, 751.608pt x 516.7305pt>
+<sticking-event.png, id=1402, 751.608pt x 516.7305pt>
 File: sticking-event.png Graphic file (type png)
  <use sticking-event.png>
 Package pdftex.def Info: sticking-event.png used on input line 3136.
 (pdftex.def)             Requested size: 375.80544pt x 258.36461pt.
 
 [69] [70 <./3phases.png> <./tau_violin.png>]
-<retract-powerlaw.png, id=1419, 1011.78pt x 516.7305pt>
+<retract-powerlaw.png, id=1420, 1011.78pt x 516.7305pt>
 File: retract-powerlaw.png Graphic file (type png)
 
 <use retract-powerlaw.png>
 Package pdftex.def Info: retract-powerlaw.png used on input line 3171.
 (pdftex.def)             Requested size: 469.755pt x 239.9145pt.
  [71 <./sticking-event.png>]
-<interpolation.png, id=1433, 867.24pt x 289.08pt>
+<interpolation.png, id=1434, 867.24pt x 289.08pt>
 File: interpolation.png Graphic file (type png)
  <use interpolation.png>
 Package pdftex.def Info: interpolation.png used on input line 3186.
@@ -1381,88 +1381,87 @@ Package pdftex.def Info: interpolation.png used on input line 3186.
 
 ]
 Chapter 4.
-<Fig_01-A.png, id=1471, 3673.01646pt x 3604.99765pt>
+<Fig_01-A.png, id=1472, 3673.01646pt x 3604.99765pt>
 File: Fig_01-A.png Graphic file (type png)
  <use Fig_01-A.png>
 Package pdftex.def Info: Fig_01-A.png used on input line 3310.
 (pdftex.def)             Requested size: 234.8775pt x 230.48253pt.
 
-[75] <doublets-schema.png, id=1491, 515.57983pt x 343.18156pt>
+[75] <doublets-schema.png, id=1492, 515.57983pt x 343.18156pt>
 File: doublets-schema.png Graphic file (type png)
 
 <use doublets-schema.png>
 Package pdftex.def Info: doublets-schema.png used on input line 3332.
 (pdftex.def)             Requested size: 328.82706pt x 218.8814pt.
- <Fig_01-B.png, id=1492, 4676.29411pt x 4336.2pt>
+ <Fig_01-B.png, id=1493, 4676.29411pt x 4336.2pt>
 File: Fig_01-B.png Graphic file (type png)
 
 <use Fig_01-B.png>
 Package pdftex.def Info: Fig_01-B.png used on input line 3342.
 (pdftex.def)             Requested size: 234.8775pt x 217.74901pt.
- <Fig_01-C.png, id=1493, 9361.09059pt x 9586.40294pt>
+ <Fig_01-C.png, id=1494, 9361.09059pt x 9586.40294pt>
 File: Fig_01-C.png Graphic file (type png)
 
 <use Fig_01-C.png>
 Package pdftex.def Info: Fig_01-C.png used on input line 3351.
 (pdftex.def)             Requested size: 234.8775pt x 240.47864pt.
- <notations-doublets.png, id=1497, 718.685pt x 584.1825pt>
+ <notations-doublets.png, id=1498, 718.685pt x 584.1825pt>
 File: notations-doublets.png Graphic file (type png)
 
 <use notations-doublets.png>
 Package pdftex.def Info: notations-doublets.png used on input line 3375.
 (pdftex.def)             Requested size: 234.8775pt x 190.9178pt.
- [76 <./Fig_01-A.png>] [77 <./doublets-schema.png> <./Fig_01-B.png>] [78 <./Fig
-_01-C.png> <./notations-doublets.png>]
-<doublet-contract.png, id=1523, 101.6598pt x 203.8014pt>
+ [76 <./Fig_01-A.png>] [77 <./doublets-schema.png> <./Fig_01-B.png>] <doublet-c
+ontract.png, id=1517, 101.6598pt x 203.8014pt>
 File: doublet-contract.png Graphic file (type png)
 
 <use doublet-contract.png>
 Package pdftex.def Info: doublet-contract.png used on input line 3418.
 (pdftex.def)             Requested size: 140.92793pt x 282.53055pt.
- [79 <./doublet-contract.png>]
-<yd.png, id=1535, 559.08875pt x 345.29pt>
+ [78 <./Fig_01-C.png>]
+<yd.png, id=1528, 559.08875pt x 345.29pt>
 File: yd.png Graphic file (type png)
  <use yd.png>
 Package pdftex.def Info: yd.png used on input line 3458.
 (pdftex.def)             Requested size: 281.85587pt x 174.07765pt.
- [80 <./yd.png>]
-<Fig_02-A.png, id=1549, 6847.5825pt x 5020.18393pt>
+ [79 <./notations-doublets.png>] [80 <./doublet-contract.png> <./yd.png>]
+<Fig_02-A.png, id=1547, 6847.5825pt x 5020.18393pt>
 File: Fig_02-A.png Graphic file (type png)
  <use Fig_02-A.png>
 Package pdftex.def Info: Fig_02-A.png used on input line 3514.
 (pdftex.def)             Requested size: 234.8775pt x 172.1241pt.
 
-<Fig_02-B.png, id=1550, 7265.71606pt x 5781.6pt>
+<Fig_02-B.png, id=1548, 7265.71606pt x 5781.6pt>
 File: Fig_02-B.png Graphic file (type png)
  <use Fig_02-B.png>
 Package pdftex.def Info: Fig_02-B.png used on input line 3523.
 (pdftex.def)             Requested size: 234.8775pt x 186.84996pt.
 
-<light_table.png, id=1551, 722.7pt x 903.375pt>
+<light_table.png, id=1549, 722.7pt x 903.375pt>
 File: light_table.png Graphic file (type png)
  <use light_table.png>
 Package pdftex.def Info: light_table.png used on input line 3541.
 (pdftex.def)             Requested size: 422.77663pt x 528.46536pt.
 
-<Fig_03-A.png, id=1554, 923.6106pt x 744.381pt>
+<Fig_03-A.png, id=1552, 923.6106pt x 744.381pt>
 File: Fig_03-A.png Graphic file (type png)
  <use Fig_03-A.png>
 Package pdftex.def Info: Fig_03-A.png used on input line 3549.
 (pdftex.def)             Requested size: 234.8775pt x 189.29784pt.
 
-<Fig_03-B.png, id=1563, 1200.6456pt x 918.3108pt>
+<Fig_03-B.png, id=1561, 1200.6456pt x 918.3108pt>
 File: Fig_03-B.png Graphic file (type png)
  <use Fig_03-B.png>
 Package pdftex.def Info: Fig_03-B.png used on input line 3563.
 (pdftex.def)             Requested size: 234.8775pt x 179.63737pt.
 
-<Fig_03-C.png, id=1570, 1157.7654pt x 915.9018pt>
+<Fig_03-C.png, id=1568, 1157.7654pt x 915.9018pt>
 File: Fig_03-C.png Graphic file (type png)
  <use Fig_03-C.png>
 Package pdftex.def Info: Fig_03-C.png used on input line 3574.
 (pdftex.def)             Requested size: 234.8775pt x 185.8045pt.
 
-<Fig_03-D.png, id=1577, 1186.1916pt x 918.3108pt>
+<Fig_03-D.png, id=1575, 1186.1916pt x 918.3108pt>
 File: Fig_03-D.png Graphic file (type png)
  <use Fig_03-D.png>
 Package pdftex.def Info: Fig_03-D.png used on input line 3582.
@@ -1515,49 +1514,48 @@ File: 3dblur.png Graphic file (type png)
  <use 3dblur.png>
 Package pdftex.def Info: 3dblur.png used on input line 3870.
 (pdftex.def)             Requested size: 281.85587pt x 177.2836pt.
-
-<ring_artifact.png, id=1715, 650.43pt x 289.08pt>
+ [92 <./max_proj_340A.png>] <ring_artifact.png, id=1721, 650.43pt x 289.08pt>
 File: ring_artifact.png Graphic file (type png)
- <use ring_artifact.png>
+
+<use ring_artifact.png>
 Package pdftex.def Info: ring_artifact.png used on input line 3887.
 (pdftex.def)             Requested size: 328.82706pt x 146.14964pt.
-
-<max_proj_model.png, id=1717, 1084.05pt x 1084.05pt>
+ [93 <./3dblur.png> <./ring_artifact.png>]
+<max_proj_model.png, id=1731, 1084.05pt x 1084.05pt>
 File: max_proj_model.png Graphic file (type png)
  <use max_proj_model.png>
 Package pdftex.def Info: max_proj_model.png used on input line 3911.
 (pdftex.def)             Requested size: 234.8775pt x 234.8692pt.
 
-<Doublet-402-A-Fit-t-0.png, id=1719, 1084.05pt x 1084.05pt>
+<Doublet-402-A-Fit-t-0.png, id=1733, 1084.05pt x 1084.05pt>
 File: Doublet-402-A-Fit-t-0.png Graphic file (type png)
 
 <use Doublet-402-A-Fit-t-0.png>
 Package pdftex.def Info: Doublet-402-A-Fit-t-0.png used on input line 3925.
 (pdftex.def)             Requested size: 234.8775pt x 234.8692pt.
- [92] [93 <./max_proj_340A.png>] [94 <./3dblur.png> <./ring_artifact.png>] [95 
-<./max_proj_model.png> <./Doublet-402-A-Fit-t-0.png>] <gof-2d-doublets.png, id=
-1750, 362.35374pt x 246.9225pt>
+
+<gof-2d-doublets.png, id=1737, 362.35374pt x 246.9225pt>
 File: gof-2d-doublets.png Graphic file (type png)
 
 <use gof-2d-doublets.png>
 Package pdftex.def Info: gof-2d-doublets.png used on input line 3950.
 (pdftex.def)             Requested size: 281.85587pt x 192.07127pt.
 
-<gof-3d-doublets.png, id=1751, 350.30875pt x 237.88875pt>
+<gof-3d-doublets.png, id=1738, 350.30875pt x 237.88875pt>
 File: gof-3d-doublets.png Graphic file (type png)
 
 <use gof-3d-doublets.png>
 Package pdftex.def Info: gof-3d-doublets.png used on input line 3958.
 (pdftex.def)             Requested size: 281.85587pt x 191.41472pt.
 
-<srhod_superimpose.png, id=1759, 1084.05pt x 1084.05pt>
+<srhod_superimpose.png, id=1746, 1084.05pt x 1084.05pt>
 File: srhod_superimpose.png Graphic file (type png)
 
 <use srhod_superimpose.png>
 Package pdftex.def Info: srhod_superimpose.png used on input line 3972.
 (pdftex.def)             Requested size: 375.80544pt x 375.80066pt.
- [96 <./gof-2d-doublets.png> <./gof-3d-doublets.png>] [97 <./srhod_superimpose.
-png>] [98]
+ [94 <./max_proj_model.png>] [95 <./Doublet-402-A-Fit-t-0.png> <./gof-2d-double
+ts.png>] [96 <./gof-3d-doublets.png>] [97 <./srhod_superimpose.png>] [98]
 Chapter 5.
 <oocyte-wild-type.png, id=1782, 513.92pt x 513.92pt>
 File: oocyte-wild-type.png Graphic file (type png)
@@ -3241,7 +3239,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4538.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4538.
 
 Package rerunfilecheck Info: File `actingeldynamics.out' has not changed.
-(rerunfilecheck)             Checksum: DF36AC38CB7C3D60E7C44B0C5C3B57A7;7314.
+(rerunfilecheck)             Checksum: 247A1B1920004D8B038984E15063FE5A;7388.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3250,8 +3248,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4538.
  ) 
 Here is how much of TeX's memory you used:
  11392 strings out of 493488
- 176598 string characters out of 3141326
- 300656 words of memory out of 3000000
+ 176672 string characters out of 3141326
+ 300803 words of memory out of 3000000
  13555 multiletter control sequences out of 15000+200000
  92617 words of font info for 90 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
@@ -3282,7 +3280,7 @@ ype1/urw/courier/ucrr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw
 ic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.
 pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on actingeldynamics.pdf (165 pages, 27294466 bytes).
+Output written on actingeldynamics.pdf (165 pages, 27294811 bytes).
 PDF statistics:
  5032 PDF objects out of 5155 (max. 8388607)
  3904 compressed objects within 40 object streams

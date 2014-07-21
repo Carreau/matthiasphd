@@ -88,10 +88,10 @@
 \contentsline {subsection}{\numberline {4.2.1}Formation of liposomes doublets}{75}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Formation of actin cortex on doublets}{76}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Visualisation of the interface}{76}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Geometrical parameters}{76}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Experimental Observations}{79}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Effect of myosin-II injection}{79}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Relation between the angles and tension}{80}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.2.4}Geometrical parameters}{78}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Experimental Observations}{78}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Effect of myosin-II injection}{78}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Relation between the angles and tension}{79}{subsection.4.3.2}
 \contentsline {subsection}{\numberline {4.3.3}Contact angle dispersion}{81}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Tension of actin-shell}{81}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}3D observation}{81}{section.4.4}
@@ -101,11 +101,11 @@
 \contentsline {subsection}{\numberline {4.5.3}Cortical tension increase in doublets and in cells}{86}{subsection.4.5.3}
 \contentsline {subsection}{\numberline {4.5.4}Different contributions for cortical tension}{87}{subsection.4.5.4}
 \contentsline {subsection}{\numberline {4.5.5}Conclusion}{87}{subsection.4.5.5}
-\contentsline {section}{\numberline {4.6}3D fitting}{88}{section.4.6}
+\contentsline {section}{\numberline {4.6}3D fitting}{87}{section.4.6}
 \contentsline {subsection}{\numberline {4.6.1}First step: Fitting a single liposome}{88}{subsection.4.6.1}
-\contentsline {subsection}{\numberline {4.6.2}Fitting a doublet}{92}{subsection.4.6.2}
-\contentsline {subsection}{\numberline {4.6.3}Discussion}{97}{subsection.4.6.3}
-\contentsline {subsection}{\numberline {4.6.4}Conclusion}{98}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.2}Fitting a doublet}{89}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Discussion}{96}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Conclusion}{96}{subsection.4.6.4}
 \contentsline {chapter}{\numberline {5}Active cytoplasm movement in mouse oocytes}{99}{chapter.5}
 \contentsline {section}{\numberline {5.1}Introduction}{99}{section.5.1}
 \contentsline {section}{\numberline {5.2}Oocytes}{99}{section.5.2}
@@ -113,6 +113,6 @@
 \contentsline {section}{\numberline {5.4}Conclusion}{101}{section.5.4}
 \contentsline {chapter}{\numberline {6}Conclusion}{105}{chapter.6}
 \contentsline {chapter}{\numberline {7}Appendix}{107}{chapter.7}
-\contentsline {section}{\numberline {7.1}Actin Cloud Preprint}{107}{section.7.1}
+\contentsline {section}{\numberline {7.1}Mechanical detection of a long range actin network emanating from a biomimetic cortex Preprint}{107}{section.7.1}
 \contentsline {section}{\numberline {7.2}Cell-sized liposome doublets reveal active cortical tension build up Draft}{127}{section.7.2}
 \contentsline {chapter}{Bibliography}{149}{chapter*.73}
