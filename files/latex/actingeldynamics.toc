@@ -76,8 +76,8 @@
 \contentsline {section}{\numberline {3.5}Experimental observations}{54}{section.3.5}
 \contentsline {subsection}{\numberline {3.5.1}Approach phase modeling}{54}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}Variation of parameters with Capping Protein}{58}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Determination of Young's Modulus}{61}{subsection.3.5.3}
-\contentsline {subsection}{\numberline {3.5.4}Mechanical properties}{62}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.3}Determination of Young's Modulus}{58}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Mechanical properties}{63}{subsection.3.5.4}
 \contentsline {subsection}{\numberline {3.5.5}Interpretation}{67}{subsection.3.5.5}
 \contentsline {section}{\numberline {3.6}Relaxation phase}{69}{section.3.6}
 \contentsline {subsection}{\numberline {3.6.1}Retraction Phase}{71}{subsection.3.6.1}
