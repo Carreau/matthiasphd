@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 JUL 2014 13:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 JUL 2014 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3249,7 +3249,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4538.
 Here is how much of TeX's memory you used:
  11392 strings out of 493488
  176672 string characters out of 3141326
- 300803 words of memory out of 3000000
+ 300802 words of memory out of 3000000
  13555 multiletter control sequences out of 15000+200000
  92617 words of font info for 90 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
@@ -3280,7 +3280,7 @@ ype1/urw/courier/ucrr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw
 ic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.
 pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on actingeldynamics.pdf (165 pages, 27294811 bytes).
+Output written on actingeldynamics.pdf (165 pages, 27294804 bytes).
 PDF statistics:
  5032 PDF objects out of 5155 (max. 8388607)
  3904 compressed objects within 40 object streams
