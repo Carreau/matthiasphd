@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  19 JUL 2014 18:31
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  21 JUL 2014 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,7 +835,64 @@ LaTeX Warning: Unused global option(s):
 
 (./actingeldynamics.aux
 
-LaTeX Warning: Label `parts/part2:part2' multiply defined.
+LaTeX Warning: Label `index-latex::doc' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:part2' multiply defined.
+
+
+LaTeX Warning: Label `index-latex::doc' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:profilin' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:capping-protein' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:myosin-ii' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:oocyte' multiply defined.
+
+
+LaTeX Warning: Label `index-latex::doc' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:introduction' multiply defined.
+
+
+LaTeX Warning: Label `index-latex::doc' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:introduction' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:experimental-description' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:experimental-observations' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:discussion' multiply defined.
+
+
+LaTeX Warning: Label `index-latex::doc' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:introduction' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:conclusion' multiply defined.
+
+
+LaTeX Warning: Label `index-latex::doc' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:conclusion' multiply defined.
+
+
+LaTeX Warning: Label `index-latex::doc' multiply defined.
 
 )
 \openout1 = `actingeldynamics.aux'.
@@ -928,14 +985,22 @@ Overfull \hbox (66.32344pt too wide) in paragraph at lines 201--212
 
 [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+phv on input line 227.
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX w
+arning (ext4): destination with the same identifier (name{page.a}) has been alr
+eady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.219     \newpage
+                   [1
+
+]
+LaTeX Font Info:    Try loading font information for T1+phv on input line 232.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 227.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 232.
 
 (./actingeldynamics.toc
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
@@ -948,3168 +1013,2246 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
 
 
 Adding blank page after the table of contents.
-[3] [4] <interp-delta1.png, id=539, 11657.70692pt x 4152.74539pt>
-File: interp-delta1.png Graphic file (type png)
-
-<use interp-delta1.png>
-Package pdftex.def Info: interp-delta1.png used on input line 285.
-(pdftex.def)             Requested size: 328.82706pt x 117.09982pt.
- [1
+[3] [4] [1
 
 
 
-] [2 <./interp-delta1.png>] [3
-
-] [4
+] [2
 
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 398.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 295.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 398.
-
-LaTeX Warning: Hyper reference `parts/part1:kawska2012' on page 5 undefined on 
-input line 441.
-
-
-LaTeX Warning: Reference `parts/part1:kawska2012' on page 5 undefined on input 
-line 441.
-
-[5]
-
-LaTeX Warning: Hyper reference `parts/part1:lenart2005' on page 6 undefined on 
-input line 467.
-
-
-LaTeX Warning: Reference `parts/part1:lenart2005' on page 6 undefined on input 
-line 467.
-
-
-LaTeX Warning: Hyper reference `parts/part1:vasilev2012' on page 6 undefined on
- input line 467.
-
-
-LaTeX Warning: Reference `parts/part1:vasilev2012' on page 6 undefined on input
- line 467.
-
-
-LaTeX Warning: Hyper reference `parts/part1:engler2006' on page 6 undefined on 
-input line 470.
-
-
-LaTeX Warning: Reference `parts/part1:engler2006' on page 6 undefined on input 
-line 470.
-
-[6]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 528.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 295.
+[3] [4]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 425.
 
  (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<oocyte-polar.png, id=572, 767.86874pt x 770.88pt>
+<oocyte-polar.png, id=581, 767.86874pt x 770.88pt>
 File: oocyte-polar.png Graphic file (type png)
  <use oocyte-polar.png>
-Package pdftex.def Info: oocyte-polar.png used on input line 540.
+Package pdftex.def Info: oocyte-polar.png used on input line 437.
 (pdftex.def)             Requested size: 375.80544pt x 377.28752pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 7 undefined on
- input line 547.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 7 undefined on input
- line 547.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 7 undefined on
- input line 547.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 7 undefined on input
- line 547.
-
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 550.
-<figure-1-30.jpg, id=574, 674.52pt x 422.5386pt>
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 447.
+
+<figure-1-30.jpg, id=586, 674.52pt x 422.5386pt>
 File: figure-1-30.jpg Graphic file (type jpg)
  <use figure-1-30.jpg>
-Package pdftex.def Info: figure-1-30.jpg used on input line 570.
+Package pdftex.def Info: figure-1-30.jpg used on input line 467.
 (pdftex.def)             Requested size: 375.80544pt x 235.42078pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 7 undefined on
- input line 574.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 7 undefined on input
- line 574.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 7 undefined on
- input line 574.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 7 undefined on input
- line 574.
-
-
-LaTeX Warning: Hyper reference `parts/part1:huelsmann2013' on page 7 undefined 
-on input line 591.
-
-
-LaTeX Warning: Reference `parts/part1:huelsmann2013' on page 7 undefined on inp
-ut line 591.
-
-[7] [8 <./oocyte-polar.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:fletcher2010' on page 9 undefined o
-n input line 626.
-
-
-LaTeX Warning: Reference `parts/part1:fletcher2010' on page 9 undefined on inpu
-t line 626.
-
-[9 <./figure-1-30.jpg>]
-
-LaTeX Warning: Hyper reference `parts/part1:valiron2001' on page 10 undefined o
-n input line 643.
-
-
-LaTeX Warning: Reference `parts/part1:valiron2001' on page 10 undefined on inpu
-t line 643.
-
-<microtubules-structure.jpg, id=594, 674.52pt x 447.1104pt>
+ [5]
+[6 <./oocyte-polar.png>] [7 <./figure-1-30.jpg>]
+<microtubules-structure.jpg, id=613, 674.52pt x 447.1104pt>
 File: microtubules-structure.jpg Graphic file (type jpg)
 
 <use microtubules-structure.jpg>
-Package pdftex.def Info: microtubules-structure.jpg used on input line 661.
+Package pdftex.def Info: microtubules-structure.jpg used on input line 558.
 (pdftex.def)             Requested size: 328.82706pt x 217.96713pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 10 undefined o
-n input line 667.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 10 undefined on inpu
-t line 667.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 10 undefined o
-n input line 667.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 10 undefined on inpu
-t line 667.
-
-[10 <./microtubules-structure.jpg>]
-
-LaTeX Warning: Hyper reference `parts/part1:dosremedios2003' on page 11 undefin
-ed on input line 693.
-
-
-LaTeX Warning: Reference `parts/part1:dosremedios2003' on page 11 undefined on 
-input line 693.
-
-
-LaTeX Warning: Hyper reference `parts/part1:isambert1995' on page 11 undefined 
-on input line 696.
-
-
-LaTeX Warning: Reference `parts/part1:isambert1995' on page 11 undefined on inp
-ut line 696.
-
-<actin-structure.jpg, id=601, 674.52pt x 391.7034pt>
+ [8 <./microtubules-structure.jpg>]
+<actin-structure.jpg, id=626, 674.52pt x 391.7034pt>
 File: actin-structure.jpg Graphic file (type jpg)
  <use actin-structure.jpg>
-Package pdftex.def Info: actin-structure.jpg used on input line 703.
+Package pdftex.def Info: actin-structure.jpg used on input line 600.
 (pdftex.def)             Requested size: 328.82706pt x 190.95613pt.
 
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 11 undefined o
-n input line 705.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 11 undefined on inpu
-t line 705.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 11 undefined o
-n input line 705.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 11 undefined on inpu
-t line 705.
-
-[11 <./actin-structure.jpg>]
-<elongation-rate-constant.png, id=609, 168.63pt x 382.42876pt>
+[9 <./actin-structure.jpg>]
+<elongation-rate-constant.png, id=639, 168.63pt x 382.42876pt>
 File: elongation-rate-constant.png Graphic file (type png)
 
 <use elongation-rate-constant.png>
-Package pdftex.def Info: elongation-rate-constant.png used on input line 736.
+Package pdftex.def Info: elongation-rate-constant.png used on input line 633.
 (pdftex.def)             Requested size: 117.43875pt x 266.33865pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:pollard2003' on page 12 undefined o
-n input line 740.
-
-
-LaTeX Warning: Reference `parts/part1:pollard2003' on page 12 undefined on inpu
-t line 740.
-
-
-LaTeX Warning: Hyper reference `parts/part1:pollard2003' on page 12 undefined o
-n input line 740.
-
-
-LaTeX Warning: Reference `parts/part1:pollard2003' on page 12 undefined on inpu
-t line 740.
-
-[12 <./elongation-rate-constant.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:pollard1986' on page 13 undefined o
-n input line 756.
-
-
-LaTeX Warning: Reference `parts/part1:pollard1986' on page 13 undefined on inpu
-t line 756.
-
+ [10 <./elongation-rate-constant.png>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 795.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 692.
 
-LaTeX Warning: Hyper reference `parts/part1:faix2006' on page 13 undefined on i
-nput line 802.
-
-
-LaTeX Warning: Reference `parts/part1:faix2006' on page 13 undefined on input l
-ine 802.
-
-
-LaTeX Warning: Hyper reference `parts/part1:bornschlogl2013' on page 13 undefin
-ed on input line 803.
-
-
-LaTeX Warning: Reference `parts/part1:bornschlogl2013' on page 13 undefined on 
-input line 803.
-
-
-LaTeX Warning: Hyper reference `parts/part1:pruyne2002' on page 13 undefined on
- input line 805.
-
-
-LaTeX Warning: Reference `parts/part1:pruyne2002' on page 13 undefined on input
- line 805.
-
-
-LaTeX Warning: Hyper reference `parts/part1:pring2003a' on page 13 undefined on
- input line 805.
-
-
-LaTeX Warning: Reference `parts/part1:pring2003a' on page 13 undefined on input
- line 805.
-
-
-LaTeX Warning: Hyper reference `parts/part1:carlier1997' on page 13 undefined o
-n input line 813.
-
-
-LaTeX Warning: Reference `parts/part1:carlier1997' on page 13 undefined on inpu
-t line 813.
-
-
-LaTeX Warning: Hyper reference `parts/part1:mccullough2011' on page 13 undefine
-d on input line 814.
-
-
-LaTeX Warning: Reference `parts/part1:mccullough2011' on page 13 undefined on i
-nput line 814.
-
-[13]
-
-LaTeX Warning: Hyper reference `parts/part1:kawska2012' on page 14 undefined on
- input line 830.
-
-
-LaTeX Warning: Reference `parts/part1:kawska2012' on page 14 undefined on input
- line 830.
-
-
-LaTeX Warning: Hyper reference `parts/part1:morse1998a' on page 14 undefined on
- input line 853.
-
-
-LaTeX Warning: Reference `parts/part1:morse1998a' on page 14 undefined on input
- line 853.
-
-[14]
-
-LaTeX Warning: Hyper reference `parts/part1:yarmola2009' on page 15 undefined o
-n input line 878.
-
-
-LaTeX Warning: Reference `parts/part1:yarmola2009' on page 15 undefined on inpu
-t line 878.
-
-
-LaTeX Warning: Hyper reference `parts/part1:goley2006' on page 15 undefined on 
-input line 905.
-
-
-LaTeX Warning: Reference `parts/part1:goley2006' on page 15 undefined on input 
-line 905.
-
-
-LaTeX Warning: Hyper reference `parts/part1:machesky1999' on page 15 undefined 
-on input line 911.
-
-
-LaTeX Warning: Reference `parts/part1:machesky1999' on page 15 undefined on inp
-ut line 911.
-
-
-LaTeX Warning: Hyper reference `parts/part1:noguera2012' on page 15 undefined o
-n input line 920.
-
-
-LaTeX Warning: Reference `parts/part1:noguera2012' on page 15 undefined on inpu
-t line 920.
-
-<pwa-deploy.png, id=639, 873.2625pt x 340.27126pt>
+[11] [12] <pwa-deploy.png, id=695, 873.2625pt x 340.27126pt>
 File: pwa-deploy.png Graphic file (type png)
- <use pwa-deploy.png>
-Package pdftex.def Info: pwa-deploy.png used on input line 925.
+
+<use pwa-deploy.png>
+Package pdftex.def Info: pwa-deploy.png used on input line 822.
 (pdftex.def)             Requested size: 281.85587pt x 109.8236pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:goley2006' on page 15 undefined on 
-input line 928.
-
-
-LaTeX Warning: Reference `parts/part1:goley2006' on page 15 undefined on input 
-line 928.
-
-
-LaTeX Warning: Hyper reference `parts/part1:goley2006' on page 15 undefined on 
-input line 928.
-
-
-LaTeX Warning: Reference `parts/part1:goley2006' on page 15 undefined on input 
-line 928.
-
-[15]
-
-LaTeX Warning: Hyper reference `parts/part1:kawska2012' on page 16 undefined on
- input line 942.
-
-
-LaTeX Warning: Reference `parts/part1:kawska2012' on page 16 undefined on input
- line 942.
-
-<pollard2003-actin-cycle.jpg, id=648, 361.35pt x 260.29991pt>
+ [13]
+<pollard2003-actin-cycle.jpg, id=712, 361.35pt x 260.29991pt>
 File: pollard2003-actin-cycle.jpg Graphic file (type jpg)
 
 <use pollard2003-actin-cycle.jpg>
-Package pdftex.def Info: pollard2003-actin-cycle.jpg used on input line 947.
+Package pdftex.def Info: pollard2003-actin-cycle.jpg used on input line 844.
 (pdftex.def)             Requested size: 328.82706pt x 236.87328pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:pollard2000' on page 16 undefined o
-n input line 962.
-
-
-LaTeX Warning: Reference `parts/part1:pollard2000' on page 16 undefined on inpu
-t line 962.
-
-
-LaTeX Warning: Hyper reference `parts/part1:pollard2000' on page 16 undefined o
-n input line 962.
-
-
-LaTeX Warning: Reference `parts/part1:pollard2000' on page 16 undefined on inpu
-t line 962.
-
-
-LaTeX Warning: Hyper reference `parts/part1:hartman2012' on page 16 undefined o
-n input line 979.
-
-
-LaTeX Warning: Reference `parts/part1:hartman2012' on page 16 undefined on inpu
-t line 979.
-
-
-LaTeX Warning: Hyper reference `parts/part1:berridge2012a' on page 16 undefined
- on input line 982.
-
-
-LaTeX Warning: Reference `parts/part1:berridge2012a' on page 16 undefined on in
-put line 982.
-
-
-LaTeX Warning: Hyper reference `parts/part1:buss2008' on page 16 undefined on i
-nput line 990.
-
-
-LaTeX Warning: Reference `parts/part1:buss2008' on page 16 undefined on input l
-ine 990.
-
-
-LaTeX Warning: Hyper reference `parts/part1:holubcova2013' on page 16 undefined
- on input line 997.
-
-
-LaTeX Warning: Reference `parts/part1:holubcova2013' on page 16 undefined on in
-put line 997.
-
-[16 <./pwa-deploy.png>] [17 <./pollard2003-actin-cycle.jpg>]
-<figure-16-54a.jpg, id=662, 674.52pt x 176.3388pt>
+ [14 <./pwa-deploy.png>] [15 <./pollard2003-actin-cycle.jpg>] <figure-16-54a.jp
+g, id=739, 674.52pt x 176.3388pt>
 File: figure-16-54a.jpg Graphic file (type jpg)
- <use figure-16-54a.jpg>
-Package pdftex.def Info: figure-16-54a.jpg used on input line 1067.
+
+<use figure-16-54a.jpg>
+Package pdftex.def Info: figure-16-54a.jpg used on input line 964.
 (pdftex.def)             Requested size: 328.82706pt x 85.96548pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 18 undefined o
-n input line 1074.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 18 undefined on inpu
-t line 1074.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 18 undefined o
-n input line 1074.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 18 undefined on inpu
-t line 1074.
-
-[18] [19 <./figure-16-54a.jpg>]
-
-LaTeX Warning: Hyper reference `parts/part1:morone2006b' on page 20 undefined o
-n input line 1146.
-
-
-LaTeX Warning: Reference `parts/part1:morone2006b' on page 20 undefined on inpu
-t line 1146.
-
-<Actin-Cortex-Moronne-2006.jpg, id=678, 513.92pt x 776.9025pt>
+ [16] [17 <./figure-16-54a.jpg>]
+<Actin-Cortex-Moronne-2006.jpg, id=758, 513.92pt x 776.9025pt>
 File: Actin-Cortex-Moronne-2006.jpg Graphic file (type jpg)
 
 <use Actin-Cortex-Moronne-2006.jpg>
-Package pdftex.def Info: Actin-Cortex-Moronne-2006.jpg used on input line 1151.
+Package pdftex.def Info: Actin-Cortex-Moronne-2006.jpg used on input line 1048.
 
 (pdftex.def)             Requested size: 328.82706pt x 497.09735pt.
 
-
-LaTeX Warning: Hyper reference `parts/part1:morone2006b' on page 20 undefined o
-n input line 1154.
-
-
-LaTeX Warning: Reference `parts/part1:morone2006b' on page 20 undefined on inpu
-t line 1154.
-
-
-LaTeX Warning: Hyper reference `parts/part1:morone2006b' on page 20 undefined o
-n input line 1154.
-
-
-LaTeX Warning: Reference `parts/part1:morone2006b' on page 20 undefined on inpu
-t line 1154.
-
-
-LaTeX Warning: Hyper reference `parts/part1:parekh2005' on page 20 undefined on
- input line 1158.
-
-
-LaTeX Warning: Reference `parts/part1:parekh2005' on page 20 undefined on input
- line 1158.
-
-<Schafer2004.jpg, id=679, 602.25pt x 515.9275pt>
+<Schafer2004.jpg, id=762, 602.25pt x 515.9275pt>
 File: Schafer2004.jpg Graphic file (type jpg)
  <use Schafer2004.jpg>
-Package pdftex.def Info: Schafer2004.jpg used on input line 1174.
+Package pdftex.def Info: Schafer2004.jpg used on input line 1071.
 (pdftex.def)             Requested size: 281.85587pt x 241.46254pt.
 
-
-LaTeX Warning: Hyper reference `parts/part1:schafer2004' on page 20 undefined o
-n input line 1179.
-
-
-LaTeX Warning: Reference `parts/part1:schafer2004' on page 20 undefined on inpu
-t line 1179.
-
-
-LaTeX Warning: Hyper reference `parts/part1:schafer2004' on page 20 undefined o
-n input line 1179.
-
-
-LaTeX Warning: Reference `parts/part1:schafer2004' on page 20 undefined on inpu
-t line 1179.
-
-<figure-16-86.jpg, id=682, 2107.875pt x 548.0475pt>
+<figure-16-86.jpg, id=767, 2107.875pt x 548.0475pt>
 File: figure-16-86.jpg Graphic file (type jpg)
  <use figure-16-86.jpg>
-Package pdftex.def Info: figure-16-86.jpg used on input line 1213.
+Package pdftex.def Info: figure-16-86.jpg used on input line 1110.
 (pdftex.def)             Requested size: 422.77663pt x 109.91696pt.
 
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 20 undefined o
-n input line 1217.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 20 undefined on inpu
-t line 1217.
-
-
-LaTeX Warning: Hyper reference `parts/part1:alberts2008' on page 20 undefined o
-n input line 1217.
-
-
-LaTeX Warning: Reference `parts/part1:alberts2008' on page 20 undefined on inpu
-t line 1217.
-
-[20] [21 <./Actin-Cortex-Moronne-2006.jpg>] [22 <./Schafer2004.jpg> <./figure-1
-6-86.jpg>] <Bleb-nature-paluch.jpg, id=702, 320.8788pt x 285.03288pt>
+[18] [19 <./Actin-Cortex-Moronne-2006.jpg>] [20 <./Schafer2004.jpg> <./figure-1
+6-86.jpg>] <Bleb-nature-paluch.jpg, id=794, 320.8788pt x 285.03288pt>
 File: Bleb-nature-paluch.jpg Graphic file (type jpg)
 
 <use Bleb-nature-paluch.jpg>
-Package pdftex.def Info: Bleb-nature-paluch.jpg used on input line 1249.
+Package pdftex.def Info: Bleb-nature-paluch.jpg used on input line 1146.
 (pdftex.def)             Requested size: 187.89912pt x 166.90665pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:charras2008' on page 23 undefined o
-n input line 1255.
-
-
-LaTeX Warning: Reference `parts/part1:charras2008' on page 23 undefined on inpu
-t line 1255.
-
-
-LaTeX Warning: Hyper reference `parts/part1:charras2008' on page 23 undefined o
-n input line 1255.
-
-
-LaTeX Warning: Reference `parts/part1:charras2008' on page 23 undefined on inpu
-t line 1255.
-
-
-LaTeX Warning: Hyper reference `parts/part1:sturmer1995' on page 23 undefined o
-n input line 1265.
-
-
-LaTeX Warning: Reference `parts/part1:sturmer1995' on page 23 undefined on inpu
-t line 1265.
-
-
-LaTeX Warning: Hyper reference `parts/part1:chaigne2013a' on page 23 undefined 
-on input line 1269.
-
-
-LaTeX Warning: Reference `parts/part1:chaigne2013a' on page 23 undefined on inp
-ut line 1269.
-
-[23 <./Bleb-nature-paluch.jpg>]
-
-LaTeX Warning: Hyper reference `parts/part1:azoury2011' on page 24 undefined on
- input line 1279.
-
-
-LaTeX Warning: Reference `parts/part1:azoury2011' on page 24 undefined on input
- line 1279.
-
-
-LaTeX Warning: Hyper reference `parts/part1:schuh2008' on page 24 undefined on 
-input line 1283.
-
-
-LaTeX Warning: Reference `parts/part1:schuh2008' on page 24 undefined on input 
-line 1283.
-
-
-LaTeX Warning: Hyper reference `parts/part1:feric2013' on page 24 undefined on 
-input line 1289.
-
-
-LaTeX Warning: Reference `parts/part1:feric2013' on page 24 undefined on input 
-line 1289.
-
-
-LaTeX Warning: Hyper reference `parts/part1:huelsmann2013' on page 24 undefined
- on input line 1293.
-
-
-LaTeX Warning: Reference `parts/part1:huelsmann2013' on page 24 undefined on in
-put line 1293.
-
-
-LaTeX Warning: Hyper reference `parts/part1:dabiri1990' on page 24 undefined on
- input line 1331.
-
-
-LaTeX Warning: Reference `parts/part1:dabiri1990' on page 24 undefined on input
- line 1331.
-
-
-LaTeX Warning: Hyper reference `parts/part1:loisel1999' on page 24 undefined on
- input line 1347.
-
-
-LaTeX Warning: Reference `parts/part1:loisel1999' on page 24 undefined on input
- line 1347.
-
-[24]
-
-LaTeX Warning: Hyper reference `parts/part1:kawska2012' on page 25 undefined on
- input line 1365.
-
-
-LaTeX Warning: Reference `parts/part1:kawska2012' on page 25 undefined on input
- line 1365.
-
-<Plastino-Sykes-2005.png, id=715, 759.83875pt x 245.91875pt>
+ [21 <./Bleb-nature-paluch.jpg>] [22]
+<Plastino-Sykes-2005.png, id=829, 759.83875pt x 245.91875pt>
 File: Plastino-Sykes-2005.png Graphic file (type png)
 
 <use Plastino-Sykes-2005.png>
-Package pdftex.def Info: Plastino-Sykes-2005.png used on input line 1373.
+Package pdftex.def Info: Plastino-Sykes-2005.png used on input line 1270.
 (pdftex.def)             Requested size: 281.85587pt x 91.22115pt.
 
-
-LaTeX Warning: Hyper reference `parts/part1:plastino2005' on page 25 undefined 
-on input line 1378.
-
-
-LaTeX Warning: Reference `parts/part1:plastino2005' on page 25 undefined on inp
-ut line 1378.
-
-
-LaTeX Warning: Hyper reference `parts/part1:plastino2005' on page 25 undefined 
-on input line 1378.
-
-
-LaTeX Warning: Reference `parts/part1:plastino2005' on page 25 undefined on inp
-ut line 1378.
-
-
-LaTeX Warning: Hyper reference `parts/part1:kawska2012' on page 25 undefined on
- input line 1393.
-
-
-LaTeX Warning: Reference `parts/part1:kawska2012' on page 25 undefined on input
- line 1393.
-
-<symmetry-breaking-phase-diagram.png, id=716, 556.0775pt x 415.5525pt>
+<symmetry-breaking-phase-diagram.png, id=833, 556.0775pt x 415.5525pt>
 File: symmetry-breaking-phase-diagram.png Graphic file (type png)
 
 <use symmetry-breaking-phase-diagram.png>
 Package pdftex.def Info: symmetry-breaking-phase-diagram.png used on input line
- 1404.
+ 1301.
 (pdftex.def)             Requested size: 328.82706pt x 245.73184pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:kawska2012' on page 25 undefined on
- input line 1409.
-
-
-LaTeX Warning: Reference `parts/part1:kawska2012' on page 25 undefined on input
- line 1409.
-
-
-LaTeX Warning: Hyper reference `parts/part1:kawska2012' on page 25 undefined on
- input line 1409.
-
-
-LaTeX Warning: Reference `parts/part1:kawska2012' on page 25 undefined on input
- line 1409.
-
-[25 <./Plastino-Sykes-2005.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:pujol2012' on page 26 undefined on 
-input line 1419.
-
-
-LaTeX Warning: Reference `parts/part1:pujol2012' on page 26 undefined on input 
-line 1419.
-
-[26 <./symmetry-breaking-phase-diagram.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:carvalho2013' on page 27 undefined 
-on input line 1455.
-
-
-LaTeX Warning: Reference `parts/part1:carvalho2013' on page 27 undefined on inp
-ut line 1455.
-
-<joel-2-11.png, id=731, 677.53125pt x 261.97874pt>
+ [23 <./Plastino-Sykes-2005.png>]
+[24 <./symmetry-breaking-phase-diagram.png>]
+<joel-2-11.png, id=855, 677.53125pt x 261.97874pt>
 File: joel-2-11.png Graphic file (type png)
  <use joel-2-11.png>
-Package pdftex.def Info: joel-2-11.png used on input line 1461.
+Package pdftex.def Info: joel-2-11.png used on input line 1358.
 (pdftex.def)             Requested size: 375.80544pt x 145.31598pt.
 
-
-LaTeX Warning: Hyper reference `parts/part1:carvalho2013' on page 27 undefined 
-on input line 1467.
-
-
-LaTeX Warning: Reference `parts/part1:carvalho2013' on page 27 undefined on inp
-ut line 1467.
-
-
-LaTeX Warning: Hyper reference `parts/part1:carvalho2013' on page 27 undefined 
-on input line 1467.
-
-
-LaTeX Warning: Reference `parts/part1:carvalho2013' on page 27 undefined on inp
-ut line 1467.
-
-<joel-5-12.png, id=732, 627.34375pt x 248.93pt>
+<joel-5-12.png, id=858, 627.34375pt x 248.93pt>
 File: joel-5-12.png Graphic file (type png)
  <use joel-5-12.png>
-Package pdftex.def Info: joel-5-12.png used on input line 1472.
+Package pdftex.def Info: joel-5-12.png used on input line 1369.
 (pdftex.def)             Requested size: 422.77663pt x 167.7622pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:helfrich' on page 27 undefined on i
-nput line 1485.
-
-
-LaTeX Warning: Reference `parts/part1:helfrich' on page 27 undefined on input l
-ine 1485.
-
-[27 <./joel-2-11.png>] [28 <./joel-5-12.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:maitre2012' on page 29 undefined on
- input line 1533.
-
-
-LaTeX Warning: Reference `parts/part1:maitre2012' on page 29 undefined on input
- line 1533.
-
-<Cell-Surface-tension.png, id=754, 502.87875pt x 408.52625pt>
+ [25 <./joel-2-11.png>] [26 <./joel-5-12.png>]
+<Cell-Surface-tension.png, id=884, 502.87875pt x 408.52625pt>
 File: Cell-Surface-tension.png Graphic file (type png)
 
 <use Cell-Surface-tension.png>
-Package pdftex.def Info: Cell-Surface-tension.png used on input line 1541.
+Package pdftex.def Info: Cell-Surface-tension.png used on input line 1438.
 (pdftex.def)             Requested size: 187.89912pt x 152.64217pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:maitre2012' on page 29 undefined on
- input line 1547.
-
-
-LaTeX Warning: Reference `parts/part1:maitre2012' on page 29 undefined on input
- line 1547.
-
-
-LaTeX Warning: Hyper reference `parts/part1:maitre2012' on page 29 undefined on
- input line 1547.
-
-
-LaTeX Warning: Reference `parts/part1:maitre2012' on page 29 undefined on input
- line 1547.
-
-
-LaTeX Warning: Hyper reference `parts/part1:isambert1995' on page 29 undefined 
-on input line 1569.
-
-
-LaTeX Warning: Reference `parts/part1:isambert1995' on page 29 undefined on inp
-ut line 1569.
-
-<F2_large.jpg, id=756, 1284.8pt x 939.51pt>
+ <F2_large.jpg, id=889, 1284.8pt x 939.51pt>
 File: F2_large.jpg Graphic file (type jpg)
- <use F2_large.jpg>
-Package pdftex.def Info: F2_large.jpg used on input line 1583.
+
+<use F2_large.jpg>
+Package pdftex.def Info: F2_large.jpg used on input line 1480.
 (pdftex.def)             Requested size: 281.85587pt x 206.10507pt.
-
-
-LaTeX Warning: Hyper reference `parts/part1:liverpool2006' on page 29 undefined
- on input line 1588.
-
-
-LaTeX Warning: Reference `parts/part1:liverpool2006' on page 29 undefined on in
-put line 1588.
-
-
-LaTeX Warning: Hyper reference `parts/part1:liverpool2006' on page 29 undefined
- on input line 1588.
-
-
-LaTeX Warning: Reference `parts/part1:liverpool2006' on page 29 undefined on in
-put line 1588.
-
-[29 <./Cell-Surface-tension.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:morse1998b' on page 30 undefined on
- input line 1592.
-
-
-LaTeX Warning: Reference `parts/part1:morse1998b' on page 30 undefined on input
- line 1592.
-
-
-LaTeX Warning: Hyper reference `parts/part1:morse1998a' on page 30 undefined on
- input line 1592.
-
-
-LaTeX Warning: Reference `parts/part1:morse1998a' on page 30 undefined on input
- line 1592.
-
-
-LaTeX Warning: Hyper reference `parts/part1:mackintosh1995' on page 30 undefine
-d on input line 1596.
-
-
-LaTeX Warning: Reference `parts/part1:mackintosh1995' on page 30 undefined on i
-nput line 1596.
-
-
-LaTeX Warning: Hyper reference `parts/part1:engler2006' on page 30 undefined on
- input line 1618.
-
-
-LaTeX Warning: Reference `parts/part1:engler2006' on page 30 undefined on input
- line 1618.
-
-[30 <./F2_large.jpg>] <youngm.png, id=778, 2125.0628pt x 831.51102pt>
+ [27 <./Cell-Surface-tension.png>] [28 <./F2_large.jpg>]
+<youngm.png, id=921, 2125.0628pt x 831.51102pt>
 File: youngm.png Graphic file (type png)
-
-<use youngm.png>
-Package pdftex.def Info: youngm.png used on input line 1633.
+ <use youngm.png>
+Package pdftex.def Info: youngm.png used on input line 1530.
 (pdftex.def)             Requested size: 375.80544pt x 147.03914pt.
- [31 <./youngm.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:gardel2003' on page 32 undefined on
- input line 1678.
-
-
-LaTeX Warning: Reference `parts/part1:gardel2003' on page 32 undefined on input
- line 1678.
-
-
-LaTeX Warning: Hyper reference `parts/part1:mahaffy2004' on page 32 undefined o
-n input line 1681.
-
-
-LaTeX Warning: Reference `parts/part1:mahaffy2004' on page 32 undefined on inpu
-t line 1681.
-
-
-LaTeX Warning: Hyper reference `parts/part1:thoumine1997' on page 32 undefined 
-on input line 1707.
-
-
-LaTeX Warning: Reference `parts/part1:thoumine1997' on page 32 undefined on inp
-ut line 1707.
-
-
-LaTeX Warning: Hyper reference `parts/part1:gardel2003' on page 32 undefined on
- input line 1708.
-
-
-LaTeX Warning: Reference `parts/part1:gardel2003' on page 32 undefined on input
- line 1708.
-
-<MKV.png, id=791, 518.4168pt x 130.5678pt>
+ [29 <./youngm.png>] <MKV.png, id=938, 518.4168pt x 130.5678pt>
 File: MKV.png Graphic file (type png)
  <use MKV.png>
-Package pdftex.def Info: MKV.png used on input line 1727.
+Package pdftex.def Info: MKV.png used on input line 1624.
 (pdftex.def)             Requested size: 328.82706pt x 82.81796pt.
- [32] [33 <./MKV.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:morse1998a' on page 34 undefined on
- input line 1791.
-
-
-LaTeX Warning: Reference `parts/part1:morse1998a' on page 34 undefined on input
- line 1791.
-
-
-LaTeX Warning: Hyper reference `parts/part1:kruse2005' on page 34 undefined on 
-input line 1791.
-
-
-LaTeX Warning: Reference `parts/part1:kruse2005' on page 34 undefined on input 
-line 1791.
-
-
-LaTeX Warning: Hyper reference `parts/part1:mizuno2007' on page 34 undefined on
- input line 1792.
-
-
-LaTeX Warning: Reference `parts/part1:mizuno2007' on page 34 undefined on input
- line 1792.
-
-
-LaTeX Warning: Hyper reference `parts/part1:yao2011' on page 34 undefined on in
-put line 1793.
-
-
-LaTeX Warning: Reference `parts/part1:yao2011' on page 34 undefined on input li
-ne 1793.
-
-
-LaTeX Warning: Hyper reference `parts/part1:gardel2003' on page 34 undefined on
- input line 1793.
-
-
-LaTeX Warning: Reference `parts/part1:gardel2003' on page 34 undefined on input
- line 1793.
-
-<ot1.png, id=822, 2064.85715pt x 1009.71515pt>
+ [30] [31 <./MKV.png>] <ot1.png, id=982, 2064.85715pt x 1009.71515pt>
 File: ot1.png Graphic file (type png)
  <use ot1.png>
-Package pdftex.def Info: ot1.png used on input line 1838.
+Package pdftex.def Info: ot1.png used on input line 1735.
 (pdftex.def)             Requested size: 328.82706pt x 160.78737pt.
- [34]
-<setup-plus-1.png, id=834, 1451.4225pt x 1389.2703pt>
+ [32]
+<setup-plus-1.png, id=997, 1451.4225pt x 1389.2703pt>
 File: setup-plus-1.png Graphic file (type png)
  <use setup-plus-1.png>
-Package pdftex.def Info: setup-plus-1.png used on input line 1869.
+Package pdftex.def Info: setup-plus-1.png used on input line 1766.
 (pdftex.def)             Requested size: 422.77663pt x 404.65874pt.
 
-
-LaTeX Warning: Hyper reference `parts/part1:jahnel2011' on page 35 undefined on
- input line 1906.
-
-
-LaTeX Warning: Reference `parts/part1:jahnel2011' on page 35 undefined on input
- line 1906.
-
-
-LaTeX Warning: Hyper reference `parts/part1:vermeulen2006' on page 35 undefined
- on input line 1906.
-
-
-LaTeX Warning: Reference `parts/part1:vermeulen2006' on page 35 undefined on in
-put line 1906.
-
-[35 <./ot1.png>] [36 <./setup-plus-1.png>]
-
-LaTeX Warning: Hyper reference `parts/part1:nieminen2007' on page 37 undefined 
-on input line 1917.
-
-
-LaTeX Warning: Reference `parts/part1:nieminen2007' on page 37 undefined on inp
-ut line 1917.
-
-[37] [38
+[33 <./ot1.png>] [34 <./setup-plus-1.png>] [35] [36
 
 ]
 Chapter 2.
-[39]
-
-LaTeX Warning: Hyper reference `parts/part2:carvalho2013a' on page 40 undefined
- on input line 2037.
-
-
-LaTeX Warning: Reference `parts/part2:carvalho2013a' on page 40 undefined on in
-put line 2037.
-
-[40]
-
-LaTeX Warning: Hyper reference `parts/part2:soeno1998' on page 41 undefined on 
-input line 2050.
-
-
-LaTeX Warning: Reference `parts/part2:soeno1998' on page 41 undefined on input 
-line 2050.
-
-
-LaTeX Warning: Hyper reference `parts/part2:soaresesilva2011' on page 41 undefi
-ned on input line 2056.
-
-
-LaTeX Warning: Reference `parts/part2:soaresesilva2011' on page 41 undefined on
- input line 2056.
-
-
-LaTeX Warning: Hyper reference `parts/part2:angelova1986' on page 41 undefined 
-on input line 2105.
-
-
-LaTeX Warning: Reference `parts/part2:angelova1986' on page 41 undefined on inp
-ut line 2105.
-
-[41] [42]
-File: setup-plus-1.png Graphic file (type png)
- <use setup-plus-1.png>
-Package pdftex.def Info: setup-plus-1.png used on input line 2221.
-(pdftex.def)             Requested size: 281.85587pt x 269.77249pt.
-
-<frontend.png, id=877, 703.12688pt x 1049.42062pt>
+[37] [38] [39] [40] <frontend.png, id=1055, 1049.42062pt x 703.12688pt>
 File: frontend.png Graphic file (type png)
- <use frontend.png>
-Package pdftex.def Info: frontend.png used on input line 2251.
-(pdftex.def)             Requested size: 305.33788pt x 455.70966pt.
- [43]
-[44] [45] [46 <./frontend.png>]
-<beed_move.png, id=900, 849.0154pt x 1755.21835pt>
+
+<use frontend.png>
+Package pdftex.def Info: frontend.png used on input line 2139.
+(pdftex.def)             Requested size: 422.77663pt x 283.26279pt.
+ [41] [42 <./frontend.png>]
+<beed_move.png, id=1067, 849.0154pt x 1755.21835pt>
 File: beed_move.png Graphic file (type png)
  <use beed_move.png>
-Package pdftex.def Info: beed_move.png used on input line 2336.
+Package pdftex.def Info: beed_move.png used on input line 2224.
 (pdftex.def)             Requested size: 234.8775pt x 485.56566pt.
 
+[43] [44 <./beed_move.png>] [45] [46
 
-LaTeX Warning: Hyper reference `parts/part2:holubcova2013' on page 47 undefined
- on input line 2392.
-
-
-LaTeX Warning: Reference `parts/part2:holubcova2013' on page 47 undefined on in
-put line 2392.
-
-[47] [48 <./beed_move.png>]
+]
 Chapter 3.
-
-LaTeX Warning: Hyper reference `parts/part3:plastino2005' on page 49 undefined 
-on input line 2410.
-
-
-LaTeX Warning: Reference `parts/part3:plastino2005' on page 49 undefined on inp
-ut line 2410.
-
-
-LaTeX Warning: Hyper reference `parts/part3:loisel1999' on page 49 undefined on
- input line 2411.
-
-
-LaTeX Warning: Reference `parts/part3:loisel1999' on page 49 undefined on input
- line 2411.
-
-
-LaTeX Warning: Hyper reference `parts/part3:bernheim-groswasser2002' on page 49
- undefined on input line 2411.
-
-
-LaTeX Warning: Reference `parts/part3:bernheim-groswasser2002' on page 49 undef
-ined on input line 2411.
-
-
-LaTeX Warning: Hyper reference `parts/part3:pontani2009' on page 49 undefined o
-n input line 2411.
-
-
-LaTeX Warning: Reference `parts/part3:pontani2009' on page 49 undefined on inpu
-t line 2411.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 49 undefined on
- input line 2430.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 49 undefined on input
- line 2430.
-
-<Bead-tirf-fluo-sim.png, id=912, 511.9125pt x 341.275pt>
+<Bead-tirf-fluo-sim.png, id=1096, 511.9125pt x 341.275pt>
 File: Bead-tirf-fluo-sim.png Graphic file (type png)
 
 <use Bead-tirf-fluo-sim.png>
-Package pdftex.def Info: Bead-tirf-fluo-sim.png used on input line 2443.
+Package pdftex.def Info: Bead-tirf-fluo-sim.png used on input line 2331.
 (pdftex.def)             Requested size: 328.82706pt x 219.2172pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 49 undefined on
- input line 2451.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 49 undefined on input
- line 2451.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 49 undefined on
- input line 2451.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 49 undefined on input
- line 2451.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 49 undefined on
- input line 2454.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 49 undefined on input
- line 2454.
-
-
-LaTeX Warning: Hyper reference `parts/part3:pujol2012' on page 49 undefined on 
-input line 2455.
-
-
-LaTeX Warning: Reference `parts/part3:pujol2012' on page 49 undefined on input 
-line 2455.
-
-[49
-
-]
-
-LaTeX Warning: Hyper reference `parts/part3:pujol2012' on page 50 undefined on 
-input line 2465.
-
-
-LaTeX Warning: Reference `parts/part3:pujol2012' on page 50 undefined on input 
-line 2465.
-
-<intensity_profile_xnM_Arp_xnM_CP_xmin.png, id=922, 590.205pt x 724.7075pt>
+ [47]
+<intensity_profile_xnM_Arp_xnM_CP_xmin.png, id=1116, 590.205pt x 724.7075pt>
 File: intensity_profile_xnM_Arp_xnM_CP_xmin.png Graphic file (type png)
 
 <use intensity_profile_xnM_Arp_xnM_CP_xmin.png>
 Package pdftex.def Info: intensity_profile_xnM_Arp_xnM_CP_xmin.png used on inpu
-t line 2479.
+t line 2367.
 (pdftex.def)             Requested size: 375.80544pt x 461.45584pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 50 undefined on
- input line 2486.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 50 undefined on input
- line 2486.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 50 undefined on
- input line 2486.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 50 undefined on input
- line 2486.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 50 undefined on
- input line 2500.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 50 undefined on input
- line 2500.
-
-[50 <./Bead-tirf-fluo-sim.png>] [51 <./intensity_profile_xnM_Arp_xnM_CP_xmin.pn
-g>]
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 52 undefined on
- input line 2516.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 52 undefined on input
- line 2516.
-
-[52] <force_time.png, id=953, 1445.4pt x 722.7pt>
+ [48 <./Bead-tirf-fluo-sim.png>] [49 <./intensity_profile_xnM_Arp_xnM_CP_xmin.p
+ng>] [50]
+<force_time.png, id=1154, 1445.4pt x 722.7pt>
 File: force_time.png Graphic file (type png)
  <use force_time.png>
-Package pdftex.def Info: force_time.png used on input line 2587.
+Package pdftex.def Info: force_time.png used on input line 2475.
 (pdftex.def)             Requested size: 328.82706pt x 164.40898pt.
 
-<force-distance.png, id=956, 867.24pt x 515.9275pt>
+<force-distance.png, id=1157, 867.24pt x 515.9275pt>
 File: force-distance.png Graphic file (type png)
  <use force-distance.png>
-Package pdftex.def Info: force-distance.png used on input line 2623.
+Package pdftex.def Info: force-distance.png used on input line 2511.
 (pdftex.def)             Requested size: 375.80544pt x 223.56856pt.
 
-[53 <./force_time.png>] <reproc-time.png, id=967, 1300.86pt x 722.7pt>
+[51 <./force_time.png>] <reproc-time.png, id=1169, 1300.86pt x 722.7pt>
 File: reproc-time.png Graphic file (type png)
 
 <use reproc-time.png>
-Package pdftex.def Info: reproc-time.png used on input line 2648.
+Package pdftex.def Info: reproc-time.png used on input line 2536.
 (pdftex.def)             Requested size: 469.755pt x 260.9768pt.
- <reproc.png, id=968, 1156.32pt x 433.62pt>
+ <reproc.png, id=1170, 1156.32pt x 433.62pt>
 File: reproc.png Graphic file (type png)
 
 <use reproc.png>
-Package pdftex.def Info: reproc.png used on input line 2659.
+Package pdftex.def Info: reproc.png used on input line 2547.
 (pdftex.def)             Requested size: 375.80544pt x 140.92482pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:gardel2003' on page 54 undefined on
- input line 2669.
-
-
-LaTeX Warning: Reference `parts/part3:gardel2003' on page 54 undefined on input
- line 2669.
-
-<many_speed.png, id=972, 722.7pt x 578.16pt>
+ <many_speed.png, id=1175, 722.7pt x 578.16pt>
 File: many_speed.png Graphic file (type png)
- <use many_speed.png>
-Package pdftex.def Info: many_speed.png used on input line 2679.
+
+<use many_speed.png>
+Package pdftex.def Info: many_speed.png used on input line 2567.
 (pdftex.def)             Requested size: 281.85587pt x 225.48149pt.
- [54 <./force-distance.png>] [55 <./reproc-time.png> <./reproc.png>]
-<cloud-repelling.png, id=988, 867.24pt x 578.16pt>
+ [52 <./force-distance.png>] [53 <./reproc-time.png> <./reproc.png>] <cloud-rep
+elling.png, id=1193, 867.24pt x 578.16pt>
 File: cloud-repelling.png Graphic file (type png)
- <use cloud-repelling.png>
-Package pdftex.def Info: cloud-repelling.png used on input line 2710.
+
+<use cloud-repelling.png>
+Package pdftex.def Info: cloud-repelling.png used on input line 2598.
 (pdftex.def)             Requested size: 399.29462pt x 266.19502pt.
-
-<d0_violin.png, id=989, 750.805pt x 515.9275pt>
+ <d0_violin.png, id=1194, 750.805pt x 515.9275pt>
 File: d0_violin.png Graphic file (type png)
- <use d0_violin.png>
-Package pdftex.def Info: d0_violin.png used on input line 2719.
+
+<use d0_violin.png>
+Package pdftex.def Info: d0_violin.png used on input line 2607.
 (pdftex.def)             Requested size: 305.33788pt x 209.82333pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 56 undefined on
- input line 2735.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 56 undefined on input
- line 2735.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 56 undefined on
- input line 2735.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 56 undefined on input
- line 2735.
-
-[56 <./many_speed.png>] [57 <./cloud-repelling.png>] [58 <./d0_violin.png>]
-
-LaTeX Warning: Hyper reference `parts/part3:pujol2012' on page 59 undefined on 
-input line 2780.
-
-
-LaTeX Warning: Reference `parts/part3:pujol2012' on page 59 undefined on input 
-line 2780.
-
-<force-distance-fit.png, id=1013, 867.24pt x 515.9275pt>
+ [54 <./many_speed.png>] [55 <./cloud-repelling.png>]
+[56 <./d0_violin.png>]
+<force-distance-fit.png, id=1227, 867.24pt x 515.9275pt>
 File: force-distance-fit.png Graphic file (type png)
 
 <use force-distance-fit.png>
-Package pdftex.def Info: force-distance-fit.png used on input line 2793.
+Package pdftex.def Info: force-distance-fit.png used on input line 2681.
 (pdftex.def)             Requested size: 469.755pt x 279.46266pt.
 
-<force-distance-fit-loglog.png, id=1015, 867.24pt x 515.9275pt>
+<force-distance-fit-loglog.png, id=1229, 867.24pt x 515.9275pt>
 File: force-distance-fit-loglog.png Graphic file (type png)
 
 <use force-distance-fit-loglog.png>
-Package pdftex.def Info: force-distance-fit-loglog.png used on input line 2809.
+Package pdftex.def Info: force-distance-fit-loglog.png used on input line 2697.
 
 (pdftex.def)             Requested size: 375.80544pt x 223.56856pt.
- [59 <./force-distance-fit.png>]
-<alpha_violin.png, id=1028, 650.43pt x 1067.99pt>
+
+<alpha_violin.png, id=1233, 650.43pt x 1067.99pt>
 File: alpha_violin.png Graphic file (type png)
  <use alpha_violin.png>
-Package pdftex.def Info: alpha_violin.png used on input line 2829.
+Package pdftex.def Info: alpha_violin.png used on input line 2717.
 (pdftex.def)             Requested size: 281.85587pt x 462.81192pt.
 
-<rescaled_powerlaw.png, id=1030, 750.805pt x 515.9275pt>
+<rescaled_powerlaw.png, id=1235, 750.805pt x 515.9275pt>
 File: rescaled_powerlaw.png Graphic file (type png)
 
 <use rescaled_powerlaw.png>
-Package pdftex.def Info: rescaled_powerlaw.png used on input line 2844.
+Package pdftex.def Info: rescaled_powerlaw.png used on input line 2732.
 (pdftex.def)             Requested size: 328.82706pt x 225.96176pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 60 undefined on
- input line 2865.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 60 undefined on input
- line 2865.
-
-<beta_violin.png, id=1033, 750.805pt x 515.9275pt>
+ [57 <./force-distance-fit.png>]
+<beta_violin.png, id=1251, 750.805pt x 515.9275pt>
 File: beta_violin.png Graphic file (type png)
  <use beta_violin.png>
-Package pdftex.def Info: beta_violin.png used on input line 2882.
+Package pdftex.def Info: beta_violin.png used on input line 2770.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
 
-[60 <./force-distance-fit-loglog.png>] [61 <./alpha_violin.png>]
-<delta_violin.png, id=1048, 750.805pt x 515.9275pt>
+<delta_violin.png, id=1253, 750.805pt x 515.9275pt>
 File: delta_violin.png Graphic file (type png)
  <use delta_violin.png>
-Package pdftex.def Info: delta_violin.png used on input line 2899.
+Package pdftex.def Info: delta_violin.png used on input line 2787.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
 
-[62 <./rescaled_powerlaw.png>] [63 <./beta_violin.png> <./delta_violin.png>]
-
-LaTeX Warning: Hyper reference `parts/part3:marcy2004' on page 64 undefined on 
-input line 2961.
-
-
-LaTeX Warning: Reference `parts/part3:marcy2004' on page 64 undefined on input 
-line 2961.
-
-
-LaTeX Warning: Hyper reference `parts/part3:gardel2003' on page 64 undefined on
- input line 2969.
-
-
-LaTeX Warning: Reference `parts/part3:gardel2003' on page 64 undefined on input
- line 2969.
-
-<E0_violin.png, id=1068, 750.805pt x 515.9275pt>
+[58 <./force-distance-fit-loglog.png>] [59 <./alpha_violin.png>] [60 <./rescale
+d_powerlaw.png> <./beta_violin.png>] [61 <./delta_violin.png>]
+<E0_violin.png, id=1288, 750.805pt x 515.9275pt>
 File: E0_violin.png Graphic file (type png)
  <use E0_violin.png>
-Package pdftex.def Info: E0_violin.png used on input line 2978.
+Package pdftex.def Info: E0_violin.png used on input line 2866.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:isambert1996' on page 64 undefined 
-on input line 2987.
-
-
-LaTeX Warning: Reference `parts/part3:isambert1996' on page 64 undefined on inp
-ut line 2987.
-
-
-LaTeX Warning: Hyper reference `parts/part3:mackintosh1995' on page 64 undefine
-d on input line 2988.
-
-
-LaTeX Warning: Reference `parts/part3:mackintosh1995' on page 64 undefined on i
-nput line 2988.
-
-
-LaTeX Warning: Hyper reference `parts/part3:morse1998a' on page 64 undefined on
- input line 2988.
-
-
-LaTeX Warning: Reference `parts/part3:morse1998a' on page 64 undefined on input
- line 2988.
-
-
-LaTeX Warning: Hyper reference `parts/part3:morse1998b' on page 64 undefined on
- input line 2992.
-
-
-LaTeX Warning: Reference `parts/part3:morse1998b' on page 64 undefined on input
- line 2992.
-
-
-LaTeX Warning: Hyper reference `parts/part3:semmrich2008' on page 64 undefined 
-on input line 2998.
-
-
-LaTeX Warning: Reference `parts/part3:semmrich2008' on page 64 undefined on inp
-ut line 2998.
-
-[64]
-
-LaTeX Warning: Hyper reference `parts/part3:morse1998a' on page 65 undefined on
- input line 3002.
-
-
-LaTeX Warning: Reference `parts/part3:morse1998a' on page 65 undefined on input
- line 3002.
-
-[65 <./E0_violin.png>]
-
-LaTeX Warning: Hyper reference `parts/part3:morse1998a' on page 66 undefined on
- input line 3037.
-
-
-LaTeX Warning: Reference `parts/part3:morse1998a' on page 66 undefined on input
- line 3037.
-
-<xi_violin.png, id=1094, 750.805pt x 515.9275pt>
+ [62]
+[63 <./E0_violin.png>] <xi_violin.png, id=1332, 750.805pt x 515.9275pt>
 File: xi_violin.png Graphic file (type png)
- <use xi_violin.png>
-Package pdftex.def Info: xi_violin.png used on input line 3063.
+
+<use xi_violin.png>
+Package pdftex.def Info: xi_violin.png used on input line 2951.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
-
-<delta-xi-corr.png, id=1097, 433.62pt x 433.62pt>
+ <delta-xi-corr.png, id=1335, 433.62pt x 433.62pt>
 File: delta-xi-corr.png Graphic file (type png)
- <use delta-xi-corr.png>
-Package pdftex.def Info: delta-xi-corr.png used on input line 3073.
+
+<use delta-xi-corr.png>
+Package pdftex.def Info: delta-xi-corr.png used on input line 2961.
 (pdftex.def)             Requested size: 469.755pt x 469.7781pt.
-
-<delta-xi-facets.png, id=1098, 722.7pt x 722.7pt>
+ <delta-xi-facets.png, id=1336, 722.7pt x 722.7pt>
 File: delta-xi-facets.png Graphic file (type png)
- <use delta-xi-facets.png>
-Package pdftex.def Info: delta-xi-facets.png used on input line 3081.
+
+<use delta-xi-facets.png>
+Package pdftex.def Info: delta-xi-facets.png used on input line 2969.
 (pdftex.def)             Requested size: 469.755pt x 469.76045pt.
-
-[66]
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 67 undefined on
- input line 3119.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 67 undefined on input
- line 3119.
-
-<interp-delta.png, id=1124, 11657.70692pt x 4152.74539pt>
+ [64 <./xi_violin.png>] [65 <./delta-xi-corr.png>]
+[66 <./delta-xi-facets.png>]
+<interp-delta.png, id=1368, 11657.70692pt x 4152.74539pt>
 File: interp-delta.png Graphic file (type png)
 
 <use interp-delta.png>
-Package pdftex.def Info: interp-delta.png used on input line 3132.
+Package pdftex.def Info: interp-delta.png used on input line 3020.
 (pdftex.def)             Requested size: 422.77663pt x 150.55693pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 67 undefined on
- input line 3145.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 67 undefined on input
- line 3145.
-
-<time-delta-corr.png, id=1126, 433.62pt x 433.62pt>
+ <time-delta-corr.png, id=1371, 433.62pt x 433.62pt>
 File: time-delta-corr.png Graphic file (type png)
- <use time-delta-corr.png>
-Package pdftex.def Info: time-delta-corr.png used on input line 3155.
+
+<use time-delta-corr.png>
+Package pdftex.def Info: time-delta-corr.png used on input line 3043.
 (pdftex.def)             Requested size: 422.77663pt x 422.80096pt.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 67 undefined on
- input line 3161.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 67 undefined on input
- line 3161.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 67 undefined on
- input line 3161.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 67 undefined on input
- line 3161.
-
-[67 <./xi_violin.png>] [68 <./delta-xi-corr.png>] [69 <./delta-xi-facets.png>]
-
-LaTeX Warning: Hyper reference `parts/part3:morse1998a' on page 70 undefined on
- input line 3177.
-
-
-LaTeX Warning: Reference `parts/part3:morse1998a' on page 70 undefined on input
- line 3177.
-
-<3phases.png, id=1152, 750.805pt x 515.9275pt>
+ [67 <./interp-delta.png>] [68 <./time-delta-corr.png>] <3phases.png, id=1395, 
+750.805pt x 515.9275pt>
 File: 3phases.png Graphic file (type png)
  <use 3phases.png>
-Package pdftex.def Info: 3phases.png used on input line 3210.
+Package pdftex.def Info: 3phases.png used on input line 3098.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
 
-<tau_violin.png, id=1153, 750.805pt x 515.9275pt>
+<tau_violin.png, id=1396, 750.805pt x 515.9275pt>
 File: tau_violin.png Graphic file (type png)
  <use tau_violin.png>
-Package pdftex.def Info: tau_violin.png used on input line 3217.
+Package pdftex.def Info: tau_violin.png used on input line 3105.
 (pdftex.def)             Requested size: 375.80544pt x 258.24652pt.
- [70 <./interp-delta.png>] [71 <./time-delta-corr.png>]
 
-LaTeX Warning: Hyper reference `parts/part3:morse1998a' on page 72 undefined on
- input line 3221.
-
-
-LaTeX Warning: Reference `parts/part3:morse1998a' on page 72 undefined on input
- line 3221.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 72 undefined on
- input line 3234.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 72 undefined on input
- line 3234.
-
-<sticking-event.png, id=1168, 751.608pt x 516.7305pt>
+<sticking-event.png, id=1401, 751.608pt x 516.7305pt>
 File: sticking-event.png Graphic file (type png)
  <use sticking-event.png>
-Package pdftex.def Info: sticking-event.png used on input line 3248.
+Package pdftex.def Info: sticking-event.png used on input line 3136.
 (pdftex.def)             Requested size: 375.80544pt x 258.36461pt.
 
-[72 <./3phases.png>] [73 <./tau_violin.png> <./sticking-event.png>]
-<retract-powerlaw.png, id=1186, 1011.78pt x 516.7305pt>
+[69] [70 <./3phases.png> <./tau_violin.png>]
+<retract-powerlaw.png, id=1419, 1011.78pt x 516.7305pt>
 File: retract-powerlaw.png Graphic file (type png)
 
 <use retract-powerlaw.png>
-Package pdftex.def Info: retract-powerlaw.png used on input line 3283.
+Package pdftex.def Info: retract-powerlaw.png used on input line 3171.
 (pdftex.def)             Requested size: 469.755pt x 239.9145pt.
- <interpolation.png, id=1188, 867.24pt x 289.08pt>
+ [71 <./sticking-event.png>]
+<interpolation.png, id=1433, 867.24pt x 289.08pt>
 File: interpolation.png Graphic file (type png)
-
-<use interpolation.png>
-Package pdftex.def Info: interpolation.png used on input line 3298.
+ <use interpolation.png>
+Package pdftex.def Info: interpolation.png used on input line 3186.
 (pdftex.def)             Requested size: 422.77663pt x 140.92703pt.
- [74 <./retract-powerlaw.png>]
 
-LaTeX Warning: Hyper reference `parts/part3:iwabuchi2010' on page 75 undefined 
-on input line 3321.
-
-
-LaTeX Warning: Reference `parts/part3:iwabuchi2010' on page 75 undefined on inp
-ut line 3321.
-
-
-LaTeX Warning: Hyper reference `parts/part3:jaalouk2009' on page 75 undefined o
-n input line 3324.
-
-
-LaTeX Warning: Reference `parts/part3:jaalouk2009' on page 75 undefined on inpu
-t line 3324.
-
-
-LaTeX Warning: Hyper reference `parts/part3:kawska2012' on page 75 undefined on
- input line 3340.
-
-
-LaTeX Warning: Reference `parts/part3:kawska2012' on page 75 undefined on input
- line 3340.
-
-
-LaTeX Warning: Hyper reference `parts/part3:feric2013' on page 75 undefined on 
-input line 3344.
-
-
-LaTeX Warning: Reference `parts/part3:feric2013' on page 75 undefined on input 
-line 3344.
-
-
-LaTeX Warning: Hyper reference `parts/part3:gardel2003' on page 75 undefined on
- input line 3345.
-
-
-LaTeX Warning: Reference `parts/part3:gardel2003' on page 75 undefined on input
- line 3345.
-
-[75 <./interpolation.png>] [76]
-Chapter 4.
-
-LaTeX Warning: Hyper reference `parts/part4:clark2013' on page 77 undefined on 
-input line 3378.
-
-
-LaTeX Warning: Reference `parts/part4:clark2013' on page 77 undefined on input 
-line 3378.
-
-
-LaTeX Warning: Hyper reference `parts/part4:salbreux2012b' on page 77 undefined
- on input line 3379.
-
-
-LaTeX Warning: Reference `parts/part4:salbreux2012b' on page 77 undefined on in
-put line 3379.
-
-
-LaTeX Warning: Hyper reference `parts/part4:tinevez2009' on page 77 undefined o
-n input line 3381.
-
-
-LaTeX Warning: Reference `parts/part4:tinevez2009' on page 77 undefined on inpu
-t line 3381.
-
-
-LaTeX Warning: Hyper reference `parts/part4:maitre2012' on page 77 undefined on
- input line 3384.
-
-
-LaTeX Warning: Reference `parts/part4:maitre2012' on page 77 undefined on input
- line 3384.
-
-
-LaTeX Warning: Hyper reference `parts/part4:carvalho2013a' on page 77 undefined
- on input line 3388.
-
-
-LaTeX Warning: Reference `parts/part4:carvalho2013a' on page 77 undefined on in
-put line 3388.
-
-
-LaTeX Warning: Hyper reference `parts/part4:carvalho2013a' on page 77 undefined
- on input line 3393.
-
-
-LaTeX Warning: Reference `parts/part4:carvalho2013a' on page 77 undefined on in
-put line 3393.
-
-
-LaTeX Warning: Hyper reference `parts/part4:maitre2012' on page 77 undefined on
- input line 3401.
-
-
-LaTeX Warning: Reference `parts/part4:maitre2012' on page 77 undefined on input
- line 3401.
-
-<Fig_01-A.png, id=1217, 3673.01646pt x 3604.99765pt>
-File: Fig_01-A.png Graphic file (type png)
- <use Fig_01-A.png>
-Package pdftex.def Info: Fig_01-A.png used on input line 3422.
-(pdftex.def)             Requested size: 234.8775pt x 230.48253pt.
-
-[77
+[72 <./retract-powerlaw.png> <./interpolation.png>] [73] [74
 
 ]
+Chapter 4.
+<Fig_01-A.png, id=1471, 3673.01646pt x 3604.99765pt>
+File: Fig_01-A.png Graphic file (type png)
+ <use Fig_01-A.png>
+Package pdftex.def Info: Fig_01-A.png used on input line 3310.
+(pdftex.def)             Requested size: 234.8775pt x 230.48253pt.
 
-LaTeX Warning: Hyper reference `parts/part4:carvalho2013a' on page 78 undefined
- on input line 3430.
-
-
-LaTeX Warning: Reference `parts/part4:carvalho2013a' on page 78 undefined on in
-put line 3430.
-
-
-LaTeX Warning: Hyper reference `parts/part4:carvalho2013a' on page 78 undefined
- on input line 3435.
-
-
-LaTeX Warning: Reference `parts/part4:carvalho2013a' on page 78 undefined on in
-put line 3435.
-
-<doublets-schema.png, id=1228, 515.57983pt x 343.18156pt>
+[75] <doublets-schema.png, id=1491, 515.57983pt x 343.18156pt>
 File: doublets-schema.png Graphic file (type png)
 
 <use doublets-schema.png>
-Package pdftex.def Info: doublets-schema.png used on input line 3444.
+Package pdftex.def Info: doublets-schema.png used on input line 3332.
 (pdftex.def)             Requested size: 328.82706pt x 218.8814pt.
- <Fig_01-B.png, id=1229, 4676.29411pt x 4336.2pt>
+ <Fig_01-B.png, id=1492, 4676.29411pt x 4336.2pt>
 File: Fig_01-B.png Graphic file (type png)
 
 <use Fig_01-B.png>
-Package pdftex.def Info: Fig_01-B.png used on input line 3454.
+Package pdftex.def Info: Fig_01-B.png used on input line 3342.
 (pdftex.def)             Requested size: 234.8775pt x 217.74901pt.
- <Fig_01-C.png, id=1230, 9361.09059pt x 9586.40294pt>
+ <Fig_01-C.png, id=1493, 9361.09059pt x 9586.40294pt>
 File: Fig_01-C.png Graphic file (type png)
 
 <use Fig_01-C.png>
-Package pdftex.def Info: Fig_01-C.png used on input line 3463.
+Package pdftex.def Info: Fig_01-C.png used on input line 3351.
 (pdftex.def)             Requested size: 234.8775pt x 240.47864pt.
-
-
-LaTeX Warning: Hyper reference `parts/part4:sandre1999' on page 78 undefined on
- input line 3472.
-
-
-LaTeX Warning: Reference `parts/part4:sandre1999' on page 78 undefined on input
- line 3472.
-
-<notations-doublets.png, id=1233, 718.685pt x 584.1825pt>
+ <notations-doublets.png, id=1497, 718.685pt x 584.1825pt>
 File: notations-doublets.png Graphic file (type png)
 
 <use notations-doublets.png>
-Package pdftex.def Info: notations-doublets.png used on input line 3487.
+Package pdftex.def Info: notations-doublets.png used on input line 3375.
 (pdftex.def)             Requested size: 234.8775pt x 190.9178pt.
- [78 <./Fig_01-A.png>] [79 <./doublets-schema.png> <./Fig_01-B.png>] <doublet-c
-ontract.png, id=1250, 101.6598pt x 203.8014pt>
+ [76 <./Fig_01-A.png>] [77 <./doublets-schema.png> <./Fig_01-B.png>] [78 <./Fig
+_01-C.png> <./notations-doublets.png>]
+<doublet-contract.png, id=1523, 101.6598pt x 203.8014pt>
 File: doublet-contract.png Graphic file (type png)
 
 <use doublet-contract.png>
-Package pdftex.def Info: doublet-contract.png used on input line 3530.
+Package pdftex.def Info: doublet-contract.png used on input line 3418.
 (pdftex.def)             Requested size: 140.92793pt x 282.53055pt.
- [80 <./Fig_01-C.png>]
-
-LaTeX Warning: Hyper reference `parts/part4:carvalho2013a' on page 81 undefined
- on input line 3542.
-
-
-LaTeX Warning: Reference `parts/part4:carvalho2013a' on page 81 undefined on in
-put line 3542.
-
-
-LaTeX Warning: Hyper reference `parts/part4:maitre2012' on page 81 undefined on
- input line 3554.
-
-
-LaTeX Warning: Reference `parts/part4:maitre2012' on page 81 undefined on input
- line 3554.
-
-<yd.png, id=1261, 559.08875pt x 345.29pt>
+ [79 <./doublet-contract.png>]
+<yd.png, id=1535, 559.08875pt x 345.29pt>
 File: yd.png Graphic file (type png)
  <use yd.png>
-Package pdftex.def Info: yd.png used on input line 3570.
+Package pdftex.def Info: yd.png used on input line 3458.
 (pdftex.def)             Requested size: 281.85587pt x 174.07765pt.
- [81 <./notations-doublets.png>] [82 <./doublet-contract.png> <./yd.png>]
-
-LaTeX Warning: Hyper reference `parts/part4:vandergucht2005' on page 83 undefin
-ed on input line 3617.
-
-
-LaTeX Warning: Reference `parts/part4:vandergucht2005' on page 83 undefined on 
-input line 3617.
-
-<Fig_02-A.png, id=1278, 6847.5825pt x 5020.18393pt>
+ [80 <./yd.png>]
+<Fig_02-A.png, id=1549, 6847.5825pt x 5020.18393pt>
 File: Fig_02-A.png Graphic file (type png)
  <use Fig_02-A.png>
-Package pdftex.def Info: Fig_02-A.png used on input line 3626.
+Package pdftex.def Info: Fig_02-A.png used on input line 3514.
 (pdftex.def)             Requested size: 234.8775pt x 172.1241pt.
 
-<Fig_02-B.png, id=1279, 7265.71606pt x 5781.6pt>
+<Fig_02-B.png, id=1550, 7265.71606pt x 5781.6pt>
 File: Fig_02-B.png Graphic file (type png)
  <use Fig_02-B.png>
-Package pdftex.def Info: Fig_02-B.png used on input line 3635.
+Package pdftex.def Info: Fig_02-B.png used on input line 3523.
 (pdftex.def)             Requested size: 234.8775pt x 186.84996pt.
 
-<light_table.png, id=1280, 722.7pt x 903.375pt>
+<light_table.png, id=1551, 722.7pt x 903.375pt>
 File: light_table.png Graphic file (type png)
  <use light_table.png>
-Package pdftex.def Info: light_table.png used on input line 3653.
+Package pdftex.def Info: light_table.png used on input line 3541.
 (pdftex.def)             Requested size: 422.77663pt x 528.46536pt.
 
-<Fig_03-A.png, id=1283, 923.6106pt x 744.381pt>
+<Fig_03-A.png, id=1554, 923.6106pt x 744.381pt>
 File: Fig_03-A.png Graphic file (type png)
  <use Fig_03-A.png>
-Package pdftex.def Info: Fig_03-A.png used on input line 3661.
+Package pdftex.def Info: Fig_03-A.png used on input line 3549.
 (pdftex.def)             Requested size: 234.8775pt x 189.29784pt.
 
-<Fig_03-B.png, id=1292, 1200.6456pt x 918.3108pt>
+<Fig_03-B.png, id=1563, 1200.6456pt x 918.3108pt>
 File: Fig_03-B.png Graphic file (type png)
  <use Fig_03-B.png>
-Package pdftex.def Info: Fig_03-B.png used on input line 3675.
+Package pdftex.def Info: Fig_03-B.png used on input line 3563.
 (pdftex.def)             Requested size: 234.8775pt x 179.63737pt.
 
-<Fig_03-C.png, id=1299, 1157.7654pt x 915.9018pt>
+<Fig_03-C.png, id=1570, 1157.7654pt x 915.9018pt>
 File: Fig_03-C.png Graphic file (type png)
  <use Fig_03-C.png>
-Package pdftex.def Info: Fig_03-C.png used on input line 3686.
+Package pdftex.def Info: Fig_03-C.png used on input line 3574.
 (pdftex.def)             Requested size: 234.8775pt x 185.8045pt.
 
-<Fig_03-D.png, id=1306, 1186.1916pt x 918.3108pt>
+<Fig_03-D.png, id=1577, 1186.1916pt x 918.3108pt>
 File: Fig_03-D.png Graphic file (type png)
  <use Fig_03-D.png>
-Package pdftex.def Info: Fig_03-D.png used on input line 3694.
+Package pdftex.def Info: Fig_03-D.png used on input line 3582.
 (pdftex.def)             Requested size: 234.8775pt x 181.82329pt.
- [83]
-[84 <./Fig_02-A.png> <./Fig_02-B.png>] [85 <./light_table.png>]
-
-LaTeX Warning: Hyper reference `parts/part4:maitre2012' on page 86 undefined on
- input line 3703.
-
-
-LaTeX Warning: Reference `parts/part4:maitre2012' on page 86 undefined on input
- line 3703.
-
-[86 <./Fig_03-A.png> <./Fig_03-B.png>] [87 <./Fig_03-C.png> <./Fig_03-D.png>]
-<Fig_03-E.png, id=1361, 1951.29pt x 1375.539pt>
+ [81]
+[82 <./Fig_02-A.png> <./Fig_02-B.png>] [83 <./light_table.png>] [84 <./Fig_03-A
+.png> <./Fig_03-B.png>] [85 <./Fig_03-C.png> <./Fig_03-D.png>]
+<Fig_03-E.png, id=1633, 1951.29pt x 1375.539pt>
 File: Fig_03-E.png Graphic file (type png)
  <use Fig_03-E.png>
-Package pdftex.def Info: Fig_03-E.png used on input line 3752.
+Package pdftex.def Info: Fig_03-E.png used on input line 3640.
 (pdftex.def)             Requested size: 234.8775pt x 165.5613pt.
-
-
-LaTeX Warning: Hyper reference `parts/part4:krieg2008' on page 88 undefined on 
-input line 3762.
-
-
-LaTeX Warning: Reference `parts/part4:krieg2008' on page 88 undefined on input 
-line 3762.
-
-
-LaTeX Warning: Hyper reference `parts/part4:schwarz2000' on page 88 undefined o
-n input line 3763.
-
-
-LaTeX Warning: Reference `parts/part4:schwarz2000' on page 88 undefined on inpu
-t line 3763.
-
-
-LaTeX Warning: Hyper reference `parts/part4:stewart2011' on page 88 undefined o
-n input line 3767.
-
-
-LaTeX Warning: Reference `parts/part4:stewart2011' on page 88 undefined on inpu
-t line 3767.
-
-
-LaTeX Warning: Hyper reference `parts/part4:kunda2008' on page 88 undefined on 
-input line 3767.
-
-
-LaTeX Warning: Reference `parts/part4:kunda2008' on page 88 undefined on input 
-line 3767.
-
-
-LaTeX Warning: Hyper reference `parts/part4:tinevez2009' on page 88 undefined o
-n input line 3778.
-
-
-LaTeX Warning: Reference `parts/part4:tinevez2009' on page 88 undefined on inpu
-t line 3778.
-
-
-LaTeX Warning: Hyper reference `parts/part4:tinevez2009' on page 88 undefined o
-n input line 3780.
-
-
-LaTeX Warning: Reference `parts/part4:tinevez2009' on page 88 undefined on inpu
-t line 3780.
-
-
-LaTeX Warning: Hyper reference `parts/part4:abushah2014' on page 88 undefined o
-n input line 3787.
-
-
-LaTeX Warning: Reference `parts/part4:abushah2014' on page 88 undefined on inpu
-t line 3787.
-
-[88] [89 <./Fig_03-E.png>]
-<modl-2D-doublet.png, id=1384, 654.0435pt x 213.9192pt>
+ [86]
+[87 <./Fig_03-E.png>] <modl-2D-doublet.png, id=1671, 654.0435pt x 213.9192pt>
 File: modl-2D-doublet.png Graphic file (type png)
 
 <use modl-2D-doublet.png>
-Package pdftex.def Info: modl-2D-doublet.png used on input line 3855.
+Package pdftex.def Info: modl-2D-doublet.png used on input line 3743.
 (pdftex.def)             Requested size: 654.0419pt x 213.91867pt.
 File: modl-2D-doublet.png Graphic file (type png)
  <use modl-2D-doublet.png>
-Package pdftex.def Info: modl-2D-doublet.png used on input line 3855.
+Package pdftex.def Info: modl-2D-doublet.png used on input line 3743.
 (pdftex.def)             Requested size: 469.755pt x 153.64305pt.
- [90]
-<double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png, id=1395, 361.35pt x 722
+ [88]
+<double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png, id=1681, 361.35pt x 722
 .7pt>
 File: double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png Graphic file (type 
 png)
  <use double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png>
 Package pdftex.def Info: double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png 
-used on input line 3909.
+used on input line 3797.
 (pdftex.def)             Requested size: 234.8775pt x 469.76045pt.
 
-<c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png, id=1396, 361.35pt x 722.7pt>
+<c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png, id=1682, 361.35pt x 722.7pt>
 File: c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png Graphic file (type png)
 <use c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png>
 Package pdftex.def Info: c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png used 
-on input line 3925.
+on input line 3813.
 (pdftex.def)             Requested size: 281.85587pt x 563.71475pt.
-
-
-LaTeX Warning: Hyper reference `parts/part4:maitre2012' on page 91 undefined on
- input line 3943.
-
-
-LaTeX Warning: Reference `parts/part4:maitre2012' on page 91 undefined on input
- line 3943.
-
-[91 <./modl-2D-doublet.png>] [92 <./double-c-_100-by-100-rc-40_0-noise-0_5-delt
-a-4_0_.png>] [93 <./c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png>]
-<max_proj_340A.png, id=1423, 1084.05pt x 1084.05pt>
+ [89 <./modl-2D-doublet.png>] [90 <./double-c-_100-by-100-rc-40_0-noise-0_5-del
+ta-4_0_.png>] [91 <./c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png>]
+<max_proj_340A.png, id=1711, 1084.05pt x 1084.05pt>
 File: max_proj_340A.png Graphic file (type png)
  <use max_proj_340A.png>
-Package pdftex.def Info: max_proj_340A.png used on input line 3966.
+Package pdftex.def Info: max_proj_340A.png used on input line 3854.
 (pdftex.def)             Requested size: 375.80544pt x 375.80066pt.
 
-<3dblur.png, id=1425, 2125.58824pt x 1336.995pt>
+<3dblur.png, id=1713, 2125.58824pt x 1336.995pt>
 File: 3dblur.png Graphic file (type png)
  <use 3dblur.png>
-Package pdftex.def Info: 3dblur.png used on input line 3982.
+Package pdftex.def Info: 3dblur.png used on input line 3870.
 (pdftex.def)             Requested size: 281.85587pt x 177.2836pt.
 
-<ring_artifact.png, id=1427, 650.43pt x 289.08pt>
+<ring_artifact.png, id=1715, 650.43pt x 289.08pt>
 File: ring_artifact.png Graphic file (type png)
  <use ring_artifact.png>
-Package pdftex.def Info: ring_artifact.png used on input line 3999.
+Package pdftex.def Info: ring_artifact.png used on input line 3887.
 (pdftex.def)             Requested size: 328.82706pt x 146.14964pt.
 
-<max_proj_model.png, id=1429, 1084.05pt x 1084.05pt>
+<max_proj_model.png, id=1717, 1084.05pt x 1084.05pt>
 File: max_proj_model.png Graphic file (type png)
  <use max_proj_model.png>
-Package pdftex.def Info: max_proj_model.png used on input line 4023.
+Package pdftex.def Info: max_proj_model.png used on input line 3911.
 (pdftex.def)             Requested size: 234.8775pt x 234.8692pt.
 
-<Doublet-402-A-Fit-t-0.png, id=1431, 1084.05pt x 1084.05pt>
+<Doublet-402-A-Fit-t-0.png, id=1719, 1084.05pt x 1084.05pt>
 File: Doublet-402-A-Fit-t-0.png Graphic file (type png)
 
 <use Doublet-402-A-Fit-t-0.png>
-Package pdftex.def Info: Doublet-402-A-Fit-t-0.png used on input line 4037.
+Package pdftex.def Info: Doublet-402-A-Fit-t-0.png used on input line 3925.
 (pdftex.def)             Requested size: 234.8775pt x 234.8692pt.
-
-
-LaTeX Warning: Hyper reference `parts/part4:seljebotn2009' on page 94 undefined
- on input line 4042.
-
-
-LaTeX Warning: Reference `parts/part4:seljebotn2009' on page 94 undefined on in
-put line 4042.
-
-[94] [95 <./max_proj_340A.png>] [96 <./3dblur.png> <./ring_artifact.png>]
-[97 <./max_proj_model.png> <./Doublet-402-A-Fit-t-0.png>]
-<gof-2d-doublets.png, id=1460, 362.35374pt x 246.9225pt>
+ [92] [93 <./max_proj_340A.png>] [94 <./3dblur.png> <./ring_artifact.png>] [95 
+<./max_proj_model.png> <./Doublet-402-A-Fit-t-0.png>] <gof-2d-doublets.png, id=
+1750, 362.35374pt x 246.9225pt>
 File: gof-2d-doublets.png Graphic file (type png)
 
 <use gof-2d-doublets.png>
-Package pdftex.def Info: gof-2d-doublets.png used on input line 4062.
+Package pdftex.def Info: gof-2d-doublets.png used on input line 3950.
 (pdftex.def)             Requested size: 281.85587pt x 192.07127pt.
 
-<gof-3d-doublets.png, id=1461, 350.30875pt x 237.88875pt>
+<gof-3d-doublets.png, id=1751, 350.30875pt x 237.88875pt>
 File: gof-3d-doublets.png Graphic file (type png)
 
 <use gof-3d-doublets.png>
-Package pdftex.def Info: gof-3d-doublets.png used on input line 4070.
+Package pdftex.def Info: gof-3d-doublets.png used on input line 3958.
 (pdftex.def)             Requested size: 281.85587pt x 191.41472pt.
 
-<srhod_superimpose.png, id=1469, 1084.05pt x 1084.05pt>
+<srhod_superimpose.png, id=1759, 1084.05pt x 1084.05pt>
 File: srhod_superimpose.png Graphic file (type png)
 
 <use srhod_superimpose.png>
-Package pdftex.def Info: srhod_superimpose.png used on input line 4084.
+Package pdftex.def Info: srhod_superimpose.png used on input line 3972.
 (pdftex.def)             Requested size: 375.80544pt x 375.80066pt.
- [98 <./gof-2d-doublets.png> <./gof-3d-doublets.png>] [99 <./srhod_superimpose.
-png>] [100]
+ [96 <./gof-2d-doublets.png> <./gof-3d-doublets.png>] [97 <./srhod_superimpose.
+png>] [98]
 Chapter 5.
-
-LaTeX Warning: Hyper reference `parts/part5:schuh2008' on page 101 undefined on
- input line 4135.
-
-
-LaTeX Warning: Reference `parts/part5:schuh2008' on page 101 undefined on input
- line 4135.
-
-
-LaTeX Warning: Hyper reference `parts/part5:holubcova2013' on page 101 undefine
-d on input line 4138.
-
-
-LaTeX Warning: Reference `parts/part5:holubcova2013' on page 101 undefined on i
-nput line 4138.
-
-<oocyte-wild-type.png, id=1490, 513.92pt x 513.92pt>
+<oocyte-wild-type.png, id=1782, 513.92pt x 513.92pt>
 File: oocyte-wild-type.png Graphic file (type png)
 
 <use oocyte-wild-type.png>
-Package pdftex.def Info: oocyte-wild-type.png used on input line 4152.
+Package pdftex.def Info: oocyte-wild-type.png used on input line 4040.
 (pdftex.def)             Requested size: 281.85587pt x 281.857pt.
- <3-oocytes.png, id=1492, 1156.32pt x 289.08pt>
+ <3-oocytes.png, id=1784, 1156.32pt x 289.08pt>
 File: 3-oocytes.png Graphic file (type png)
 
 <use 3-oocytes.png>
-Package pdftex.def Info: 3-oocytes.png used on input line 4178.
+Package pdftex.def Info: 3-oocytes.png used on input line 4066.
 (pdftex.def)             Requested size: 469.755pt x 117.43845pt.
- [101
+ [99
 
-] [102 <./oocyte-wild-type.png> <./3-oocytes.png>]
-<decay-all.png, id=1505, 867.24pt x 1156.32pt>
+] [100 <./oocyte-wild-type.png> <./3-oocytes.png>]
+<decay-all.png, id=1797, 867.24pt x 1156.32pt>
 File: decay-all.png Graphic file (type png)
  <use decay-all.png>
-Package pdftex.def Info: decay-all.png used on input line 4203.
+Package pdftex.def Info: decay-all.png used on input line 4091.
 (pdftex.def)             Requested size: 375.80544pt x 501.07195pt.
 
-<corrtime.png, id=1509, 750.805pt x 515.9275pt>
+<corrtime.png, id=1801, 750.805pt x 515.9275pt>
 File: corrtime.png Graphic file (type png)
  <use corrtime.png>
-Package pdftex.def Info: corrtime.png used on input line 4257.
+Package pdftex.def Info: corrtime.png used on input line 4145.
 (pdftex.def)             Requested size: 305.33788pt x 209.82333pt.
 
-<CellAct-WT.png, id=1513, 722.7pt x 578.16pt>
+<CellAct-WT.png, id=1805, 722.7pt x 578.16pt>
 File: CellAct-WT.png Graphic file (type png)
  <use CellAct-WT.png>
-Package pdftex.def Info: CellAct-WT.png used on input line 4279.
+Package pdftex.def Info: CellAct-WT.png used on input line 4167.
 (pdftex.def)             Requested size: 446.26581pt x 357.0175pt.
- [103]
-[104 <./decay-all.png>] [105 <./corrtime.png>] [106 <./CellAct-WT.png>]
+ [101]
+[102 <./decay-all.png>] [103 <./corrtime.png>] [104 <./CellAct-WT.png>]
 Chapter 6.
-[107
+[105
 
-] [108]
+] [106]
 Chapter 7.
 
 Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-[109
+[107
 
 ]
-<actin_cloud_bpj_final_submission.pdf, id=1556, page=1, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=1848, page=1, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [110 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1608, page=2, 597.50829pt x 845.0471p
+ [108 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1899, page=2, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 2>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page2 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 2>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page2 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 2>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page2 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [111 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1623, page=3, 597.50829pt x 845.0471p
+ [109 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1915, page=3, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 3>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page3 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 3>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page3 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 3>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page3 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [112 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1648, page=4, 597.50829pt x 845.0471p
+ [110 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1940, page=4, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 4>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page4 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 4>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page4 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 4>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page4 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [113 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1663, page=5, 597.50829pt x 845.0471p
+ [111 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1955, page=5, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 5>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page5 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 5>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page5 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 5>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page5 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [114 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1673, page=6, 597.50829pt x 845.0471p
+ [112 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1965, page=6, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 6>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page6 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 6>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page6 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 6>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page6 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [115 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1683, page=7, 597.50829pt x 845.0471p
+ [113 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1975, page=7, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 7>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page7 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 7>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page7 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 7>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page7 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [116 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1689, page=8, 597.50829pt x 845.0471p
+ [114 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1980, page=8, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 8>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page8 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 8>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page8 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 8>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page8 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [117 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1700, page=9, 597.50829pt x 845.0471p
+ [115 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1991, page=9, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 9>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page9 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 9>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page9 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 9>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page9 used on in
-put line 4391.
+put line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [118 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1705, page=10, 597.50829pt x 845.0471
+ [116 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=1996, page=10, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 10>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page10 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 10>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page10 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 10>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page10 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [119 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1710, page=11, 597.50829pt x 845.0471
+ [117 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=2001, page=11, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 11>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page11 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 11>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page11 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 11>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page11 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [120 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1718, page=12, 597.50829pt x 845.0471
+ [118 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=2010, page=12, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 12>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page12 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 12>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page12 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 12>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page12 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [121 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=1726, page=13, 597.50829pt x 845.0471
+ [119 <./actin_cloud_bpj_final_submission.pdf>]
+<actin_cloud_bpj_final_submission.pdf, id=2018, page=13, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 13>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page13 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 13>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page13 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 13>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page13 used on i
-nput line 4391.
+nput line 4282.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
- [122 <./actin_cloud_bpj_final_submission.pdf>]
+ [120 <./actin_cloud_bpj_final_submission.pdf>]
 
 Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-<supplemental.pdf, id=1739, page=1, 614.295pt x 794.97pt>
+<supplemental.pdf, id=2030, page=1, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4283.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [123 <./supplemental.pdf>]
-<supplemental.pdf, id=1798, page=2, 614.295pt x 794.97pt>
+ [121 <./supplemental.pdf>]
+<supplemental.pdf, id=2090, page=2, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 2>
-Package pdftex.def Info: supplemental.pdf, page2 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page2 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 2>
-Package pdftex.def Info: supplemental.pdf, page2 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page2 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 2>
-Package pdftex.def Info: supplemental.pdf, page2 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page2 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [124 <./supplemental.pdf>]
-<supplemental.pdf, id=3025, page=3, 614.295pt x 794.97pt>
+ [122 <./supplemental.pdf>]
+<supplemental.pdf, id=3317, page=3, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 3>
-Package pdftex.def Info: supplemental.pdf, page3 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page3 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 3>
-Package pdftex.def Info: supplemental.pdf, page3 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page3 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 3>
-Package pdftex.def Info: supplemental.pdf, page3 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page3 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [125 <./supplemental.pdf>]
-<supplemental.pdf, id=3033, page=4, 614.295pt x 794.97pt>
+ [123 <./supplemental.pdf>]
+<supplemental.pdf, id=3325, page=4, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 4>
-Package pdftex.def Info: supplemental.pdf, page4 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page4 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 4>
-Package pdftex.def Info: supplemental.pdf, page4 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page4 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 4>
-Package pdftex.def Info: supplemental.pdf, page4 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page4 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [126 <./supplemental.pdf>]
-<supplemental.pdf, id=3041, page=5, 614.295pt x 794.97pt>
+ [124 <./supplemental.pdf>]
+<supplemental.pdf, id=3333, page=5, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 5>
-Package pdftex.def Info: supplemental.pdf, page5 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page5 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 5>
-Package pdftex.def Info: supplemental.pdf, page5 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page5 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 5>
-Package pdftex.def Info: supplemental.pdf, page5 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page5 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [127 <./supplemental.pdf>]
-<supplemental.pdf, id=3049, page=6, 614.295pt x 794.97pt>
+ [125 <./supplemental.pdf>]
+<supplemental.pdf, id=3341, page=6, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 6>
-Package pdftex.def Info: supplemental.pdf, page6 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page6 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 6>
-Package pdftex.def Info: supplemental.pdf, page6 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page6 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 6>
-Package pdftex.def Info: supplemental.pdf, page6 used on input line 4392.
+Package pdftex.def Info: supplemental.pdf, page6 used on input line 4283.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [128 <./supplemental.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 4407--4410
+ [126 <./supplemental.pdf>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+[127]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=3356, page=1, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 1>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page1 used on input line 4290.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 1>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page1 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 1>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page1 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 1>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page1 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 1>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page1 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [128 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=3388, page=2, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 2>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page2 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 2>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page2 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 2>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page2 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [129 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=3403, page=3, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 3>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page3 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 3>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page3 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 3>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page3 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [130 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=3408, page=4, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 4>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page4 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 4>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page4 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 4>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page4 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [131 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=3485, page=5, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 5>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page5 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 5>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page5 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 5>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page5 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [132 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=3504, page=6, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 6>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page6 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 6>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page6 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 6>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page6 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [133 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=3980, page=7, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 7>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page7 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 7>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page7 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 7>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page7 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [134 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4089, page=8, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 8>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page8 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 8>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page8 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 8>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page8 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [135 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4094, page=9, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 9>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page9 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 9>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page9 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 9>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page9 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [136 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4103, page=10, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 10>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page10 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 10>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page10 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 10>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page10 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [137 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4108, page=11, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 11>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page11 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 11>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page11 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 11>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page11 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [138 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4113, page=12, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 12>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page12 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 12>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page12 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 12>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page12 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [139 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4120, page=13, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 13>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page13 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 13>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page13 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 13>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page13 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [140 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4125, page=14, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 14>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page14 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 14>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page14 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 14>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page14 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [141 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4130, page=15, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 15>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page15 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 15>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page15 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 15>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page15 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [142 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4139, page=16, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 16>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page16 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 16>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page16 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 16>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page16 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [143 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4148, page=17, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 17>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page17 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 17>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page17 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 17>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page17 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [144 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4157, page=18, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 18>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page18 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 18>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page18 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 18>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page18 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [145 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4171, page=19, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 19>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page19 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 19>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page19 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 19>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page19 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [146 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+<14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_JL.pd
+f, id=4176, page=20, 597.23125pt x 845.1575pt>
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 20>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page20 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 20>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page20 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_
+JL.pdf Graphic file (type pdf)
+
+<use 14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_TB_J
+L.pdf, page 20>
+Package pdftex.def Info: 14_07_15CellSized_Liposome_doublet_reveal_cortical_ten
+sion_Manuscript_TB_JL.pdf, page20 used on input line 4290.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [147 <./14_07_15CellSized_Liposome_doublet_reveal_cortical_tension_Manuscript_
+TB_JL.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 4293--4296
 []\T1/ptm/m/n/10.95 This ver-sion of the manuscript is based on the source file
 s repos-i-tory ver-sion
  []
 
-[129] [130
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 4416--4418
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 4302--4304
 []\T1/ptm/m/n/10.95 Miglena I. An-gelova and Dimiter S. Dim-itrov. Li-po-some e
 lec-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4416--4418
+Underfull \hbox (badness 10000) in paragraph at lines 4302--4304
 \T1/ptm/m/n/10.95 tro-for-ma-tion. \T1/ptm/m/it/10.95 Fara-day Dis-cus-sions of
  the Chem-i-cal So-ci-ety\T1/ptm/m/n/10.95 , 81:303, 1986. [][]URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4422--4424
+Underfull \hbox (badness 10000) in paragraph at lines 4308--4310
 []\T1/ptm/m/n/10.95 Anne Bernheim-Groswasser, Se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4422--4424
+Underfull \hbox (badness 10000) in paragraph at lines 4308--4310
 \T1/ptm/m/n/10.95 bas-tian Wies-ner, Roy M. Gol-steyn, Marie-France Car-lier, a
 nd Ce-cile Sykes.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4422--4424
+Underfull \hbox (badness 10000) in paragraph at lines 4308--4310
 \T1/ptm/m/n/10.95 The dy-nam-ics of actin-based motil-ity de-pend on sur-face p
 a-ram-e-ters. \T1/ptm/m/it/10.95 Na-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4422--4424
+Underfull \hbox (badness 10000) in paragraph at lines 4308--4310
 \T1/ptm/m/it/10.95 ture\T1/ptm/m/n/10.95 , 417(6886):308^^U311, May 2002. [][]U
 RL: http://dx.doi.org/10.1038/417308a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4431--4433
+Underfull \hbox (badness 10000) in paragraph at lines 4317--4319
 []\T1/ptm/m/n/10.95 Folma Buss and John Kendrick-Jones. How are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4431--4433
+Underfull \hbox (badness 10000) in paragraph at lines 4317--4319
 \T1/ptm/m/n/10.95 the cel-lu-lar func-tions of myosin VI reg-u-lated within the
  cell?. \T1/ptm/m/it/10.95 Bio-chem-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4431--4433
+Underfull \hbox (badness 10000) in paragraph at lines 4317--4319
 \T1/ptm/m/it/10.95 cal and bio-phys-i-cal re-search com-mu-ni-ca-tions\T1/ptm/m
 /n/10.95 , 369(1):165^^U175, April 2008.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4431--4433
+Underfull \hbox (badness 10000) in paragraph at lines 4317--4319
 [][]\T1/ptm/m/n/10.95 URL: http://www.sciencedirect.com/science/article/pii/S00
 06291X07025508[][][][][][][],
  []
 
-[131
+[149
+
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4434--4436
+Underfull \hbox (badness 10000) in paragraph at lines 4320--4322
 []\T1/ptm/m/n/10.95 M F Car-lier, V Lau-rent, J San-tolini, R Melki,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4434--4436
+Underfull \hbox (badness 10000) in paragraph at lines 4320--4322
 \T1/ptm/m/n/10.95 D Didry, G X Xia, Y Hong, N H Chua, and D Pan-taloni. Actin d
 e-poly-mer-iz-
  []
 
 
-Underfull \hbox (badness 7451) in paragraph at lines 4434--4436
+Underfull \hbox (badness 7451) in paragraph at lines 4320--4322
 \T1/ptm/m/n/10.95 ing fac-tor (ADF/cofilin) en-hances the rate of fil-a-ment tu
 rnover: im-pli-ca-tion in actin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4434--4436
+Underfull \hbox (badness 10000) in paragraph at lines 4320--4322
 \T1/ptm/m/n/10.95 based motil-ity.. \T1/ptm/m/it/10.95 The Jour-nal of cell bi-
 ol-ogy\T1/ptm/m/n/10.95 , 136(6):1307^^U22, March 1997. [][]URL:
  []
 
 
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4434--4436
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4320--4322
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=213
 2522&tool=pmcentrez&rendertype=abstract[][][][][][][]. 
  []
 
 
-Overfull \hbox (91.34453pt too wide) in paragraph at lines 4440--4440
+Overfull \hbox (91.34453pt too wide) in paragraph at lines 4326--4326
 [][][]\T1/ptm/m/n/9 http://www.pnas.org/content/110/41/16456 http://www.pubmedc
 entral.nih.gov/articlerender.fcgi?artid=3799374&tool=pmcentrez&rendertype=abstr
 act| 
  []
 
 
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4440--4442
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4326--4328
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=379
 9374&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Overfull \hbox (452.33928pt too wide) in paragraph at lines 4443--4443
-[][][]\T1/ptm/m/n/9 http://www.nature.com/ncb/journal/v15/n8/fig\_tab/ncb2799\_
-F2.html http://www.readcube.com/articles/10.1038/ncb2799?utm\_campaign=readcube
-\_access&utm\_source=nature.com&utm\_medium=purchase\_option&utm\_content=thumb
-\_version
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4443--4445
-\T1/ptm/m/n/10.95 Au-gust 2013. [][]URL: http://www.nature.com/ncb/journal/v15/
-n8/fig\_tab/ncb2799\_F2.html
- []
-
-
-Overfull \hbox (341.15956pt too wide) in paragraph at lines 4443--4445
-\T1/ptm/m/n/10.95 http://www.readcube.com/articles/10.1038/ncb2799?utm\_campaig
-n=readcube\_access&utm\_source=nature.com&utm\_medium=purchase\_option&utm\_con
-tent=thumb\_version
- []
-
-
-Underfull \hbox (badness 5970) in paragraph at lines 4446--4448
+Underfull \hbox (badness 5970) in paragraph at lines 4332--4334
 \T1/ptm/m/n/10.95 grate with-out lamel-lipo-dia.. \T1/ptm/m/it/10.95 Na-ture re
 -views. Molec-u-lar cell bi-ol-ogy\T1/ptm/m/n/10.95 , 9(9):730^^U6, Septem-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4452--4454
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4340
 []\T1/ptm/m/n/10.95 G A Dabiri, J M Sanger, D A Port-noy, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4452--4454
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4340
 \T1/ptm/m/n/10.95 F S South-wick. Lis-te-ria mono-cy-to-genes moves rapidly thr
 ough the host-cell cy-to-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4452--4454
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4340
 \T1/ptm/m/n/10.95 plasm by in-duc-ing di-rec-tional actin as-sem-bly.. \T1/ptm/
 m/it/10.95 Pro-ceed-ings of the Na-tional Academy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4452--4454
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4340
 \T1/ptm/m/it/10.95 of Sci-ences of the United States of Amer-ica\T1/ptm/m/n/10.
 95 , 87(16):6068^^U72, Au-gust 1990. [][]URL:
  []
 
 
-Overfull \hbox (21.37149pt too wide) in paragraph at lines 4452--4454
+Overfull \hbox (21.37149pt too wide) in paragraph at lines 4338--4340
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=544
 73&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
-[132]
-Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 4344--4346
 []\T1/ptm/m/n/10.95 Jan Faix and Kle-mens Rot-tner. The mak-ing of filopo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
+Underfull \hbox (badness 10000) in paragraph at lines 4344--4346
 \T1/ptm/m/n/10.95 dia.. \T1/ptm/m/it/10.95 Cur-rent opin-ion in cell bi-ol-ogy\
 T1/ptm/m/n/10.95 , 18(1):18^^U25, Febru-ary 2006.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
+Underfull \hbox (badness 10000) in paragraph at lines 4344--4346
 [][]\T1/ptm/m/n/10.95 URL: http://www.sciencedirect.com/science/article/pii/S09
 5506740500178X[][][][][][][],
  []
 
 
-Overfull \hbox (74.18184pt too wide) in paragraph at lines 4464--4464
-[][][]\T1/ptm/m/n/9 http://dx.doi.org/10.1038/nature08908 http://www.pubmedcent
-ral.nih.gov/articlerender.fcgi?artid=2851742&tool=pmcentrez&rendertype=abstract
-| 
- []
-
-
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4464--4466
-\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=285
-1742&tool=pmcentrez&rendertype=abstract[][][][][][][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4467--4469
+Underfull \hbox (badness 10000) in paragraph at lines 4353--4355
 []\T1/ptm/m/n/10.95 M. L Gardel, M. T Valen-tine, J. C Crocker, A. R
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4467--4469
+Underfull \hbox (badness 10000) in paragraph at lines 4353--4355
 \T1/ptm/m/it/10.95 let-ters\T1/ptm/m/n/10.95 , 91(15):158302, Oc-to-ber 2003. [
 ][]URL: http://www.ncbi.nlm.nih.gov/pubmed/14611506
  []
 
-[133]
-Underfull \hbox (badness 10000) in paragraph at lines 4479--4481
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 4365--4367
 []\T1/ptm/m/n/10.95 Zuzana Hol-ub-cová, Gillian Howard, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4479--4481
+Underfull \hbox (badness 10000) in paragraph at lines 4365--4367
 \T1/ptm/m/n/10.95 Melina Schuh. Vesi-cles mod-u-late an actin net-work for asym
 -met-ric spin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4479--4481
+Underfull \hbox (badness 10000) in paragraph at lines 4365--4367
 \T1/ptm/m/n/10.95 dle po-si-tion-ing.. \T1/ptm/m/it/10.95 Na-ture cell bi-ol-og
 y\T1/ptm/m/n/10.95 , 15(8):937^^U47, Au-gust 2013. [][]URL:
  []
 
 
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4479--4481
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4365--4367
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=379
 7517&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4482--4484
+Underfull \hbox (badness 10000) in paragraph at lines 4368--4370
 []\T1/ptm/m/n/10.95 Sven Huels-mann, Jari Ylänne, and Nicholas H Brown.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4482--4484
+Underfull \hbox (badness 10000) in paragraph at lines 4368--4370
 \T1/ptm/m/n/10.95 Filopodia-like actin ca-bles po-si-tion nu-clei in as-so-ci-a
 -tion with per-in-u-clear actin in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4482--4484
+Underfull \hbox (badness 10000) in paragraph at lines 4368--4370
 \T1/ptm/m/n/10.95 Drosophila nurse cells.. \T1/ptm/m/it/10.95 De-vel-op-men-tal
  cell\T1/ptm/m/n/10.95 , 26(6):604^^U15, Septem-ber 2013. [][]URL:
  []
 
 
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4482--4484
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4368--4370
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=379
 1400&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Overfull \hbox (28.65207pt too wide) in paragraph at lines 4485--4485
+Overfull \hbox (28.65207pt too wide) in paragraph at lines 4371--4371
 [][][]\T1/ptm/m/n/9 http://dx.doi.org/10.1021/ma946418x http://pubs.acs.org/doi
 /abs/10.1021/ma946418x http://pubs.acs.org/doi/full/10.1021/ma946418x
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 4485--4487
+Underfull \hbox (badness 6220) in paragraph at lines 4371--4373
 \T1/ptm/m/it/10.95 Macro-molecules\T1/ptm/m/n/10.95 , 29(3):1036^^U1040, Jan-ua
 ry 1996. [][]URL: http://dx.doi.org/10.1021/ma946418x
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
+Underfull \hbox (badness 10000) in paragraph at lines 4371--4373
 \T1/ptm/m/n/10.95 http://pubs.acs.org/doi/abs/10.1021/ma946418x http://pubs.acs
 .org/doi/full/10.1021/ma946418x
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4494--4496
+Underfull \hbox (badness 10000) in paragraph at lines 4380--4382
 []\T1/ptm/m/n/10.95 Diana E Jaalouk and Jan Lam-merd-ing. Mechan-otrans-duc-tio
 n
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 4494--4496
+Underfull \hbox (badness 7722) in paragraph at lines 4380--4382
 \T1/ptm/m/n/10.95 gone awry.. \T1/ptm/m/it/10.95 Na-ture re-views. Molec-u-lar 
 cell bi-ol-ogy\T1/ptm/m/n/10.95 , 10(1):63^^U73, Jan-uary 2009. [][]URL:
  []
 
 
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4494--4496
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4380--4382
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=266
 8954&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4497--4497
-[][][]\T1/ptm/m/n/9 http://ol.osa.org/abstract.cfm?URI=ol-36-7-1260 http://www.
-opticsinfobase.org/DirectPDFAccess/76D790BC-EEE1-F229-
- []
-
-
-Overfull \hbox (16.58293pt too wide) in paragraph at lines 4497--4497
-\T1/ptm/m/n/9 0BB6465895770C07\_211408.pdf?da=1&id=211408&seq=0&mobile=no http:
-//www.opticsinfobase.org/DirectPDFAccess/76F33103-
- []
-
-
-Overfull \hbox (54.07617pt too wide) in paragraph at lines 4497--4497
-\T1/ptm/m/n/9 E64B-6A63-1BDFC7BF1ECC155C\_211408.pdf?da=1&id=211408&seq=0&mobil
-e=no http://www.opticsinfobase.org/ol/abstract.cfm?URI=ol-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4497--4499
-[]\T1/ptm/m/n/10.95 Marcus Jah-nel, Mar-tin Behrndt, Anita Jan-nasch, Erik
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4497--4499
-\T1/ptm/m/it/10.95 Op-tics Let-ters\T1/ptm/m/n/10.95 , 36(7):1260^^U1262, April
- 2011. [][]URL: http://ol.osa.org/abstract.cfm?URI=ol-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4497--4499
-\T1/ptm/m/n/10.95 36-7-1260 http://www.opticsinfobase.org/DirectPDFAccess/76D79
-0BC-EEE1-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4497--4499
-\T1/ptm/m/n/10.95 F229-0BB6465895770C07\_211408.pdf?da=1&id=211408&seq=0&mobile
-=no
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4497--4499
-\T1/ptm/m/n/10.95 http://www.opticsinfobase.org/DirectPDFAccess/76F33103-E64B-6
-A63-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4497--4499
-\T1/ptm/m/n/10.95 1BDFC7BF1ECC155C\_211408.pdf?da=1&id=211408&seq=0&mobile=no
- []
-
-[134]
-Underfull \hbox (badness 6893) in paragraph at lines 4500--4502
+[152]
+Underfull \hbox (badness 6893) in paragraph at lines 4386--4388
 []\T1/ptm/m/n/10.95 Agnieszka Kawska, Kévin Car-valho, John Manzi, Ra-jaa
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 4500--4502
+Underfull \hbox (badness 5954) in paragraph at lines 4386--4388
 \T1/ptm/m/it/10.95 of Sci-ences of the United States of Amer-ica\T1/ptm/m/n/10.
 95 , 109(36):14440^^U5, Septem-ber 2012. [][]URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4506--4508
+Underfull \hbox (badness 10000) in paragraph at lines 4392--4394
 []\T1/ptm/m/n/10.95 Karsten Kruse, J F Joanny, Frank Jülicher, J Prost,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4506--4508
+Underfull \hbox (badness 10000) in paragraph at lines 4392--4394
 \T1/ptm/m/n/10.95 and K Seki-moto. Generic the-ory of ac-tive po-lar gels: a pa
 radigm for cy-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4506--4508
+Underfull \hbox (badness 10000) in paragraph at lines 4392--4394
 \T1/ptm/m/n/10.95 toskele-tal dy-nam-ics.. \T1/ptm/m/it/10.95 The Eu-ro-pean ph
 ys-i-cal jour-nal. E, Soft mat-ter\T1/ptm/m/n/10.95 , 16(1):5^^U16,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4506--4508
+Underfull \hbox (badness 10000) in paragraph at lines 4392--4394
 \T1/ptm/m/n/10.95 Jan-uary 2005. [][]URL: http://link.springer.com/article/10.1
 140/epje/e2005-00002-5
  []
 
-[135]
-Underfull \hbox (badness 5696) in paragraph at lines 4527--4529
+[153]
+Underfull \hbox (badness 5696) in paragraph at lines 4413--4415
 []\T1/ptm/m/n/10.95 R E Ma-haffy, S Park, E Gerde, J Käs, and C K Shih.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4527--4529
+Underfull \hbox (badness 10000) in paragraph at lines 4413--4415
 \T1/ptm/m/n/10.95 Quan-ti-ta-tive anal-y-sis of the vis-coelas-tic prop-er-ties
  of thin re-gions of fi-brob-lasts us-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4527--4529
+Underfull \hbox (badness 10000) in paragraph at lines 4413--4415
 \T1/ptm/m/n/10.95 ing atomic force mi-croscopy.. \T1/ptm/m/it/10.95 Bio-phys-i-
 cal jour-nal\T1/ptm/m/n/10.95 , 86(3):1777^^U93, March 2004. [][]URL:
  []
 
 
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4527--4529
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4413--4415
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=130
 4012&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Overfull \hbox (31.10014pt too wide) in paragraph at lines 4530--4530
+Overfull \hbox (31.10014pt too wide) in paragraph at lines 4416--4416
 [][][]\T1/ptm/m/n/9 http://www.sciencemag.org.rproxy.sc.univ-paris-diderot.fr/c
 ontent/338/6104/253.long http://www.ncbi.nlm.nih.gov/pubmed/22923438
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4530--4532
+Underfull \hbox (badness 10000) in paragraph at lines 4416--4418
 []\T1/ptm/m/n/10.95 Jean-Léon Maitre, Hélène Berthoumieux, Si-mon
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4530--4532
+Underfull \hbox (badness 10000) in paragraph at lines 4416--4418
 \T1/ptm/m/n/10.95 Fred-erik Gabriel Krens, Guil-laume Sal-breux, Frank Jülicher
 , Ewa Paluch, and Carl-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4530--4532
+Underfull \hbox (badness 10000) in paragraph at lines 4416--4418
 \T1/ptm/m/n/10.95 Philipp Heisen-berg. Ad-he-sion func-tions in cell sort-ing b
 y me-chan-i-cally cou-pling the
  []
 
 
-Underfull \hbox (badness 7759) in paragraph at lines 4530--4532
+Underfull \hbox (badness 7759) in paragraph at lines 4416--4418
 \T1/ptm/m/n/10.95 cor-tices of ad-her-ing cells.. \T1/ptm/m/it/10.95 Sci-ence (
 New York, N.Y.)\T1/ptm/m/n/10.95 , 338(6104):253^^U6, Oc-to-ber 2012.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4530--4532
+Underfull \hbox (badness 10000) in paragraph at lines 4416--4418
 [][]\T1/ptm/m/n/10.95 URL: http://www.sciencemag.org.rproxy.sc.univ-paris-dider
 ot.fr/content/338/6104/253.long
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4530--4532
+Underfull \hbox (badness 10000) in paragraph at lines 4416--4418
 \T1/ptm/m/n/10.95 http://www.ncbi.nlm.nih.gov/pubmed/22923438 http://www.scienc
 emag.org/content/338/6104/253
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4533--4533
+Underfull \hbox (badness 10000) in paragraph at lines 4419--4419
 [][][]\T1/ptm/m/n/9 http://www.pnas.org/content/101/16/5992.abstract http://www
 .pnas.org/content/101/16/5992.full
  []
 
 
-Overfull \hbox (95.14224pt too wide) in paragraph at lines 4533--4533
-\T1/ptm/m/n/9 http://www.pnas.org/content/101/16/5992.full.pdf http://www.pubme
-dcentral.nih.gov/articlerender.fcgi?artid=395911&tool=pmcentrez&rendertype=abst
-ract| 
- []
-
-
-Underfull \hbox (badness 6608) in paragraph at lines 4533--4535
-[]\T1/ptm/m/n/10.95 Yann Marcy, Jacques Prost, Marie-France Car-lier, and Cé-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4533--4535
-\T1/ptm/m/n/10.95 http://www.pnas.org/content/101/16/5992.full http://www.pnas.
-org/content/101/16/5992.full.pdf
- []
-
-
-Overfull \hbox (26.84648pt too wide) in paragraph at lines 4533--4535
-\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=395
-911&tool=pmcentrez&rendertype=abstract[][][][][][][],
- []
-
-[136]
-Underfull \hbox (badness 10000) in paragraph at lines 4539--4539
+Underfull \hbox (badness 10000) in paragraph at lines 4425--4425
 [][][]\T1/ptm/m/n/9 http://www.sciencemag.org/content/315/5810/370.abstract htt
 p://www.sciencemag.org/content/315/5810/370.short
  []
 
 
-Overfull \hbox (17.17896pt too wide) in paragraph at lines 4539--4541
+Overfull \hbox (17.17896pt too wide) in paragraph at lines 4425--4427
 \T1/ptm/m/n/10.95 http://www.sciencemag.org/content/315/5810/370.short http://w
 ww.ncbi.nlm.nih.gov/pubmed/17234946[][][][][][][],
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4542--4542
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 4428--4428
 [][][]\T1/ptm/m/n/9 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2
 064339&tool=pmcentrez&rendertype=abstract
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4542--4544
+Underfull \hbox (badness 10000) in paragraph at lines 4428--4430
 []\T1/ptm/m/n/10.95 Nobuhiro Mo-rone, Takahiro Fu-ji-wara, Kotono Murase,
  []
 
 
-Overfull \hbox (21.08398pt too wide) in paragraph at lines 4542--4544
+Overfull \hbox (21.08398pt too wide) in paragraph at lines 4428--4430
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=206
 4339&tool=pmcentrez&rendertype=abstract
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4545--4547
+Underfull \hbox (badness 10000) in paragraph at lines 4431--4433
 []\T1/ptm/m/n/10.95 David C Morse. Vis-coelas-tic-ity of con-cen-trated isotrop
 ic so-lu-tions of semi-
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 4545--4547
+Underfull \hbox (badness 6300) in paragraph at lines 4431--4433
 \T1/ptm/m/n/10.95 flex-i-ble poly-mers. 2. Lin-ear re-sponse. \T1/ptm/m/it/10.9
 5 Macro-molecules\T1/ptm/m/n/10.95 , 9297(98):7044^^U7067, 1998. [][]URL:
  []
 
 
-Underfull \hbox (badness 5637) in paragraph at lines 4548--4550
+Underfull \hbox (badness 5637) in paragraph at lines 4434--4436
 []\T1/ptm/m/n/10.95 David C. Morse. Vis-coelas-tic-ity of Con-cen-trated Isotro
 pic So-lu-tions of Semi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4551--4553
+Underfull \hbox (badness 10000) in paragraph at lines 4437--4439
 []\T1/ptm/m/n/10.95 Timo A Niem-i-nen, Gre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4551--4553
+Underfull \hbox (badness 10000) in paragraph at lines 4437--4439
 \T1/ptm/m/n/10.95 gor Knöner, Nor-man R Heck-en-berg, and Halina Rubinsztein-Du
 nlop. Physics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4551--4553
+Underfull \hbox (badness 10000) in paragraph at lines 4437--4439
 \T1/ptm/m/n/10.95 of op-ti-cal tweez-ers.. \T1/ptm/m/it/10.95 Meth-ods in cell 
 bi-ol-ogy\T1/ptm/m/n/10.95 , 82:207^^U36, Jan-uary 2007. [][]URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4551--4553
+Underfull \hbox (badness 10000) in paragraph at lines 4437--4439
 \T1/ptm/m/n/10.95 http://www.sciencedirect.com/science/article/pii/S0091679X068
 20066[][][][][][][], [][]doi:10.1016/S0091-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4557--4559
+Underfull \hbox (badness 10000) in paragraph at lines 4443--4445
 []\T1/ptm/m/n/10.95 Sapun H Parekh, Ovi-jit Chaud-huri,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4557--4559
+Underfull \hbox (badness 10000) in paragraph at lines 4443--4445
 \T1/ptm/m/n/10.95 Julie A The-riot, and Daniel A Fletcher. Load-ing his-tory de
 -ter-mines the ve-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4557--4559
+Underfull \hbox (badness 10000) in paragraph at lines 4443--4445
 \T1/ptm/m/n/10.95 loc-ity of actin-network growth.. \T1/ptm/m/it/10.95 Na-ture 
 cell bi-ol-ogy\T1/ptm/m/n/10.95 , 7(12):1219^^U23, De-cem-ber
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4557--4559
+Underfull \hbox (badness 10000) in paragraph at lines 4443--4445
 \T1/ptm/m/n/10.95 2005. [][]URL: http://www.nature.com.gate1.inist.fr/ncb/journ
 al/v7/n12/full/ncb1336.html
  []
 
-[137]
-Underfull \hbox (badness 10000) in paragraph at lines 4560--4562
+
+Underfull \hbox (badness 10000) in paragraph at lines 4446--4448
 []\T1/ptm/m/n/10.95 Julie Plas-tino and Cé-cile Sykes. The actin sling-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4560--4562
+Underfull \hbox (badness 10000) in paragraph at lines 4446--4448
 \T1/ptm/m/n/10.95 shot. \T1/ptm/m/it/10.95 Cur-rent Opin-ion in Cell Bi-ol-ogy\
 T1/ptm/m/n/10.95 , 17(1):62^^U66, 2005. [][]URL:
  []
 
 
-Overfull \hbox (32.32147pt too wide) in paragraph at lines 4563--4565
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4449--4451
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=211
 4620&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4569--4571
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 4455--4457
 []\T1/ptm/m/n/10.95 Thomas D. Pol-lard and Gary G. Borisy. Cel-lu-lar motil-ity
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4569--4571
+Underfull \hbox (badness 10000) in paragraph at lines 4455--4457
 \T1/ptm/m/n/10.95 driven by as-sem-bly and dis-as-sem-bly of actin fil-a-ments.
 . \T1/ptm/m/it/10.95 Cell\T1/ptm/m/n/10.95 , 112(4):453^^U65,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4569--4571
+Underfull \hbox (badness 10000) in paragraph at lines 4455--4457
 \T1/ptm/m/n/10.95 Febru-ary 2003. [][]URL: http://linkinghub.elsevier.com/retri
 eve/pii/S009286740300120X
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4572
-[][][]\T1/ptm/m/n/9 http://www.sciencedirect.com/science/article/B94RW-4VC7NYF-
-P/2/68db024edc5376193f140b634a1e5111
- []
-
-
-Overfull \hbox (27.26466pt too wide) in paragraph at lines 4572--4572
-\T1/ptm/m/n/9 http://www.cell.com/biophysj/abstract/S0006-3495(08)00038-6 http:
-//www.sciencedirect.com/science?\_ob=ArticleURL&\_udi=B94RW-
- []
-
-
-Overfull \hbox (606.45575pt too wide) in paragraph at lines 4572--4572
-\T1/ptm/m/n/9 4VC7NYF-P&\_user=5323486&\_coverDate=01\%2F07\%2F2009&\_rdoc=1&\_
-fmt=high&\_orig=gateway&\_origin=gateway&\_sort=d&\_docanchor=&view=c&\_acct=C0
-00066825&\_version=1&\_urlVersion=0&\_userid=5323486&md5=a2392866df58768f325632
-3626e78f24&searchtype=a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4574
+Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
 []\T1/ptm/m/n/10.95 Léa-Laetitia Pon-tani, Jasper van der Gucht, Guil-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4574
+Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
 \T1/ptm/m/n/10.95 laume Sal-breux, Julien Heuvingh, Jean-François Joanny, and C
 é-cile Sykes. Re-con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4574
-\T1/ptm/m/n/10.95 sti-tu-tion of an Actin Cor-tex In-side a Li-po-some. \T1/ptm
-/m/it/10.95 Bio-phys-i-cal Jour-nal\T1/ptm/m/n/10.95 , 96(1):192^^U198,
+Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
+\T1/ptm/m/n/10.95 sti-tu-tion of an actin cor-tex in-side a li-po-some.. \T1/pt
+m/m/it/10.95 Bio-phys-i-cal jour-nal\T1/ptm/m/n/10.95 , 96(1):192^^U8,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4574
-\T1/ptm/m/n/10.95 Jan-uary 2009. [][]URL: http://www.sciencedirect.com/science/
-article/B94RW-4VC7NYF-
+Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
+\T1/ptm/m/n/10.95 Jan-uary 2009. [][]URL: http://www.cell.com/biophysj/abstract
+/S0006-3495(08)00038-6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4574
-\T1/ptm/m/n/10.95 P/2/68db024edc5376193f140b634a1e5111 http://www.cell.com/biop
-hysj/abstract/S0006-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4574
-\T1/ptm/m/n/10.95 3495(08)00038-6 http://www.sciencedirect.com/science?\_ob=Art
-icleURL&\_udi=B94RW-
- []
-
-
-Overfull \hbox (857.87604pt too wide) in paragraph at lines 4572--4574
-\T1/ptm/m/n/10.95 4VC7NYF-P&\_user=5323486&\_coverDate=01\%2F07\%2F2009&\_rdoc=
-1&\_fmt=high&\_orig=gateway&\_origin=gateway&\_sort=d&\_docanchor=&view=c&\_acc
-t=C000066825&\_version=1&\_urlVersion=0&\_userid=5323486&md5=a2392866df58768f32
-56323626e78f24&searchtype=a
- []
-
-[138]
-Underfull \hbox (badness 10000) in paragraph at lines 4584--4586
+Underfull \hbox (badness 10000) in paragraph at lines 4470--4472
 []\T1/ptm/m/n/10.95 Guillaume Sal-breux, Guil-laume Char-ras, and Ewa Paluch.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4584--4586
+Underfull \hbox (badness 10000) in paragraph at lines 4470--4472
 \T1/ptm/m/n/10.95 Oc-to-ber 2012. [][]URL: http://www.sciencedirect.com/science
 /article/pii/S0962892412001110
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4587--4589
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 4473--4475
 []\T1/ptm/m/n/10.95 O San-dre, L More-aux, and F Brochard-Wyart. Dy-
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 4587--4589
+Underfull \hbox (badness 7777) in paragraph at lines 4473--4475
 \T1/ptm/m/n/10.95 nam-ics of tran-sient pores in stretched vesi-cles.. \T1/ptm/
 m/it/10.95 Pro-ceed-ings of the Na-tional Academy
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 4587--4589
+Underfull \hbox (badness 7379) in paragraph at lines 4473--4475
 \T1/ptm/m/it/10.95 of Sci-ences of the United States of Amer-ica\T1/ptm/m/n/10.
 95 , 96(19):10591^^U6, Septem-ber 1999. [][]URL:
  []
 
 
-Overfull \hbox (25.37149pt too wide) in paragraph at lines 4587--4589
+Overfull \hbox (25.37149pt too wide) in paragraph at lines 4473--4475
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=179
 27&tool=pmcentrez&rendertype=abstract[][][][][][][]. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4590--4592
+Underfull \hbox (badness 10000) in paragraph at lines 4476--4478
 []\T1/ptm/m/n/10.95 Dorothy A Schafer. Cell bi-ol-ogy: barbed ends rule.. \T1/p
 tm/m/it/10.95 Na-ture\T1/ptm/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4590--4592
+Underfull \hbox (badness 10000) in paragraph at lines 4476--4478
 \T1/ptm/m/n/10.95 430(7001):734^^U5, Au-gust 2004. [][]URL: http://www.nature.c
 om.rproxy.sc.univ-paris-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4599--4601
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
 []\T1/ptm/m/n/10.95 Dag Sverre Sel-je-botn. Pro-ceed-ings of the Python in Sci-
 ence Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4599--4601
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
 \T1/ptm/m/n/10.95 fer-ence (SciPy): Fast nu-mer-i-cal com-pu-ta-tions with Cyth
 on. 2009. [][]URL:
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 4602--4604
+Underfull \hbox (badness 5105) in paragraph at lines 4488--4490
 \T1/ptm/m/n/10.95 Non-lin-ear me-chan-ics of en-tan-gled F-actin so-lu-tions. \
 T1/ptm/m/it/10.95 Soft Mat-ter\T1/ptm/m/n/10.95 , 4(8):1675, 2008. [][]URL:
  []
 
-[139]
-Overfull \hbox (50.9805pt too wide) in paragraph at lines 4617--4617
+[157]
+Overfull \hbox (50.9805pt too wide) in paragraph at lines 4503--4503
 [][][]\T1/ptm/m/n/9 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/ http:/
 /www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/pdf/zpq04409018581.pdf| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4617--4619
+Underfull \hbox (badness 10000) in paragraph at lines 4503--4505
 \T1/ptm/m/n/10.95 Novem-ber 2009. [][]URL: http://www.ncbi.nlm.nih.gov/pmc/arti
 cles/PMC2765453/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4617--4619
+Underfull \hbox (badness 10000) in paragraph at lines 4503--4505
 \T1/ptm/m/n/10.95 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/pdf/zpq04
 409018581.pdf[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4620--4622
+Underfull \hbox (badness 10000) in paragraph at lines 4506--4508
 []\T1/ptm/m/n/10.95 O. Val-iron, N. Cau-dron, and D. Job. Mi-cro-tubule dy-nam-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4620--4622
+Underfull \hbox (badness 10000) in paragraph at lines 4506--4508
 \T1/ptm/m/n/10.95 ics. \T1/ptm/m/it/10.95 Cel-lu-lar and Molec-u-lar Life Sci-e
 nces\T1/ptm/m/n/10.95 , 58(14):2069^^U2084, De-cem-ber 2001. [][]URL:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4623--4623
+Underfull \hbox (badness 10000) in paragraph at lines 4509--4509
 [][][]\T1/ptm/m/n/9 http://www.pnas.org/content/102/22/7847.abstract http://www
 .pnas.org/content/102/22/7847.full.pdf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4623--4625
+Underfull \hbox (badness 10000) in paragraph at lines 4509--4511
 \T1/ptm/m/n/10.95 http://www.pnas.org/content/102/22/7847.abstract http://www.p
 nas.org/content/102/22/7847.full.pdf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4626--4628
+Underfull \hbox (badness 10000) in paragraph at lines 4512--4514
 []\T1/ptm/m/n/10.95 Filip Vasilev, Jong T. Chun, Gio-vanni Grag-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4626--4628
+Underfull \hbox (badness 10000) in paragraph at lines 4512--4514
 \T1/ptm/m/n/10.95 naniello, Ezio Garante, and Luigia San-tella. Ef-fects of ion
 -o-mycin on egg ac-ti-va-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4626--4628
+Underfull \hbox (badness 10000) in paragraph at lines 4512--4514
 \T1/ptm/m/n/10.95 tion and early de-vel-op-ment in starfish.. \T1/ptm/m/it/10.9
 5 PloS one\T1/ptm/m/n/10.95 , 7(6):e39231, Jan-uary 2012. [][]URL:
  []
 
 
-Overfull \hbox (36.32147pt too wide) in paragraph at lines 4626--4628
+Overfull \hbox (36.32147pt too wide) in paragraph at lines 4512--4514
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=337
 7674&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
-[140]
-Overfull \hbox (61.90514pt too wide) in paragraph at lines 4629--4629
+
+Overfull \hbox (61.90514pt too wide) in paragraph at lines 4515--4515
 [][][]\T1/ptm/m/n/9 http://rsi.aip.org/resource/1/rsinak/v77/i1/p013704\_s1?isA
 uthorized=no http://scitation.aip.org/content/aip/journal/rsi/77/1/10.1063/1.21
 65568| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4629--4631
+Underfull \hbox (badness 10000) in paragraph at lines 4515--4517
 \T1/ptm/m/n/10.95 Jan-uary 2006. [][]URL: http://rsi.aip.org/resource/1/rsinak/
 v77/i1/p013704\_s1?isAuthorized=no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4632--4634
+Underfull \hbox (badness 10000) in paragraph at lines 4518--4520
 \T1/ptm/m/n/10.95 Septem-ber 2011. [][]URL: http://www.sciencedirect.com/scienc
 e/article/pii/S0022283611007376[][][][][][][],
  []
 
-
-Underfull \hbox (badness 6063) in paragraph at lines 4635--4637
+[158]
+Underfull \hbox (badness 6063) in paragraph at lines 4521--4523
 \T1/ptm/m/n/10.95 mote poly-mer-iza-tion: the case of actin and pro-filin.. \T1
 /ptm/m/it/10.95 BioEs-says : news and re-views
  []
 
 (./actingeldynamics.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4652.
- [141]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4652.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4538.
+ [159]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4538.
  (./actingeldynamics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4652.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4652.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4538.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4538.
 
 Package rerunfilecheck Info: File `actingeldynamics.out' has not changed.
-(rerunfilecheck)             Checksum: A8E2463EFC3F16BF6B2B92C5CB23E89C;7121.
-
-
-LaTeX Warning: There were undefined references.
+(rerunfilecheck)             Checksum: DF36AC38CB7C3D60E7C44B0C5C3B57A7;7314.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4652.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4538.
  ) 
 Here is how much of TeX's memory you used:
- 11426 strings out of 493488
- 173691 string characters out of 3141326
- 300567 words of memory out of 3000000
- 13608 multiletter control sequences out of 15000+200000
+ 11392 strings out of 493488
+ 176598 string characters out of 3141326
+ 300656 words of memory out of 3000000
+ 13555 multiletter control sequences out of 15000+200000
  92617 words of font info for 90 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
  41i,18n,51p,3278b,498s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4139,10 +3282,10 @@ ype1/urw/courier/ucrr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw
 ic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.
 pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on actingeldynamics.pdf (146 pages, 19874791 bytes).
+Output written on actingeldynamics.pdf (165 pages, 27294466 bytes).
 PDF statistics:
- 3978 PDF objects out of 4296 (max. 8388607)
- 3150 compressed objects within 32 object streams
- 752 named destinations out of 1000 (max. 500000)
- 1346 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5032 PDF objects out of 5155 (max. 8388607)
+ 3904 compressed objects within 40 object streams
+ 770 named destinations out of 1000 (max. 500000)
+ 1467 words of extra memory for PDF output out of 10000 (max. 10000000)
 
