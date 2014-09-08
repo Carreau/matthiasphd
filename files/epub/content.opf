@@ -9,7 +9,7 @@
     <dc:publisher>unknown</dc:publisher>
     <dc:rights>2014, Matthias Bussonnier</dc:rights>
     <dc:identifier id="unknown" opf:scheme="unknown">unknown</dc:identifier>
-    <dc:date>2014-07-21</dc:date>
+    <dc:date>2014-09-08</dc:date>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
