@@ -1,0 +1,842 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Contents</title>
+    
+    <link rel="stylesheet" href="_static/epub.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+ 
+
+<!-- Google Scholar metadata -->
+<meta name="resource_type" content="Dissertation"/>
+<meta name="citation_publication_date" content="2012/08/21"/>
+<meta name="citation_pdf_url" content="http://mae.ucdavis.edu/~biosport/jkm/dissertation/HumanControlofaBicycle.pdf"/>
+<script type="text/javascript" src="http://localhost:8000/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<style>
+
+    h1 {
+        font-size:2.0em;
+    }
+    h2 {
+        font-size:1.8em;
+    }
+    h3 {
+        font-size:1.6em;
+    }
+    h4 {
+        font-size:1.4em;
+    }
+    h5 {
+        font-size:1.2em;
+    }
+    h6 {
+        font-size:1.0em;
+    }
+
+
+    body { 
+        min-width:200px;
+        font-family: Bitter, Georgia, 'Times New Roman', serif;
+        font-size: 15px;
+    }
+    a.headerlink {
+        color: #903;
+    }
+
+    a.headerlink:hover {
+        color: #903;
+    }
+
+    .figure img {
+        max-width:90%;
+        margin:auto;
+    }
+
+    .figure{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    h1 + p:first-letter,
+    h2 + p:first-letter,
+    h3 + p:first-letter
+    { 
+        float: left;
+        color: #903;
+        font-size: 65px;
+        line-height: 50px;
+        padding-top: 4px;
+        padding-right: 6px;
+        padding-left: 3px;
+        font-family: Georgia, Serif;
+    }
+
+    p{
+       text-indent:2em;
+       
+    }
+
+    h2+p, h1+p, h3+p {
+       text-indent:inherit;
+       color: inherit;
+   }
+   div.content ul > li {
+background-image:none;
+   list-style-image: none;
+   list-style-position: outside;
+   list-style-type: none;
+   }
+
+   ul {padding-left: 14px; list-style: none;}
+   ul li:before {color: #903; content: "•"; position:relative; 
+       left: -7px; font-size: 18px; margin-left: -7px}
+
+   a:link, a:hover, a:active {
+       text-decoration: underline;
+       color: #903;
+   }
+    .figure 
+    {
+        border: solid 2px #903;
+        border-radius:10px;
+        padding: 10px;
+        
+    }
+    .figure > a 
+    {
+        display:block;
+        padding:auto;
+        width:100%;
+        
+    }
+
+    div.figure a > img
+    {
+        display: block;
+        margin:0 auto;
+    }
+
+    .caption{
+        border-left: solid thick #903; 
+        padding-left: 10px;
+        color: gray;
+        width: 80%;
+        margin: 0 10%;
+        margin-top: 30px;
+    }
+
+    td.label {
+        width:300px;
+        text-align:right;
+    }
+
+    p.caption {
+        text-indent: 0;
+    }
+
+</style>
+
+  </head>
+  <body>
+
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="parts/remerciements.html" title="Remerciements"
+             accesskey="N">next</a> |</li>
+        <li><a href="#">Actin gel dynamics:Matthias Bussonnier</a> &raquo;</li> 
+      </ul>
+    </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+          <div class="body">
+            
+
+  <div class="section" id="contents">
+<h1>Contents</h1>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="parts/remerciements.html">Remerciements</a></li>
+<li class="toctree-l1"><a class="reference internal" href="parts/part1.html">Preamble</a></li>
+<li class="toctree-l1"><a class="reference internal" href="parts/part1.html#background">Background</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#living-cells">Living Cells</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#oocyte">Oocyte</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#cell-organelles">Cell Organelles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#the-cytoskeleton">The Cytoskeleton</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#the-role-and-composition-of-the-cytoskeleton">The Role And Composition Of The Cytoskeleton</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#composition-of-the-cell-cytoskeleton">Composition of the cell cytoskeleton</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="parts/part1.html#dynamics-of-actin-polymerisation">Dynamics of actin polymerisation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="parts/part1.html#actin-network-can-be-controlled-by-a-host-of-actin-binding-proteins">Actin network can be controlled by a host of actin binding proteins</a><ul>
+<li class="toctree-l5"><a class="reference internal" href="parts/part1.html#formins">Formins</a></li>
+<li class="toctree-l5"><a class="reference internal" href="parts/part1.html#capping-protein">Capping Protein</a></li>
+<li class="toctree-l5"><a class="reference internal" href="parts/part1.html#cross-linkers">Cross-linkers</a></li>
+<li class="toctree-l5"><a class="reference internal" href="parts/part1.html#stabilizing-actin-filaments">Stabilizing actin filaments</a></li>
+<li class="toctree-l5"><a class="reference internal" href="parts/part1.html#profilin">Profilin</a></li>
+<li class="toctree-l5"><a class="reference internal" href="parts/part1.html#branching-agent">Branching Agent</a></li>
+<li class="toctree-l5"><a class="reference internal" href="parts/part1.html#molecular-motor">Molecular Motor</a><ul>
+<li class="toctree-l6"><a class="reference internal" href="parts/part1.html#myosin-ii">Myosin II</a></li>
+<li class="toctree-l6"><a class="reference internal" href="parts/part1.html#myosin-v">Myosin V</a></li>
+<li class="toctree-l6"><a class="reference internal" href="parts/part1.html#myosin-cycle">Myosin cycle</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#the-actin-cortex">The actin cortex</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#cell-motility">Cell Motility</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="parts/part1.html#lamellipodium-based-motility">Lamellipodium based Motility</a></li>
+<li class="toctree-l4"><a class="reference internal" href="parts/part1.html#blebbing-based-motility">Blebbing based Motility</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#organelle-positioning">Organelle Positioning</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#in-vitro-reconstituted-actin-networks">In vitro reconstituted actin networks</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#bead-motility-assay">Bead motility assay</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#liposomes">Liposomes</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#membrane-physics">Membrane Physics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#actin-networks-as-viscoelastic-material">Actin networks as viscoelastic material</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#elastic-modulus">Elastic Modulus</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#poisson-s-ratio">Poisson&#8217;s Ratio</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#viscosity">Viscosity</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#viscoelasticity">Viscoelasticity</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part1.html#optical-tweezer">Optical tweezer</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part1.html#determination-of-trapping-forces-and-bead-displacement">Determination of trapping forces and bead displacement</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="parts/part2.html">Materials and Methods</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#buffers">Buffers</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#g-buffer">G-Buffer</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#polymerisation-buffer">Polymerisation Buffer</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#x-buffer-with-bsa">X-Buffer with BSA</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#atp-mix-buffer">ATP-Mix Buffer</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#protein-preparation">Protein preparation</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#pwa-also-called-pvca">pWA (also called pVCA)</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#actin">Actin</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#profilin">Profilin</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#arp2-3">Arp2/3</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#capping-protein">Capping protein</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#myosin-ii">Myosin II</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#lipids-reagent-and-proteins">Lipids, reagent and proteins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#doublet-preparation">Doublet preparation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#bead-preparation">Bead Preparation</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#actin-bead-preparation">Actin-Bead Preparation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#probe-bead-preparation">Probe Bead Preparation</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#force-indentation-experiments">Force indentation experiments</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#preparation-of-sample">Preparation of sample</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#qpd-positioning-and-calibration-of-microscope">QPD positioning and calibration of microscope</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#initial-bead-trapping">Initial bead trapping</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#indentations">Indentations</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#time-shared-optical-traps">Time Shared Optical Traps</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part2.html#oocyte">Oocyte</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part2.html#oocyte-obtention">Oocyte obtention</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="parts/part3.html">Mechanical properties of a far reaching actin cloud</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="parts/part3.html#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part3.html#actin-bead-system">Actin-Bead System</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part3.html#probe-bead-system">Probe Bead System</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part3.html#experimental-description">Experimental description</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#approach-phase">Approach Phase</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#relaxation-phase">Relaxation Phase</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#retraction-part">Retraction part</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#reconstitution-of-force-distance-curve">Reconstitution of Force-distance-curve</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#repetitive-indent">Repetitive indent</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#effect-of-approach-speed">Effect of approach speed</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part3.html#experimental-observations">Experimental observations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#approach-phase-modeling">Approach phase modeling</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#variation-of-parameters-with-capping-protein">Variation of parameters with Capping Protein</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#determination-of-young-s-modulus">Determination of Young&#8217;s Modulus</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#mechanical-properties">Mechanical properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#interpretation">Interpretation</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part3.html#id29">Relaxation phase</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part3.html#retraction-phase">Retraction Phase</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part3.html#discussion">Discussion</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="parts/part4.html">Cortical tension measured on liposome doublets</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="parts/part4.html#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part4.html#experimental-description">Experimental description</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#formation-of-liposomes-doublets">Formation of liposomes doublets</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#formation-of-actin-cortex-on-doublets">Formation of actin cortex on doublets</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#visualisation-of-the-interface">Visualisation of the interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#geometrical-parameters">Geometrical parameters</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part4.html#experimental-observations">Experimental Observations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#effect-of-myosin-ii-injection">Effect of myosin-II injection</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#relation-between-the-angles-and-tension">Relation between the angles and tension</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#contact-angle-dispersion">Contact angle dispersion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#tension-of-actin-shell">Tension of actin-shell</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part4.html#d-observation">3D observation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part4.html#discussion">Discussion</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#cortical-tension-is-homogeneous-for-single-doublet">Cortical tension is homogeneous for single doublet</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#relative-increase-in-cortical-tension">Relative increase in cortical tension</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#cortical-tension-increase-in-doublets-and-in-cells">Cortical tension increase in doublets and in cells</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#different-contributions-for-cortical-tension">Different contributions for cortical tension</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#conclusion">Conclusion</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part4.html#d-fitting">3D fitting</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#first-step-fitting-a-single-liposome">First step: Fitting a single liposome</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#fitting-a-doublet">Fitting a doublet</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#id24">Discussion</a></li>
+<li class="toctree-l3"><a class="reference internal" href="parts/part4.html#id25">Conclusion</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="parts/part5.html">Active cytoplasm movement in mouse oocytes</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="parts/part5.html#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part5.html#oocytes">Oocytes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part5.html#measure-of-activity">Measure of activity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/part5.html#conclusion">Conclusion</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="parts/conclusion.html">Conclusion</a></li>
+<li class="toctree-l1"><a class="reference internal" href="parts/extra.html">Appendix</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="parts/extra.html#mechanical-detection-of-a-long-range-actin-network-emanating-from-a-biomimetic-cortex-preprint">Mechanical detection of a long range actin network emanating from a biomimetic cortex Preprint</a></li>
+<li class="toctree-l2"><a class="reference internal" href="parts/extra.html#cell-sized-liposome-doublets-reveal-active-cortical-tension-build-up-draft">Cell-sized liposome doublets reveal active cortical tension build up Draft</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p>You can Download the latest pdf version of this document <a class="reference external" href="../latex/actingeldynamics.pdf">as PDF</a> or <a class="reference external" href="../epub/actingeldynamics.epub">epub</a> .</p>
+<p id="bibtex-bibliography-index-0"><table class="docutils citation" frame="void" id="alberts2008" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Alberts et al. 08]</td><td>B&nbsp;Alberts, A&nbsp;Johnson, J&nbsp;Lewis, M&nbsp;Raff, K&nbsp;Roberts, and P&nbsp;And Walter. <em>Molecular Biology of the Cell</em>. volume 54. Garland, 2008. <a class="reference external" href="http://discovery.ucl.ac.uk/109973/">URL: http://discovery.ucl.ac.uk/109973/</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="angelova1986" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Angelova et al. 86]</td><td>Miglena&nbsp;I. Angelova and Dimiter&nbsp;S. Dimitrov. Liposome electroformation. <em>Faraday Discussions of the Chemical Society</em>, 81:303, 1986. <a class="reference external" href="http://xlink.rsc.org/?DOI=dc9868100303">URL: http://xlink.rsc.org/?DOI=dc9868100303</a>, <a class="reference external" href="http://dx.doi.org/10.1039/dc9868100303">doi:10.1039/dc9868100303</a><span class="link-target"> [http://dx.doi.org/10.1039/dc9868100303]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="azoury2011" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Azoury et al. 11]</td><td>Jessica Azoury, Karen&nbsp;Wingman Lee, Virginie Georget, Pascale Hikal, and Marie-Hélène Verlhac. Symmetry breaking in mouse oocytes requires transient F-actin meshwork destabilization.. <em>Development (Cambridge, England)</em>, 138(14):2903–8, July 2011. <a class="reference external" href="http://dev.biologists.org/content/138/14/2903.long">URL: http://dev.biologists.org/content/138/14/2903.long</a>, <a class="reference external" href="http://dx.doi.org/10.1242/dev.060269">doi:10.1242/dev.060269</a><span class="link-target"> [http://dx.doi.org/10.1242/dev.060269]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="bernheim-groswasser2002" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[BernheimGroswasser et al. 02]</td><td>Anne Bernheim-Groswasser, Sebastian Wiesner, Roy&nbsp;M. Golsteyn, Marie-France Carlier, and Cecile Sykes. The dynamics of actin-based motility depend on surface parameters. <em>Nature</em>, 417(6886):308–311, May 2002. <a class="reference external" href="http://dx.doi.org/10.1038/417308a http://www.nature.com/nature/journal/v417/n6886/full/417308a.html">URL: http://dx.doi.org/10.1038/417308a http://www.nature.com/nature/journal/v417/n6886/full/417308a.html</a>, <a class="reference external" href="http://dx.doi.org/10.1038/417308a">doi:10.1038/417308a</a><span class="link-target"> [http://dx.doi.org/10.1038/417308a]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="berridge2012a" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Berridge 12]</td><td>Michael&nbsp;J. Berridge. Cell Signalling Biology: Module 4 - Sensors and Effectors. 2012. <a class="reference external" href="http://dx.doi.org/10.1042/csb0001004">doi:10.1042/csb0001004</a><span class="link-target"> [http://dx.doi.org/10.1042/csb0001004]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="bornschlogl2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Bornschlogl 13]</td><td>Thomas Bornschlögl. How filopodia pull: what we know about the mechanics and dynamics of filopodia.. <em>Cytoskeleton (Hoboken, N.J.)</em>, 70(10):590–603, October 2013. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/23959922">URL: http://www.ncbi.nlm.nih.gov/pubmed/23959922</a>, <a class="reference external" href="http://dx.doi.org/10.1002/cm.21130">doi:10.1002/cm.21130</a><span class="link-target"> [http://dx.doi.org/10.1002/cm.21130]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="buss2008" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Buss et al. 08]</td><td>Folma Buss and John Kendrick-Jones. How are the cellular functions of myosin VI regulated within the cell?. <em>Biochemical and biophysical research communications</em>, 369(1):165–175, April 2008. <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S0006291X07025508">URL: http://www.sciencedirect.com/science/article/pii/S0006291X07025508</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.bbrc.2007.11.150">doi:10.1016/j.bbrc.2007.11.150</a><span class="link-target"> [http://dx.doi.org/10.1016/j.bbrc.2007.11.150]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="bussonnier2014" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Bussonnier et al. 14]</td><td>Matthias Bussonnier, Kevin Carvalho, Joël Lemière, Jean-François Joanny, Cécile Sykes, and Timo Betz. Mechanical Detection of a Long-Range Actin Network Emanating from a Biomimetic Cortex. <em>Biophysical Journal</em>, 107(4):854–862, August 2014. <a class="reference external" href="http://www.cell.com/article/S0006349514007243/fulltext">URL: http://www.cell.com/article/S0006349514007243/fulltext</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.bpj.2014.07.008">doi:10.1016/j.bpj.2014.07.008</a><span class="link-target"> [http://dx.doi.org/10.1016/j.bpj.2014.07.008]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="carvalho2013a" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Carvalho et al. 13a]</td><td>Kevin Carvalho, Joël Lemière, Fahima Faqir, John Manzi, Laurent Blanchoin, Julie Plastino, Timo Betz, and Cécile Sykes. Actin polymerization or myosin contraction: two ways to build up cortical tension for symmetry breaking.. <em>Philosophical transactions of the Royal Society of London. Series B, Biological sciences</em>, 368(1629):20130005, January 2013. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/24062578">URL: http://www.ncbi.nlm.nih.gov/pubmed/24062578</a>, <a class="reference external" href="http://dx.doi.org/10.1098/rstb.2013.0005">doi:10.1098/rstb.2013.0005</a><span class="link-target"> [http://dx.doi.org/10.1098/rstb.2013.0005]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="carvalho2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Carvalho et al. 13b]</td><td>Kevin Carvalho, Feng-Ching Tsai, Edouard Lees, Raphaël Voituriez, Gijsje&nbsp;H Koenderink, and Cecile Sykes. Cell-sized liposomes reveal how actomyosin cortical tension drives shape change.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 110(41):16456–61, October 2013. <a class="reference external" href="http://www.pnas.org/content/110/41/16456 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3799374&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pnas.org/content/110/41/16456 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3799374&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.1221524110">doi:10.1073/pnas.1221524110</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.1221524110]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="chaigne2013a" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Chaigne et al. 13]</td><td>Agathe Chaigne, Clément Campillo, Nir&nbsp;S Gov, Raphaël Voituriez, Jessica Azoury, Claudia Umaña-Diaz, Maria Almonacid, Isabelle Queguiner, Pierre Nassoy, Cécile Sykes, Marie-Hélène Verlhac, and Marie-Emilie Terret. A soft cortex is essential for asymmetric spindle positioning in mouse oocytes.. <em>Nature cell biology</em>, 15(8):958–66, August 2013. <a class="reference external" href="http://dx.doi.org/10.1038/ncb2799 http://www.ncbi.nlm.nih.gov/pubmed/23851486">URL: http://dx.doi.org/10.1038/ncb2799 http://www.ncbi.nlm.nih.gov/pubmed/23851486</a>, <a class="reference external" href="http://dx.doi.org/10.1038/ncb2799">doi:10.1038/ncb2799</a><span class="link-target"> [http://dx.doi.org/10.1038/ncb2799]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="charras2008" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Charras et al. 08]</td><td>Guillaume Charras and Ewa Paluch. Blebs lead the way: how to migrate without lamellipodia.. <em>Nature reviews. Molecular cell biology</em>, 9(9):730–6, September 2008. <a class="reference external" href="http://dx.doi.org/10.1038/nrm2453 http://www.ncbi.nlm.nih.gov/pubmed/18628785">URL: http://dx.doi.org/10.1038/nrm2453 http://www.ncbi.nlm.nih.gov/pubmed/18628785</a>, <a class="reference external" href="http://dx.doi.org/10.1038/nrm2453">doi:10.1038/nrm2453</a><span class="link-target"> [http://dx.doi.org/10.1038/nrm2453]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="clark2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Clark et al. 13]</td><td>Andrew&nbsp;G. Clark, Kai Dierkes, and Ewa&nbsp;K. Paluch. Monitoring actin cortex thickness in live cells.. <em>Biophysical journal</em>, 105(3):570–80, August 2013. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/23931305">URL: http://www.ncbi.nlm.nih.gov/pubmed/23931305</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.bpj.2013.05.057">doi:10.1016/j.bpj.2013.05.057</a><span class="link-target"> [http://dx.doi.org/10.1016/j.bpj.2013.05.057]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="dabiri1990" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Dabiri et al. 90]</td><td>G&nbsp;A Dabiri, J&nbsp;M Sanger, D&nbsp;A Portnoy, and F&nbsp;S Southwick. Listeria monocytogenes moves rapidly through the host-cell cytoplasm by inducing directional actin assembly.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 87(16):6068–72, August 1990. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=54473&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=54473&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.87.16.6068">doi:10.1073/pnas.87.16.6068</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.87.16.6068]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="engler2006" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Engler et al. 06]</td><td>Adam&nbsp;J. Engler, Shamik Sen, H.&nbsp;Lee Sweeney, and Dennis&nbsp;E. Discher. Matrix elasticity directs stem cell lineage specification.. <em>Cell</em>, 126(4):677–89, August 2006. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/16923388">URL: http://www.ncbi.nlm.nih.gov/pubmed/16923388</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.cell.2006.06.044">doi:10.1016/j.cell.2006.06.044</a><span class="link-target"> [http://dx.doi.org/10.1016/j.cell.2006.06.044]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="faix2006" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Faix et al. 06]</td><td>Jan Faix and Klemens Rottner. The making of filopodia.. <em>Current opinion in cell biology</em>, 18(1):18–25, February 2006. <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S095506740500178X">URL: http://www.sciencedirect.com/science/article/pii/S095506740500178X</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.ceb.2005.11.002">doi:10.1016/j.ceb.2005.11.002</a><span class="link-target"> [http://dx.doi.org/10.1016/j.ceb.2005.11.002]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="feric2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Feric et al. 13]</td><td>Marina Feric and Clifford&nbsp;P Brangwynne. A nuclear F-actin scaffold stabilizes ribonucleoprotein droplets against gravity in large cells. <em>Nature Cell Biology</em>, 15:1253–1259, 2013. <a class="reference external" href="http://dx.doi.org/10.1038/ncb2830">URL: http://dx.doi.org/10.1038/ncb2830</a>, <a class="reference external" href="http://dx.doi.org/10.1038/ncb2830">doi:10.1038/ncb2830</a><span class="link-target"> [http://dx.doi.org/10.1038/ncb2830]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="fletcher2010" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Fletcher et al. 10]</td><td>Daniel&nbsp;A Fletcher and R&nbsp;Dyche Mullins. Cell mechanics and the cytoskeleton.. <em>Nature</em>, 463(7280):485–92, January 2010. <a class="reference external" href="http://dx.doi.org/10.1038/nature08908">URL: http://dx.doi.org/10.1038/nature08908</a>, <a class="reference external" href="http://dx.doi.org/10.1038/nature08908">doi:10.1038/nature08908</a><span class="link-target"> [http://dx.doi.org/10.1038/nature08908]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="gardel2003" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Gardel et al. 03]</td><td>M.&nbsp;L Gardel, M.&nbsp;T Valentine, J.&nbsp;C Crocker, A.&nbsp;R Bausch, and D.&nbsp;A Weitz. Microrheology of entangled F-actin solutions.. <em>Physical review letters</em>, 91(15):158302, October 2003. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/14611506 http://link.aps.org/doi/10.1103/PhysRevLett.91.158302">URL: http://www.ncbi.nlm.nih.gov/pubmed/14611506 http://link.aps.org/doi/10.1103/PhysRevLett.91.158302</a>, <a class="reference external" href="http://dx.doi.org/10.1103/PhysRevLett.91.158302">doi:10.1103/PhysRevLett.91.158302</a><span class="link-target"> [http://dx.doi.org/10.1103/PhysRevLett.91.158302]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="goley2006" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Goley et al. 06]</td><td>Erin&nbsp;D Goley and Matthew&nbsp;D Welch. The ARP2/3 complex: an actin nucleator comes of age.. <em>Nature reviews. Molecular cell biology</em>, 7(10):713–26, October 2006. <a class="reference external" href="http://dx.doi.org/10.1038/nrm2026">URL: http://dx.doi.org/10.1038/nrm2026</a>, <a class="reference external" href="http://dx.doi.org/10.1038/nrm2026">doi:10.1038/nrm2026</a><span class="link-target"> [http://dx.doi.org/10.1038/nrm2026]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="hartman2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Hartman et al. 12]</td><td>M.&nbsp;A. Hartman and J.&nbsp;A. Spudich. The myosin superfamily at a glance. <em>Journal of Cell Science</em>, 125(7):1627–1632, May 2012. <a class="reference external" href="http://jcs.biologists.org/content/125/7/1627.full http://jcs.biologists.org/cgi/doi/10.1242/jcs.094300">URL: http://jcs.biologists.org/content/125/7/1627.full http://jcs.biologists.org/cgi/doi/10.1242/jcs.094300</a>, <a class="reference external" href="http://dx.doi.org/10.1242/jcs.094300">doi:10.1242/jcs.094300</a><span class="link-target"> [http://dx.doi.org/10.1242/jcs.094300]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="helfrich" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Helfrich 73]</td><td>W&nbsp;Helfrich. Elastic properties of lipid bilayers: theory and possible experiments.. <em>Zeitschrift für Naturforschung. Teil C: Biochemie, Biophysik, Biologie, Virologie</em>, 28(11):693–703, 1973. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/4273690">URL: http://www.ncbi.nlm.nih.gov/pubmed/4273690</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="holubcova2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Holubcova et al. 13]</td><td>Zuzana Holubcová, Gillian Howard, and Melina Schuh. Vesicles modulate an actin network for asymmetric spindle positioning.. <em>Nature cell biology</em>, 15(8):937–47, August 2013. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3797517&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3797517&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1038/ncb2802">doi:10.1038/ncb2802</a><span class="link-target"> [http://dx.doi.org/10.1038/ncb2802]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="huelsmann2013" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Huelsmann et al. 13]</td><td>Sven Huelsmann, Jari Ylänne, and Nicholas&nbsp;H Brown. Filopodia-like actin cables position nuclei in association with perinuclear actin in Drosophila nurse cells.. <em>Developmental cell</em>, 26(6):604–15, September 2013. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3791400&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3791400&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.devcel.2013.08.014">doi:10.1016/j.devcel.2013.08.014</a><span class="link-target"> [http://dx.doi.org/10.1016/j.devcel.2013.08.014]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="isambert1996" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Isambert et al. 96]</td><td>H.&nbsp;Isambert and A.&nbsp;C. Maggs. Dynamics and Rheology of Actin Solutions. <em>Macromolecules</em>, 29(3):1036–1040, January 1996. <a class="reference external" href="http://dx.doi.org/10.1021/ma946418x http://pubs.acs.org/doi/abs/10.1021/ma946418x http://pubs.acs.org/doi/full/10.1021/ma946418x http://pubs.acs.org/doi/pdf/10.1021/ma946418x">URL: http://dx.doi.org/10.1021/ma946418x http://pubs.acs.org/doi/abs/10.1021/ma946418x http://pubs.acs.org/doi/full/10.1021/ma946418x http://pubs.acs.org/doi/pdf/10.1021/ma946418x</a>, <a class="reference external" href="http://dx.doi.org/10.1021/ma946418x">doi:10.1021/ma946418x</a><span class="link-target"> [http://dx.doi.org/10.1021/ma946418x]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="isambert1995" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Isambert et al. 95]</td><td>H.&nbsp;Isambert, P.&nbsp;Venier, A.&nbsp;Maggs, A.&nbsp;Fattoum, R.&nbsp;Kassab, D.&nbsp;Pantaloni, and M.&nbsp;Carlier. Flexibility of actin filaments derived from thermal fluctuations. Effect of bound nucleotide, phalloidin, and muscle regulatory proteins. <em>Journal of Biological Chemistry</em>, 270(19):11437–11444, May 1995. <a class="reference external" href="http://www.jbc.org/content/270/19/11437.short">URL: http://www.jbc.org/content/270/19/11437.short</a>, <a class="reference external" href="http://dx.doi.org/10.1074/jbc.270.19.11437">doi:10.1074/jbc.270.19.11437</a><span class="link-target"> [http://dx.doi.org/10.1074/jbc.270.19.11437]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="iwabuchi2010" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Iwabuchi et al. 10]</td><td>Kosei Iwabuchi and Shingo Takagi. Actin-based mechanisms for light-dependent intracellular positioning of nuclei and chloroplasts in Arabidopsis.. <em>Plant signaling &amp; behavior</em>, 5(8):1010–3, August 2010. <a class="reference external" href="http://www.plantphysiol.org/content/152/3/1309">URL: http://www.plantphysiol.org/content/152/3/1309</a>, <a class="reference external" href="http://dx.doi.org/10.1104/pp.109.149526">doi:10.1104/pp.109.149526</a><span class="link-target"> [http://dx.doi.org/10.1104/pp.109.149526]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="jaalouk2009" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Jaalouk et al. 09]</td><td>Diana&nbsp;E Jaalouk and Jan Lammerding. Mechanotransduction gone awry.. <em>Nature reviews. Molecular cell biology</em>, 10(1):63–73, January 2009. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2668954&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2668954&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1038/nrm2597">doi:10.1038/nrm2597</a><span class="link-target"> [http://dx.doi.org/10.1038/nrm2597]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="jahnel2011" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Jahnel et al. 11]</td><td>Marcus Jahnel, Martin Behrndt, Anita Jannasch, Erik Schäffer, and Stephan&nbsp;W. Grill. Measuring the complete force field of an optical trap. <em>Optics Letters</em>, 36(7):1260–1262, April 2011. <a class="reference external" href="http://ol.osa.org/abstract.cfm?URI=ol-36-7-1260 http://www.opticsinfobase.org/ol/abstract.cfm?URI=ol-36-7-1260">URL: http://ol.osa.org/abstract.cfm?URI=ol-36-7-1260 http://www.opticsinfobase.org/ol/abstract.cfm?URI=ol-36-7-1260</a>, <a class="reference external" href="http://dx.doi.org/10.1364/OL.36.001260">doi:10.1364/OL.36.001260</a><span class="link-target"> [http://dx.doi.org/10.1364/OL.36.001260]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="kawska2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Kawska et al. 12]</td><td>Agnieszka Kawska, Kévin Carvalho, John Manzi, Rajaa Boujemaa-Paterski, Laurent Blanchoin, Jean-Louis Martiel, and Cécile Sykes. How actin network dynamics control the onset of actin-based motility.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 109(36):14440–5, September 2012. <a class="reference external" href="http://www.pnas.org/content/109/36/14440.short">URL: http://www.pnas.org/content/109/36/14440.short</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.1117096109">doi:10.1073/pnas.1117096109</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.1117096109]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="krieg2008" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Krieg et al. 08]</td><td>M&nbsp;Krieg, Y&nbsp;Arboleda-Estudillo, P-H Puech, J&nbsp;Käfer, F&nbsp;Graner, D&nbsp;J Müller, and C-P Heisenberg. Tensile forces govern germ-layer organization in zebrafish.. <em>Nature cell biology</em>, 10(4):429–36, April 2008. <a class="reference external" href="http://dx.doi.org/10.1038/ncb1705">URL: http://dx.doi.org/10.1038/ncb1705</a>, <a class="reference external" href="http://dx.doi.org/10.1038/ncb1705">doi:10.1038/ncb1705</a><span class="link-target"> [http://dx.doi.org/10.1038/ncb1705]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="kruse2005" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Kruse et al. 05]</td><td>Karsten Kruse, J&nbsp;F Joanny, Frank Jülicher, J&nbsp;Prost, and K&nbsp;Sekimoto. Generic theory of active polar gels: a paradigm for cytoskeletal dynamics.. <em>The European physical journal. E, Soft matter</em>, 16(1):5–16, January 2005. <a class="reference external" href="http://link.springer.com/article/10.1140/epje/e2005-00002-5 http://www.ncbi.nlm.nih.gov/pubmed/15688136">URL: http://link.springer.com/article/10.1140/epje/e2005-00002-5 http://www.ncbi.nlm.nih.gov/pubmed/15688136</a>, <a class="reference external" href="http://dx.doi.org/10.1140/epje/e2005-00002-5">doi:10.1140/epje/e2005-00002-5</a><span class="link-target"> [http://dx.doi.org/10.1140/epje/e2005-00002-5]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="kunda2008" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Kunda et al. 08]</td><td>Patricia Kunda, Andrew&nbsp;E Pelling, Tao Liu, and Buzz Baum. Moesin controls cortical rigidity, cell rounding, and spindle morphogenesis during mitosis.. <em>Current biology : CB</em>, 18(2):91–101, January 2008. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/18207738">URL: http://www.ncbi.nlm.nih.gov/pubmed/18207738</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.cub.2007.12.051">doi:10.1016/j.cub.2007.12.051</a><span class="link-target"> [http://dx.doi.org/10.1016/j.cub.2007.12.051]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="liverpool2006" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Liverpool 06]</td><td>Tanniemola&nbsp;B Liverpool. Active gels: where polymer physics meets cytoskeletal dynamics.. <em>Philosophical transactions. Series A, Mathematical, physical, and engineering sciences</em>, 364(1849):3335–55, December 2006. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/17090463">URL: http://www.ncbi.nlm.nih.gov/pubmed/17090463</a>, <a class="reference external" href="http://dx.doi.org/10.1098/rsta.2006.1897">doi:10.1098/rsta.2006.1897</a><span class="link-target"> [http://dx.doi.org/10.1098/rsta.2006.1897]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="loisel1999" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Loisel et al. 99]</td><td>T&nbsp;P Loisel, R&nbsp;Boujemaa, D&nbsp;Pantaloni, and M&nbsp;F Carlier. Reconstitution of actin-based motility of Listeria and Shigella using pure proteins.. <em>Nature</em>, 401(6753):613–6, October 1999. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/10524632">URL: http://www.ncbi.nlm.nih.gov/pubmed/10524632</a>, <a class="reference external" href="http://dx.doi.org/10.1038/44183">doi:10.1038/44183</a><span class="link-target"> [http://dx.doi.org/10.1038/44183]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="lenart2005" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Lenart et al. 05]</td><td>Péter Lénárt, Christian&nbsp;P Bacher, Nathalie Daigle, Arthur&nbsp;R Hand, Roland Eils, Mark Terasaki, and Jan Ellenberg. A contractile nuclear actin network drives chromosome congression in oocytes.. <em>Nature</em>, 436:812–818, 2005. <a class="reference external" href="http://dx.doi.org/10.1038/nature03810">doi:10.1038/nature03810</a><span class="link-target"> [http://dx.doi.org/10.1038/nature03810]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="machesky1999" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Machesky et al. 99]</td><td>L.&nbsp;M. Machesky, R.&nbsp;D. Mullins, H.&nbsp;N. Higgs, D.&nbsp;A. Kaiser, L.&nbsp;Blanchoin, R.&nbsp;C. May, M.&nbsp;E. Hall, and T.&nbsp;D. Pollard. Scar, a WASp-related protein, activates nucleation of actin filaments by the Arp2/3 complex. <em>Proceedings of the National Academy of Sciences</em>, 96(7):3739–3744, March 1999. <a class="reference external" href="http://www.pnas.org/content/96/7/3739.full">URL: http://www.pnas.org/content/96/7/3739.full</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.96.7.3739">doi:10.1073/pnas.96.7.3739</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.96.7.3739]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="mackintosh1995" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[MacKintosh et al. 95]</td><td>F.&nbsp;MacKintosh, J.&nbsp;Käs, and P.&nbsp;Janmey. Elasticity of Semiflexible Biopolymer Networks. <em>Physical Review Letters</em>, 75(24):4425–4428, December 1995. <a class="reference external" href="http://link.aps.org/doi/10.1103/PhysRevLett.75.4425">URL: http://link.aps.org/doi/10.1103/PhysRevLett.75.4425</a>, <a class="reference external" href="http://dx.doi.org/10.1103/PhysRevLett.75.4425">doi:10.1103/PhysRevLett.75.4425</a><span class="link-target"> [http://dx.doi.org/10.1103/PhysRevLett.75.4425]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="mahaffy2004" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Mahaffy et al. 04]</td><td>R&nbsp;E Mahaffy, S&nbsp;Park, E&nbsp;Gerde, J&nbsp;Käs, and C&nbsp;K Shih. Quantitative analysis of the viscoelastic properties of thin regions of fibroblasts using atomic force microscopy.. <em>Biophysical journal</em>, 86(3):1777–93, March 2004. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1304012&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1304012&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1016/S0006-3495(04)74245-9">doi:10.1016/S0006-3495(04)74245-9</a><span class="link-target"> [http://dx.doi.org/10.1016/S0006-3495(04)74245-9]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="maitre2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Maitre et al. 12]</td><td>Jean-Léon Maitre, Hélène Berthoumieux, Simon Frederik&nbsp;Gabriel Krens, Guillaume Salbreux, Frank Jülicher, Ewa Paluch, and Carl-Philipp Heisenberg. Adhesion functions in cell sorting by mechanically coupling the cortices of adhering cells.. <em>Science (New York, N.Y.)</em>, 338(6104):253–6, October 2012. <a class="reference external" href="http://www.sciencemag.org.rproxy.sc.univ-paris-diderot.fr/content/338/6104/253.long http://www.ncbi.nlm.nih.gov/pubmed/22923438 http://www.sciencemag.org/content/338/6104/253 http://www.sciencemag.org/content/338/6104/253.abstract">URL: http://www.sciencemag.org.rproxy.sc.univ-paris-diderot.fr/content/338/6104/253.long http://www.ncbi.nlm.nih.gov/pubmed/22923438 http://www.sciencemag.org/content/338/6104/253 http://www.sciencemag.org/content/338/6104/253.abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1126/science.1225399">doi:10.1126/science.1225399</a><span class="link-target"> [http://dx.doi.org/10.1126/science.1225399]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="marcy2004" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Marcy et al. 04]</td><td>Yann Marcy, Jacques Prost, Marie-France Carlier, and Cécile Sykes. Forces generated during actin-based propulsion: a direct measurement by micromanipulation.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 101(16):5992–7, April 2004. <a class="reference external" href="http://www.pnas.org/content/101/16/5992.abstract http://www.pnas.org/content/101/16/5992.full http://www.pnas.org/content/101/16/5992.full.pdf">URL: http://www.pnas.org/content/101/16/5992.abstract http://www.pnas.org/content/101/16/5992.full http://www.pnas.org/content/101/16/5992.full.pdf</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.0307704101">doi:10.1073/pnas.0307704101</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.0307704101]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="mizuno2007" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Mizuno et al. 07]</td><td>Daisuke Mizuno, Catherine Tardin, C.&nbsp;F. Schmidt, and F&nbsp;C Mackintosh. Nonequilibrium mechanics of active cytoskeletal networks.. <em>Science (New York, N.Y.)</em>, 315(5810):370–3, January 2007. <a class="reference external" href="http://www.sciencemag.org/content/315/5810/370.abstract http://www.sciencemag.org/content/315/5810/370.short http://www.ncbi.nlm.nih.gov/pubmed/17234946">URL: http://www.sciencemag.org/content/315/5810/370.abstract http://www.sciencemag.org/content/315/5810/370.short http://www.ncbi.nlm.nih.gov/pubmed/17234946</a>, <a class="reference external" href="http://dx.doi.org/10.1126/science.1134404">doi:10.1126/science.1134404</a><span class="link-target"> [http://dx.doi.org/10.1126/science.1134404]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="morone2006b" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Morone et al. 06]</td><td>Nobuhiro Morone, Takahiro Fujiwara, Kotono Murase, Rinshi&nbsp;S Kasai, Hiroshi Ike, Shigeki Yuasa, Jiro Usukura, and Akihiro Kusumi. Three-dimensional reconstruction of the membrane skeleton at the plasma membrane interface by electron tomography.. <em>The Journal of cell biology</em>, 174(6):851–62, September 2006. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2064339&amp;tool=pmcentrez&amp;rendertype=abstract http://jcb.rupress.org/content/174/6/851.long">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2064339&amp;tool=pmcentrez&amp;rendertype=abstract http://jcb.rupress.org/content/174/6/851.long</a>, <a class="reference external" href="http://dx.doi.org/10.1083/jcb.200606007">doi:10.1083/jcb.200606007</a><span class="link-target"> [http://dx.doi.org/10.1083/jcb.200606007]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="morse1998a" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Morse 98a]</td><td>David&nbsp;C Morse. Viscoelasticity of concentrated isotropic solutions of semiflexible polymers. 2. Linear response. <em>Macromolecules</em>, 9297(98):7044–7067, 1998. <a class="reference external" href="http://pubs.acs.org/doi/abs/10.1021/ma980304u">URL: http://pubs.acs.org/doi/abs/10.1021/ma980304u</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="morse1998b" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Morse 98b]</td><td>David&nbsp;C. Morse. Viscoelasticity of Concentrated Isotropic Solutions of Semiflexible Polymers. 1. Model and Stress Tensor. <em>Macromolecules</em>, 31(20):7030–7043, October 1998. <a class="reference external" href="http://pubs.acs.org/doi/abs/10.1021/ma9803032 http://dx.doi.org/10.1021/ma9803032">URL: http://pubs.acs.org/doi/abs/10.1021/ma9803032 http://dx.doi.org/10.1021/ma9803032</a>, <a class="reference external" href="http://dx.doi.org/10.1021/ma9803032">doi:10.1021/ma9803032</a><span class="link-target"> [http://dx.doi.org/10.1021/ma9803032]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="nieminen2007" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Nieminen et al. 07]</td><td>Timo&nbsp;A Nieminen, Gregor Knöner, Norman&nbsp;R Heckenberg, and Halina Rubinsztein-Dunlop. Physics of optical tweezers.. <em>Methods in cell biology</em>, 82:207–36, January 2007. <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S0091679X06820066">URL: http://www.sciencedirect.com/science/article/pii/S0091679X06820066</a>, <a class="reference external" href="http://dx.doi.org/10.1016/S0091-679X(06)82006-6">doi:10.1016/S0091-679X(06)82006-6</a><span class="link-target"> [http://dx.doi.org/10.1016/S0091-679X(06)82006-6]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="noguera2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Noguera 12]</td><td>Philippe Noguera. <em>Etude du rôle de la protéine VASP dans la dynamique et la mécanique des réseaux d&#8217;actine avec un système biomimétique de la motilité cellulaire</em>. PhD thesis, Paris 7, September 2012. <a class="reference external" href="http://tel.archives-ouvertes.fr/tel-00834288">URL: http://tel.archives-ouvertes.fr/tel-00834288</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="parekh2005" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Parekh et al. 05]</td><td>Sapun&nbsp;H Parekh, Ovijit Chaudhuri, Julie&nbsp;A Theriot, and Daniel&nbsp;A Fletcher. Loading history determines the velocity of actin-network growth.. <em>Nature cell biology</em>, 7(12):1219–23, December 2005. <a class="reference external" href="http://www.nature.com.gate1.inist.fr/ncb/journal/v7/n12/full/ncb1336.html http://www.ncbi.nlm.nih.gov/pubmed/16299496">URL: http://www.nature.com.gate1.inist.fr/ncb/journal/v7/n12/full/ncb1336.html http://www.ncbi.nlm.nih.gov/pubmed/16299496</a>, <a class="reference external" href="http://dx.doi.org/10.1038/ncb1336">doi:10.1038/ncb1336</a><span class="link-target"> [http://dx.doi.org/10.1038/ncb1336]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="plastino2005" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Plastino et al. 05]</td><td>Julie Plastino and Cécile Sykes. The actin slingshot. <em>Current Opinion in Cell Biology</em>, 17(1):62–66, 2005. <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S0955067404001693">URL: http://www.sciencedirect.com/science/article/pii/S0955067404001693</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pollard1986" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pollard 86]</td><td>T&nbsp;D Pollard. Rate constants for the reactions of ATP- and ADP-actin with the ends of actin filaments.. <em>The Journal of cell biology</em>, 103(6 Pt 2):2747–54, December 1986. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2114620&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2114620&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1083/jcb.103.6.2747">doi:10.1083/jcb.103.6.2747</a><span class="link-target"> [http://dx.doi.org/10.1083/jcb.103.6.2747]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pollard2000" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pollard et al. 00]</td><td>T&nbsp;D Pollard, L&nbsp;Blanchoin, and R&nbsp;D Mullins. Molecular mechanisms controlling actin filament dynamics in nonmuscle cells.. <em>Annual review of biophysics and biomolecular structure</em>, 29:545–76, January 2000. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/10940259">URL: http://www.ncbi.nlm.nih.gov/pubmed/10940259</a>, <a class="reference external" href="http://dx.doi.org/10.1146/annurev.biophys.29.1.545">doi:10.1146/annurev.biophys.29.1.545</a><span class="link-target"> [http://dx.doi.org/10.1146/annurev.biophys.29.1.545]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pollard2003" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pollard et al. 03]</td><td>Thomas&nbsp;D. Pollard and Gary&nbsp;G. Borisy. Cellular motility driven by assembly and disassembly of actin filaments.. <em>Cell</em>, 112(4):453–65, February 2003. <a class="reference external" href="http://linkinghub.elsevier.com/retrieve/pii/S009286740300120X http://www.ncbi.nlm.nih.gov/pubmed/12600310">URL: http://linkinghub.elsevier.com/retrieve/pii/S009286740300120X http://www.ncbi.nlm.nih.gov/pubmed/12600310</a>, <a class="reference external" href="http://dx.doi.org/10.1016/S0092-8674(03)00120-X">doi:10.1016/S0092-8674(03)00120-X</a><span class="link-target"> [http://dx.doi.org/10.1016/S0092-8674(03)00120-X]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pontani2009" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pontani et al. 09]</td><td>Léa-Laetitia Pontani, Jasper van&nbsp;der Gucht, Guillaume Salbreux, Julien Heuvingh, Jean-François Joanny, and Cécile Sykes. Reconstitution of an actin cortex inside a liposome.. <em>Biophysical journal</em>, 96(1):192–8, January 2009. <a class="reference external" href="http://www.cell.com/biophysj/abstract/S0006-3495(08)00038-6 http://www.sciencedirect.com/science?_ob=MImg&amp;_i">URL: http://www.cell.com/biophysj/abstract/S0006-3495(08)00038-6 http://www.sciencedirect.com/science?_ob=MImg&amp;_i</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.bpj.2008.09.029">doi:10.1016/j.bpj.2008.09.029</a><span class="link-target"> [http://dx.doi.org/10.1016/j.bpj.2008.09.029]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pring2003a" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pring et al. 03]</td><td>Martin Pring, Marie Evangelista, Charles Boone, Changsong Yang, and Sally&nbsp;H Zigmond. Mechanism of formin-induced nucleation of actin filaments.. <em>Biochemistry</em>, 42(2):486–96, January 2003. <a class="reference external" href="http://dx.doi.org/10.1021/bi026520j">URL: http://dx.doi.org/10.1021/bi026520j</a>, <a class="reference external" href="http://dx.doi.org/10.1021/bi026520j">doi:10.1021/bi026520j</a><span class="link-target"> [http://dx.doi.org/10.1021/bi026520j]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pruyne2002" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pruyne et al. 02]</td><td>David Pruyne, Marie Evangelista, Changsong Yang, Erfei Bi, Sally Zigmond, Anthony Bretscher, and Charles Boone. Role of formins in actin assembly: nucleation and barbed-end association.. <em>Science (New York, N.Y.)</em>, 297(5581):612–5, July 2002. <a class="reference external" href="http://www.sciencemag.org/content/297/5581/612.abstract">URL: http://www.sciencemag.org/content/297/5581/612.abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1126/science.1072309">doi:10.1126/science.1072309</a><span class="link-target"> [http://dx.doi.org/10.1126/science.1072309]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="pujol2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Pujol et al. 12]</td><td>Thomas Pujol, Olivia du&nbsp;Roure, Marc Fermigier, and Julien Heuvingh. Impact of branching on the elasticity of actin networks.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 109(26):10364–9, June 2012. <a class="reference external" href="http://www.pnas.org/content/early/2012/06/05/1121238109">URL: http://www.pnas.org/content/early/2012/06/05/1121238109</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.1121238109">doi:10.1073/pnas.1121238109</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.1121238109]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="salbreux2012b" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Salbreux et al. 12]</td><td>Guillaume Salbreux, Guillaume Charras, and Ewa Paluch. Actin cortex mechanics and cellular morphogenesis.. <em>Trends in cell biology</em>, 22(10):536–45, October 2012. <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S0962892412001110 http://www.ncbi.nlm.nih.gov/pubmed/22871642">URL: http://www.sciencedirect.com/science/article/pii/S0962892412001110 http://www.ncbi.nlm.nih.gov/pubmed/22871642</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.tcb.2012.07.001">doi:10.1016/j.tcb.2012.07.001</a><span class="link-target"> [http://dx.doi.org/10.1016/j.tcb.2012.07.001]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="sandre1999" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Sandre et al. 99]</td><td>O&nbsp;Sandre, L&nbsp;Moreaux, and F&nbsp;Brochard-Wyart. Dynamics of transient pores in stretched vesicles.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 96(19):10591–6, September 1999. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=17927&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=17927&amp;tool=pmcentrez&amp;rendertype=abstract</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="schafer2004" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Schafer 04]</td><td>Dorothy&nbsp;A Schafer. Cell biology: barbed ends rule.. <em>Nature</em>, 430(7001):734–5, August 2004. <a class="reference external" href="http://www.nature.com.rproxy.sc.univ-paris-diderot.fr/nature/journal/v430/n7001/full/430734a.html">URL: http://www.nature.com.rproxy.sc.univ-paris-diderot.fr/nature/journal/v430/n7001/full/430734a.html</a>, <a class="reference external" href="http://dx.doi.org/10.1038/430734a">doi:10.1038/430734a</a><span class="link-target"> [http://dx.doi.org/10.1038/430734a]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="schuh2008" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Schuh et al. 08]</td><td>Melina Schuh and Jan Ellenberg. A new model for asymmetric spindle positioning in mouse oocytes.. <em>Current biology : CB</em>, 18(24):1986–92, December 2008. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/19062278">URL: http://www.ncbi.nlm.nih.gov/pubmed/19062278</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.cub.2008.11.022">doi:10.1016/j.cub.2008.11.022</a><span class="link-target"> [http://dx.doi.org/10.1016/j.cub.2008.11.022]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="schwarz2000" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Schwarz et al. 00]</td><td>E&nbsp;C Schwarz, E&nbsp;M Neuhaus, C&nbsp;Kistler, A&nbsp;W Henkel, and T&nbsp;Soldati. Dictyostelium myosin IK is involved in the maintenance of cortical tension and affects motility and phagocytosis.. <em>Journal of cell science</em>, 113 ( Pt 4:621–33, February 2000. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/10652255">URL: http://www.ncbi.nlm.nih.gov/pubmed/10652255</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="seljebotn2009" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Seljebotn 09]</td><td>Dag&nbsp;Sverre Seljebotn. Proceedings of the Python in Science Conference (SciPy): Fast numerical computations with Cython. 2009. <a class="reference external" href="http://conference.scipy.org/proceedings/SciPy2009/paper_2/">URL: http://conference.scipy.org/proceedings/SciPy2009/paper_2/</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="semmrich2008" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Semmrich et al. 08]</td><td>Christine Semmrich, Ryan&nbsp;J. Larsen, and Andreas&nbsp;R. Bausch. Nonlinear mechanics of entangled F-actin solutions. <em>Soft Matter</em>, 4(8):1675, 2008. <a class="reference external" href="http://xlink.rsc.org/?DOI=b800989a">URL: http://xlink.rsc.org/?DOI=b800989a</a>, <a class="reference external" href="http://dx.doi.org/10.1039/b800989a">doi:10.1039/b800989a</a><span class="link-target"> [http://dx.doi.org/10.1039/b800989a]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="soeno1998" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Soeno et al. 98]</td><td>Y&nbsp;Soeno, H&nbsp;Abe, S&nbsp;Kimura, K&nbsp;Maruyama, and T&nbsp;Obinata. Generation of functional beta-actinin (CapZ) in an E. coli expression system.. <em>Journal of muscle research and cell motility</em>, 19(6):639–46, August 1998. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/9742448">URL: http://www.ncbi.nlm.nih.gov/pubmed/9742448</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="stewart2011" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Stewart et al. 11]</td><td>Martin&nbsp;P Stewart, Jonne Helenius, Yusuke Toyoda, Subramanian&nbsp;P Ramanathan, Daniel&nbsp;J Muller, and Anthony&nbsp;A Hyman. Hydrostatic pressure and the actomyosin cortex drive mitotic cell rounding.. <em>Nature</em>, 469(7329):226–30, January 2011. <a class="reference external" href="http://dx.doi.org/10.1038/nature09642 http://www.ncbi.nlm.nih.gov/pubmed/21196934">URL: http://dx.doi.org/10.1038/nature09642 http://www.ncbi.nlm.nih.gov/pubmed/21196934</a>, <a class="reference external" href="http://dx.doi.org/10.1038/nature09642">doi:10.1038/nature09642</a><span class="link-target"> [http://dx.doi.org/10.1038/nature09642]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="sturmer1995" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Sturmer et al. 95]</td><td>K&nbsp;Stürmer, O&nbsp;Baumann, and B&nbsp;Walz. Actin-dependent light-induced translocation of mitochondria and ER cisternae in the photoreceptor cells of the locust Schistocerca gregaria.. <em>Journal of cell science</em>, 108 ( Pt 6:2273–2283, 1995.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="thoumine1997" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Thoumine et al. 97]</td><td>O&nbsp;Thoumine and A&nbsp;Ott. Time scale dependent viscoelastic and contractile regimes in fibroblasts probed by microplate manipulation.. <em>Journal of cell science</em>, 110 ( Pt 1:2109–16, September 1997. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/9378761">URL: http://www.ncbi.nlm.nih.gov/pubmed/9378761</a>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="tinevez2009" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Tinevez et al. 09]</td><td>Jean-Yves Tinevez, Ulrike Schulze, Guillaume Salbreux, Julia Roensch, Jean-Francois Joanny, and Ewa Paluch. Role of cortical tension in bleb growth. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 106(44):18581–18586, November 2009. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/pdf/zpq04409018581.pdf">URL: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/pdf/zpq04409018581.pdf</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.0903353106">doi:10.1073/pnas.0903353106</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.0903353106]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="valiron2001" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Valiron et al. 01]</td><td>O.&nbsp;Valiron, N.&nbsp;Caudron, and D.&nbsp;Job. Microtubule dynamics. <em>Cellular and Molecular Life Sciences</em>, 58(14):2069–2084, December 2001. <a class="reference external" href="http://link.springer.com/10.1007/PL00000837">URL: http://link.springer.com/10.1007/PL00000837</a>, <a class="reference external" href="http://dx.doi.org/10.1007/PL00000837">doi:10.1007/PL00000837</a><span class="link-target"> [http://dx.doi.org/10.1007/PL00000837]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="vandergucht2005" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[vanderGucht et al. 05]</td><td>Jasper van&nbsp;der Gucht, Ewa Paluch, Julie Plastino, and Cécile Sykes. Stress release drives symmetry breaking for actin-based movement. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 102(22):7847 –7852, May 2005. <a class="reference external" href="http://www.pnas.org/content/102/22/7847.abstract http://www.pnas.org/content/102/22/7847.full.pdf http://www.pnas.org/content/102/22/7847.short">URL: http://www.pnas.org/content/102/22/7847.abstract http://www.pnas.org/content/102/22/7847.full.pdf http://www.pnas.org/content/102/22/7847.short</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.0502121102">doi:10.1073/pnas.0502121102</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.0502121102]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="vasilev2012" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Vasilev et al. 12]</td><td>Filip Vasilev, Jong&nbsp;T. Chun, Giovanni Gragnaniello, Ezio Garante, and Luigia Santella. Effects of ionomycin on egg activation and early development in starfish.. <em>PloS one</em>, 7(6):e39231, January 2012. <a class="reference external" href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3377674&amp;tool=pmcentrez&amp;rendertype=abstract">URL: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3377674&amp;tool=pmcentrez&amp;rendertype=abstract</a>, <a class="reference external" href="http://dx.doi.org/10.1371/journal.pone.0039231">doi:10.1371/journal.pone.0039231</a><span class="link-target"> [http://dx.doi.org/10.1371/journal.pone.0039231]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="vermeulen2006" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Vermeulen et al. 06]</td><td>Karen&nbsp;C Vermeulen, Joost van Mameren, Ger J.&nbsp;M Stienen, Erwin J.&nbsp;G Peterman, Gijs J.&nbsp;L Wuite, and Christoph&nbsp;F Schmidt. Calibrating bead displacements in optical tweezers using acousto-optic deflectors. <em>Review of Scientific Instruments</em>, 77(1):013704, January 2006. <a class="reference external" href="http://rsi.aip.org/resource/1/rsinak/v77/i1/p013704_s1?isAuthorized=no http://scitation.aip.org/content/aip/journal/rsi/77/1/10.1063/1.2165568">URL: http://rsi.aip.org/resource/1/rsinak/v77/i1/p013704_s1?isAuthorized=no http://scitation.aip.org/content/aip/journal/rsi/77/1/10.1063/1.2165568</a>, <a class="reference external" href="http://dx.doi.org/10.1063/1.2165568">doi:10.1063/1.2165568</a><span class="link-target"> [http://dx.doi.org/10.1063/1.2165568]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="yao2011" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Yao et al. 11]</td><td>Norman&nbsp;Y Yao, Daniel&nbsp;J Becker, Chase&nbsp;P Broedersz, Martin Depken, Frederick&nbsp;C Mackintosh, Martin&nbsp;R Pollak, and David&nbsp;A Weitz. Nonlinear viscoelasticity of actin transiently cross-linked with mutant α-actinin-4.. <em>Journal of molecular biology</em>, 411(5):1062–71, September 2011. <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/S0022283611007376">URL: http://www.sciencedirect.com/science/article/pii/S0022283611007376</a>, <a class="reference external" href="http://dx.doi.org/10.1016/j.jmb.2011.06.049">doi:10.1016/j.jmb.2011.06.049</a><span class="link-target"> [http://dx.doi.org/10.1016/j.jmb.2011.06.049]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="yarmola2009" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[Yarmola et al. 09]</td><td>Elena&nbsp;G Yarmola and Michael&nbsp;R Bubb. How depolymerization can promote polymerization: the case of actin and profilin.. <em>BioEssays : news and reviews in molecular, cellular and developmental biology</em>, 31(11):1150–60, November 2009. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/19795407">URL: http://www.ncbi.nlm.nih.gov/pubmed/19795407</a>, <a class="reference external" href="http://dx.doi.org/10.1002/bies.200900049">doi:10.1002/bies.200900049</a><span class="link-target"> [http://dx.doi.org/10.1002/bies.200900049]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="abushah2014" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[AbuShah et al. 14]</td><td>E.&nbsp;Abu Shah and K.&nbsp;Keren. Symmetry breaking in reconstituted actin cortices. <em>eLife</em>, 3:e01433–e01433, April 2014. <a class="reference external" href="http://elifesciences.org/content/3/e01433.abstract">URL: http://elifesciences.org/content/3/e01433.abstract</a>, <a class="reference external" href="http://dx.doi.org/10.7554/eLife.01433">doi:10.7554/eLife.01433</a><span class="link-target"> [http://dx.doi.org/10.7554/eLife.01433]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="dosremedios2003" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[DosRemedios et al. 03]</td><td>C&nbsp;G Dos Remedios, D&nbsp;Chhabra, M&nbsp;Kekic, I&nbsp;V Dedova, M&nbsp;Tsubakihara, D&nbsp;A Berry, and N&nbsp;J Nosworthy. Actin binding proteins: regulation of cytoskeletal microfilaments.. <em>Physiological reviews</em>, 83(2):433–73, April 2003. <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/12663865">URL: http://www.ncbi.nlm.nih.gov/pubmed/12663865</a>, <a class="reference external" href="http://dx.doi.org/10.1152/physrev.00026.2002">doi:10.1152/physrev.00026.2002</a><span class="link-target"> [http://dx.doi.org/10.1152/physrev.00026.2002]</span>.</td></tr>
+</tbody>
+</table>
+<table class="docutils citation" frame="void" id="soaresesilva2011" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[SoareseSilva et al. 11]</td><td>Marina Soares e Silva, Martin Depken, Björn Stuhrmann, Marijn Korsten, Fred&nbsp;C MacKintosh, and Gijsje&nbsp;H Koenderink. Active multistage coarsening of actin networks driven by myosin motors.. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, 108(23):9408–13, June 2011. <a class="reference external" href="http://www.pnas.org/content/108/23/9408">URL: http://www.pnas.org/content/108/23/9408</a>, <a class="reference external" href="http://dx.doi.org/10.1073/pnas.1016616108">doi:10.1073/pnas.1016616108</a><span class="link-target"> [http://dx.doi.org/10.1073/pnas.1016616108]</span>.</td></tr>
+</tbody>
+</table>
+</p>
+<p>This version of the manuscript is based on the source files repository version
+608064031205193afd64b47bf91c8762587e7871, available on <a class="reference external" href="http://github.com/carreau/phd-dissertation/">github</a><span class="link-target"> [http://github.com/carreau/phd-dissertation/]</span>
+, and <a class="reference external" href="https://bitbucket.org/Carreau/dissertation">bitbucket</a><span class="link-target"> [https://bitbucket.org/Carreau/dissertation]</span>. It is also available <a class="reference external" href="http://matthiasphd.herokuapp.com/html">online</a><span class="link-target"> [http://matthiasphd.herokuapp.com/html]</span> as HTML and epub.</p>
+</div>
+
+
+
+
+          </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+
+
+    <div class="footer">
+        &copy; Copyright 2014, Matthias Bussonnier.
+      Last updated on Mar 19, 2015.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+
+<div align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+	<img
+	alt="Creative Commons License" style="border-width:0"
+	src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
+</a>
+<br />
+This work is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/3.0/">Creative Commons
+Attribution 3.0 Unported License</a>
+</div>
+
+
+  </body>
+</html>

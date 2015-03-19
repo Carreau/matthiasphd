@@ -8,26 +8,26 @@
 \contentsline {section}{\numberline {1.4}The Role And Composition Of The Cytoskeleton}{7}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Composition of the cell cytoskeleton}{8}{subsection.1.4.1}
 \contentsline {subsubsection}{Dynamics of actin polymerisation}{9}{subsubsection*.5}
-\contentsline {subsubsection}{Actin network can be controlled by a host of actin binding proteins}{11}{subsubsection*.6}
-\contentsline {paragraph}{Formins}{11}{paragraph*.7}
-\contentsline {paragraph}{Capping Protein}{12}{paragraph*.8}
-\contentsline {paragraph}{Cross-linkers}{12}{paragraph*.9}
-\contentsline {paragraph}{Stabilizing actin filaments}{12}{paragraph*.10}
-\contentsline {paragraph}{Profilin}{12}{paragraph*.11}
-\contentsline {paragraph}{Branching Agent}{13}{paragraph*.12}
-\contentsline {paragraph}{Molecular Motor}{14}{paragraph*.13}
-\contentsline {subparagraph}{Myosin II}{15}{subparagraph*.14}
-\contentsline {subparagraph}{Myosin V}{16}{subparagraph*.16}
-\contentsline {subparagraph}{Myosin cycle}{16}{subparagraph*.17}
+\contentsline {subsubsection}{Actin network can be controlled by a host of actin binding proteins}{11}{subsubsection*.7}
+\contentsline {paragraph}{Formins}{11}{paragraph*.8}
+\contentsline {paragraph}{Capping Protein}{12}{paragraph*.9}
+\contentsline {paragraph}{Cross-linkers}{12}{paragraph*.10}
+\contentsline {paragraph}{Stabilizing actin filaments}{12}{paragraph*.11}
+\contentsline {paragraph}{Profilin}{12}{paragraph*.12}
+\contentsline {paragraph}{Branching Agent}{13}{paragraph*.13}
+\contentsline {paragraph}{Molecular Motor}{14}{paragraph*.14}
+\contentsline {subparagraph}{Myosin II}{15}{subparagraph*.15}
+\contentsline {subparagraph}{Myosin V}{16}{subparagraph*.17}
+\contentsline {subparagraph}{Myosin cycle}{16}{subparagraph*.18}
 \contentsline {subsection}{\numberline {1.4.2}The actin cortex}{17}{subsection.1.4.2}
 \contentsline {subsection}{\numberline {1.4.3}Cell Motility}{17}{subsection.1.4.3}
-\contentsline {subsubsection}{Lamellipodium based Motility}{17}{subsubsection*.18}
-\contentsline {subsubsection}{Blebbing based Motility}{20}{subsubsection*.19}
+\contentsline {subsubsection}{Lamellipodium based Motility}{17}{subsubsection*.19}
+\contentsline {subsubsection}{Blebbing based Motility}{20}{subsubsection*.20}
 \contentsline {subsection}{\numberline {1.4.4}Organelle Positioning}{20}{subsection.1.4.4}
 \contentsline {section}{\numberline {1.5}In vitro reconstituted actin networks}{21}{section.1.5}
 \contentsline {subsection}{\numberline {1.5.1}Bead motility assay}{22}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Liposomes}{23}{subsection.1.5.2}
-\contentsline {section}{\numberline {1.6}Membrane Physics}{24}{section.1.6}
+\contentsline {subsection}{\numberline {1.5.2}Liposomes}{24}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Membrane Physics}{25}{section.1.6}
 \contentsline {section}{\numberline {1.7}Actin networks as viscoelastic material}{26}{section.1.7}
 \contentsline {subsection}{\numberline {1.7.1}Elastic Modulus}{27}{subsection.1.7.1}
 \contentsline {subsection}{\numberline {1.7.2}Poisson's Ratio}{29}{subsection.1.7.2}
@@ -114,4 +114,4 @@
 \contentsline {chapter}{\numberline {7}Appendix}{107}{chapter.7}
 \contentsline {section}{\numberline {7.1}Mechanical detection of a long range actin network emanating from a biomimetic cortex Preprint}{107}{section.7.1}
 \contentsline {section}{\numberline {7.2}Cell-sized liposome doublets reveal active cortical tension build up Draft}{127}{section.7.2}
-\contentsline {chapter}{Bibliography}{149}{chapter*.70}
+\contentsline {chapter}{Bibliography}{149}{chapter*.71}

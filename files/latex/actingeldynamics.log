@@ -1,26 +1,16 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  23 JAN 2015 11:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.10)  19 MAR 2015 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **actingeldynamics.tex
 (./actingeldynamics.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
-c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
-h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
-h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
-ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
-rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
-kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
- polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
-lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
-welsh, loaded.
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (./sphinxmanual.cls
 Document Class: sphinxmanual 2009/06/02 Document class (Sphinx manual)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/report.cls
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size11.clo
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -36,19 +26,19 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 ))
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/utf8.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.dfu
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -198,7 +188,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ot1enc.dfu
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -229,7 +219,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/omsenc.dfu
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -255,24 +245,24 @@ Now handling font encoding U ...
 ))
    defining Unicode char U+00A0 (decimal 160)
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/cmap/cmap.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )<<t1.cmap>>)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2008/07/08 v3.8m The Babel package
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/babel/english.ldf
-Language: english 2005/03/30 v3.3o English support from the babel system
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
@@ -280,7 +270,7 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/times.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 ) (./fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
@@ -293,7 +283,7 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \pxx=\skip49
 \c@AlphaCnt=\count89
 \c@AlphaDecCnt=\count90
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/longtable.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip50
 \LTright=\skip51
@@ -314,7 +304,7 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 (./sphinx.sty
 Package: sphinx 2010/01/15 LaTeX package (Sphinx markup)
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip54
 \f@ncyO@elh=\skip55
 \f@ncyO@erh=\skip56
@@ -325,7 +315,7 @@ Package: sphinx 2010/01/15 LaTeX package (Sphinx markup)
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -340,12 +330,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1enc.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1enc.dfu
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -480,7 +470,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/fancybox/fancybox.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancybox/fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
@@ -493,7 +483,7 @@ Style option: `fancybox' v1.4 <2010/05/15> (tvz)
 \EndVerbatimTokens=\toks20
 \Verbatim@Outfile=\write3
 \Verbatim@Infile=\read1
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box32
 \beforetitleunit=\skip63
@@ -507,7 +497,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 )
 (./tabulary.sty
 Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
- (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/array.sty
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen111
 \extrarowheight=\dimen112
@@ -520,41 +510,41 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \tymin=\dimen114
 \tymax=\dimen115
 \TY@tablewidth=\dimen116
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip67
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks23
 \ex@=\dimen117
 ))
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen118
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count97
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count98
 \leftroot@=\count99
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count100
 \DOTSCASE@=\count101
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box33
 \strutbox@=\box34
 \big@size=\dimen119
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count102
 \c@MaxMatrixCols=\count103
 \dotsspace@=\muskip10
@@ -575,13 +565,13 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip68
 \multlinetaggap=\skip69
 \mathdisplay@stack=\toks27
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/makeidx.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/framed/framed.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip70
 \fb@frw=\dimen126
@@ -589,35 +579,35 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameRule=\dimen128
 \FrameSep=\dimen129
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 130.
+Package color Info: Driver file: pdftex.def on input line 137.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count109
 ))
-(/usr/local/texlive/2012/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks28
 )
 \FV@CodeLineNo=\count110
@@ -627,15 +617,15 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \FV@StepNumber=\count112
 \FV@OutFile=\write4
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box36
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/mdwtools/footnote.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box37
 \fn@width=\dimen130
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen131
 \WF@size=\dimen132
 \c@WF@wrappedlines=\count113
@@ -643,26 +633,26 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \WF@everypar=\toks29
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/parskip/parskip.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/alltt.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/alltt.sty
 Package: alltt 1997/06/16 v2.0g defines alltt environment
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/upquote/upquote.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -670,7 +660,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen133
 \Gin@req@width=\dimen134
 )
-(/usr/local/texlive/2012/texmf-dist/tex/plain/misc/pdfcolor.tex)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pdftex/pdfcolor.tex)
 \distancetoright=\skip71
 \py@argswidth=\skip72
 \py@noticelength=\skip73
@@ -678,14 +668,14 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \image@box=\box39
 \image@width=\dimen135
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -726,54 +716,58 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen136
 \Hy@linkcounter=\count114
 \Hy@pagecounter=\count115
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count116
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
-Package hyperref Info: Option `breaklinks' set `true' on input line 3941.
-Package hyperref Info: Hyper figures OFF on input line 4062.
-Package hyperref Info: Link nesting OFF on input line 4067.
-Package hyperref Info: Hyper index ON on input line 4070.
-Package hyperref Info: Plain pages OFF on input line 4077.
-Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4300.
+Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count117
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4653.
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen137
 \Fld@menulength=\count118
-\Field@Width=\dimen137
-\Fld@charsize=\dimen138
-Package hyperref Info: Hyper figures OFF on input line 5773.
-Package hyperref Info: Link nesting OFF on input line 5778.
-Package hyperref Info: Hyper index ON on input line 5781.
-Package hyperref Info: backreferencing OFF on input line 5788.
-Package hyperref Info: Link coloring ON on input line 5791.
-Package hyperref Info: Link coloring with OCG OFF on input line 5798.
-Package hyperref Info: PDF/A mode OFF on input line 5803.
-LaTeX Info: Redefining \ref on input line 5843.
-LaTeX Info: Redefining \pageref on input line 5847.
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
 \Hy@abspage=\count119
 \c@Item=\count120
 \c@Hfootnote=\count121
@@ -781,47 +775,47 @@ LaTeX Info: Redefining \pageref on input line 5847.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count122
 \c@bookmark@seq@number=\count123
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip75
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/hypcap.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/hypcap.sty
 Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
 )
 \DUlineblockindent=\skip76
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen139
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen140
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2012/04/03 v0.4s Insert pages of external PDF documents (AM)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/calc.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count124
 \calc@Bcount=\count125
-\calc@Adimen=\dimen140
-\calc@Bdimen=\dimen141
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
 \calc@Askip=\skip77
 \calc@Bskip=\skip78
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
 \calc@Ccount=\count126
 \calc@Cskip=\skip79
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
 )
-(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2012/04/03 v0.4s Pdfpages driver for pdfTeX (AM)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box40
 \AM@toc@title=\toks30
@@ -845,10 +839,10 @@ LaTeX Warning: Label `index-latex::doc' multiply defined.
 LaTeX Warning: Label `index-latex::doc' multiply defined.
 
 
-LaTeX Warning: Label `index-latex::doc' multiply defined.
-
-
 LaTeX Warning: Label `index-latex:part2' multiply defined.
+
+
+LaTeX Warning: Label `index-latex::doc' multiply defined.
 
 
 LaTeX Warning: Label `index-latex:profilin' multiply defined.
@@ -893,10 +887,10 @@ LaTeX Warning: Label `index-latex:introduction' multiply defined.
 LaTeX Warning: Label `index-latex:conclusion' multiply defined.
 
 
-LaTeX Warning: Label `index-latex:conclusion' multiply defined.
-
-
 LaTeX Warning: Label `index-latex::doc' multiply defined.
+
+
+LaTeX Warning: Label `index-latex:conclusion' multiply defined.
 
 
 LaTeX Warning: Label `index-latex::doc' multiply defined.
@@ -919,7 +913,7 @@ LaTeX Font Info:    ... okay on input line 136.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 136.
 
- (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 136.
@@ -927,26 +921,26 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 136.
 LaTeX Font Info:    ... okay on input line 136.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 136.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1ptm.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count128
-\scratchdimen=\dimen142
+\scratchdimen=\dimen143
 \scratchbox=\box42
 \nofMPsegments=\count129
 \nofMParguments=\count130
 \everyMPshowfont=\toks31
 \MPscratchCnt=\count131
-\MPscratchDim=\dimen143
+\MPscratchDim=\dimen144
 \MPnumerator=\count132
 \makeMPintoPDFobject=\count133
 \everyMPtoPDFconversion=\toks32
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -954,17 +948,17 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box43
 Package hyperref Info: Link coloring ON on input line 136.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+(/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count134
@@ -992,7 +986,7 @@ Overfull \hbox (47.60347pt too wide) in paragraph at lines 206--217
 
 [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX w
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX w
 arning (ext4): destination with the same identifier (name{page.a}) has been alr
 eady used, duplicate ignored
 <to be read again> 
@@ -1005,7 +999,7 @@ l.224     \newpage
 ]
 LaTeX Font Info:    Try loading font information for T1+phv on input line 256.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1phv.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
@@ -1055,7 +1049,7 @@ l.604 \section{Living Cells}
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 680.
 
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <oocyte-polar.png, id=603, 767.86874pt x 770.88pt>
@@ -1097,28 +1091,28 @@ Package pdftex.def Info: elongation-rate-constant.png used on input line 888.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 950.
 
-[11] [12] <pwa-deploy.png, id=715, 873.2625pt x 340.27126pt>
+[11] [12] <pwa-deploy.png, id=716, 873.2625pt x 340.27126pt>
 File: pwa-deploy.png Graphic file (type png)
 
 <use pwa-deploy.png>
 Package pdftex.def Info: pwa-deploy.png used on input line 1067.
 (pdftex.def)             Requested size: 281.85587pt x 109.8236pt.
  [13 <./pwa-deploy.png>]
-<pollard2003-actin-cycle.jpg, id=730, 361.35pt x 260.29991pt>
+<pollard2003-actin-cycle.jpg, id=731, 361.35pt x 260.29991pt>
 File: pollard2003-actin-cycle.jpg Graphic file (type jpg)
 
 <use pollard2003-actin-cycle.jpg>
 Package pdftex.def Info: pollard2003-actin-cycle.jpg used on input line 1089.
 (pdftex.def)             Requested size: 328.82706pt x 236.87328pt.
  [14 <./pollard2003-actin-cycle.jpg>] [15]
-<figure-16-54a.jpg, id=758, 674.52pt x 176.3388pt>
+<figure-16-54a.jpg, id=759, 674.52pt x 176.3388pt>
 File: figure-16-54a.jpg Graphic file (type jpg)
  <use figure-16-54a.jpg>
 Package pdftex.def Info: figure-16-54a.jpg used on input line 1209.
 (pdftex.def)             Requested size: 328.82706pt x 85.96548pt.
 
 [16 <./figure-16-54a.jpg>]
-<Actin-Cortex-Moronne-2006.jpg, id=769, 513.92pt x 776.9025pt>
+<Actin-Cortex-Moronne-2006.jpg, id=770, 513.92pt x 776.9025pt>
 File: Actin-Cortex-Moronne-2006.jpg Graphic file (type jpg)
 
 <use Actin-Cortex-Moronne-2006.jpg>
@@ -1126,219 +1120,219 @@ Package pdftex.def Info: Actin-Cortex-Moronne-2006.jpg used on input line 1293.
 
 (pdftex.def)             Requested size: 328.82706pt x 497.09735pt.
 
-<Schafer2004.jpg, id=773, 602.25pt x 515.9275pt>
+<Schafer2004.jpg, id=774, 602.25pt x 515.9275pt>
 File: Schafer2004.jpg Graphic file (type jpg)
  <use Schafer2004.jpg>
 Package pdftex.def Info: Schafer2004.jpg used on input line 1316.
 (pdftex.def)             Requested size: 281.85587pt x 241.46254pt.
 
-<figure-16-86.jpg, id=778, 2107.875pt x 548.0475pt>
+<figure-16-86.jpg, id=779, 2107.875pt x 548.0475pt>
 File: figure-16-86.jpg Graphic file (type jpg)
  <use figure-16-86.jpg>
 Package pdftex.def Info: figure-16-86.jpg used on input line 1355.
 (pdftex.def)             Requested size: 422.77663pt x 109.91696pt.
 
 [17] [18 <./Actin-Cortex-Moronne-2006.jpg>] [19 <./Schafer2004.jpg> <./figure-1
-6-86.jpg>] <Bleb-nature-paluch.jpg, id=804, 320.8788pt x 285.03288pt>
+6-86.jpg>] <Bleb-nature-paluch.jpg, id=805, 320.8788pt x 285.03288pt>
 File: Bleb-nature-paluch.jpg Graphic file (type jpg)
 
 <use Bleb-nature-paluch.jpg>
 Package pdftex.def Info: Bleb-nature-paluch.jpg used on input line 1391.
 (pdftex.def)             Requested size: 187.89912pt x 166.90665pt.
  [20 <./Bleb-nature-paluch.jpg>] [21]
-<Plastino-Sykes-2005.png, id=838, 759.83875pt x 245.91875pt>
+<Plastino-Sykes-2005.png, id=839, 759.83875pt x 245.91875pt>
 File: Plastino-Sykes-2005.png Graphic file (type png)
 
 <use Plastino-Sykes-2005.png>
 Package pdftex.def Info: Plastino-Sykes-2005.png used on input line 1515.
 (pdftex.def)             Requested size: 281.85587pt x 91.22115pt.
  [22 <./Plastino-Sykes-2005.png>]
-<symmetry-breaking-phase-diagram.png, id=850, 556.0775pt x 415.5525pt>
+<symmetry-breaking-phase-diagram.png, id=851, 556.0775pt x 415.5525pt>
 File: symmetry-breaking-phase-diagram.png Graphic file (type png)
 
 <use symmetry-breaking-phase-diagram.png>
 Package pdftex.def Info: symmetry-breaking-phase-diagram.png used on input line
  1546.
 (pdftex.def)             Requested size: 328.82706pt x 245.73184pt.
- [23 <./symmetry-breaking-phase-diagram.png>] <joel-2-11.png, id=864, 677.53125
+ [23 <./symmetry-breaking-phase-diagram.png>] <joel-2-11.png, id=865, 677.53125
 pt x 261.97874pt>
 File: joel-2-11.png Graphic file (type png)
  <use joel-2-11.png>
 Package pdftex.def Info: joel-2-11.png used on input line 1603.
 (pdftex.def)             Requested size: 375.80544pt x 145.31598pt.
 
-<joel-5-12.png, id=867, 627.34375pt x 248.93pt>
+<joel-5-12.png, id=868, 627.34375pt x 248.93pt>
 File: joel-5-12.png Graphic file (type png)
  <use joel-5-12.png>
 Package pdftex.def Info: joel-5-12.png used on input line 1614.
 (pdftex.def)             Requested size: 422.77663pt x 167.7622pt.
  [24 <./joel-2-11.png>] [25 <./joel-5-12.png>]
-<Cell-Surface-tension.png, id=890, 502.87875pt x 408.52625pt>
+<Cell-Surface-tension.png, id=891, 502.87875pt x 408.52625pt>
 File: Cell-Surface-tension.png Graphic file (type png)
 
 <use Cell-Surface-tension.png>
 Package pdftex.def Info: Cell-Surface-tension.png used on input line 1683.
 (pdftex.def)             Requested size: 187.89912pt x 152.64217pt.
  [26 <./Cell-Surface-tension.png>]
-<F2_large.jpg, id=908, 1284.8pt x 939.51pt>
+<F2_large.jpg, id=909, 1284.8pt x 939.51pt>
 File: F2_large.jpg Graphic file (type jpg)
  <use F2_large.jpg>
 Package pdftex.def Info: F2_large.jpg used on input line 1725.
 (pdftex.def)             Requested size: 281.85587pt x 206.10507pt.
- [27 <./F2_large.jpg>] <youngm.png, id=926, 2125.0628pt x 831.51102pt>
+ [27 <./F2_large.jpg>] <youngm.png, id=927, 2125.0628pt x 831.51102pt>
 File: youngm.png Graphic file (type png)
  <use youngm.png>
-Package pdftex.def Info: youngm.png used on input line 1778.
+Package pdftex.def Info: youngm.png used on input line 1775.
 (pdftex.def)             Requested size: 375.80544pt x 147.03914pt.
- [28 <./youngm.png>] <MKV.png, id=945, 518.4168pt x 130.5678pt>
+ [28 <./youngm.png>] <MKV.png, id=946, 518.4168pt x 130.5678pt>
 File: MKV.png Graphic file (type png)
  <use MKV.png>
-Package pdftex.def Info: MKV.png used on input line 1870.
+Package pdftex.def Info: MKV.png used on input line 1867.
 (pdftex.def)             Requested size: 328.82706pt x 82.81796pt.
  [29]
-[30 <./MKV.png>] <ot1.png, id=989, 2064.85715pt x 1009.71515pt>
+[30 <./MKV.png>] <ot1.png, id=988, 2064.85715pt x 1009.71515pt>
 File: ot1.png Graphic file (type png)
  <use ot1.png>
-Package pdftex.def Info: ot1.png used on input line 1979.
+Package pdftex.def Info: ot1.png used on input line 1976.
 (pdftex.def)             Requested size: 328.82706pt x 160.78737pt.
 
-[31] <setup-plus-1.png, id=1004, 1451.4225pt x 1389.2703pt>
+[31] <setup-plus-1.png, id=1003, 1451.4225pt x 1389.2703pt>
 File: setup-plus-1.png Graphic file (type png)
 
 <use setup-plus-1.png>
-Package pdftex.def Info: setup-plus-1.png used on input line 2010.
+Package pdftex.def Info: setup-plus-1.png used on input line 2007.
 (pdftex.def)             Requested size: 422.77663pt x 404.65874pt.
 
 
 LaTeX Warning: Hyper reference `index-latex:ots' on page 32 undefined on input 
-line 2028.
+line 2025.
 
 
 LaTeX Warning: Reference `index-latex:ots' on page 32 undefined on input line 2
-028.
+025.
 
 [32 <./ot1.png>] [33 <./setup-plus-1.png>] [34]
 Chapter 2.
 [35
 
-] [36] [37] [38] <frontend.png, id=1057, 1049.42062pt x 703.12688pt>
+] [36] [37] [38] <frontend.png, id=1054, 1049.42062pt x 703.12688pt>
 File: frontend.png Graphic file (type png)
 
 <use frontend.png>
-Package pdftex.def Info: frontend.png used on input line 2383.
+Package pdftex.def Info: frontend.png used on input line 2380.
 (pdftex.def)             Requested size: 422.77663pt x 283.26279pt.
  [39] [40 <./frontend.png>]
-<beed_move.png, id=1069, 849.0154pt x 1755.21835pt>
+<beed_move.png, id=1067, 849.0154pt x 1755.21835pt>
 File: beed_move.png Graphic file (type png)
  <use beed_move.png>
-Package pdftex.def Info: beed_move.png used on input line 2468.
+Package pdftex.def Info: beed_move.png used on input line 2465.
 (pdftex.def)             Requested size: 234.8775pt x 485.56566pt.
 
 [41] [42 <./beed_move.png>] [43] [44
 
 ]
 Chapter 3.
-<Bead-tirf-fluo-sim.png, id=1098, 511.9125pt x 341.275pt>
+<Bead-tirf-fluo-sim.png, id=1096, 511.9125pt x 341.275pt>
 File: Bead-tirf-fluo-sim.png Graphic file (type png)
 
 <use Bead-tirf-fluo-sim.png>
-Package pdftex.def Info: Bead-tirf-fluo-sim.png used on input line 2574.
+Package pdftex.def Info: Bead-tirf-fluo-sim.png used on input line 2571.
 (pdftex.def)             Requested size: 328.82706pt x 219.2172pt.
  [45]
-<intensity_profile_xnM_Arp_xnM_CP_xmin.pdf, id=1116, 591.0793pt x 726.98787pt>
+<intensity_profile_xnM_Arp_xnM_CP_xmin.pdf, id=1114, 591.0793pt x 726.98787pt>
 File: intensity_profile_xnM_Arp_xnM_CP_xmin.pdf Graphic file (type pdf)
 
 <use intensity_profile_xnM_Arp_xnM_CP_xmin.pdf>
 Package pdftex.def Info: intensity_profile_xnM_Arp_xnM_CP_xmin.pdf used on inpu
-t line 2610.
+t line 2607.
 (pdftex.def)             Requested size: 375.80544pt x 462.2201pt.
  [46 <./Bead-tirf-fluo-sim.png>] [47 <./intensity_profile_xnM_Arp_xnM_CP_xmin.p
 df>] [48]
-<force_time.pdf, id=1200, 1445.4pt x 722.7pt>
+<force_time.pdf, id=1199, 1445.4pt x 722.7pt>
 File: force_time.pdf Graphic file (type pdf)
  <use force_time.pdf>
-Package pdftex.def Info: force_time.pdf used on input line 2713.
+Package pdftex.def Info: force_time.pdf used on input line 2710.
 (pdftex.def)             Requested size: 328.82706pt x 164.40898pt.
 
-<force-distance.pdf, id=1203, 867.24pt x 505.89pt>
+<force-distance.pdf, id=1202, 867.24pt x 505.89pt>
 File: force-distance.pdf Graphic file (type pdf)
  <use force-distance.pdf>
-Package pdftex.def Info: force-distance.pdf used on input line 2748.
+Package pdftex.def Info: force-distance.pdf used on input line 2745.
 (pdftex.def)             Requested size: 375.80544pt x 219.21896pt.
 
-[49 <./force_time.pdf>] <reproc-time.pdf, id=1266, 1300.86pt x 722.7pt>
+[49 <./force_time.pdf>] <reproc-time.pdf, id=1265, 1300.86pt x 722.7pt>
 File: reproc-time.pdf Graphic file (type pdf)
 
 <use reproc-time.pdf>
-Package pdftex.def Info: reproc-time.pdf used on input line 2772.
+Package pdftex.def Info: reproc-time.pdf used on input line 2769.
 (pdftex.def)             Requested size: 469.755pt x 260.9768pt.
- <reproc.pdf, id=1267, 867.24pt x 433.62pt>
+ <reproc.pdf, id=1266, 867.24pt x 433.62pt>
 File: reproc.pdf Graphic file (type pdf)
 
 <use reproc.pdf>
-Package pdftex.def Info: reproc.pdf used on input line 2783.
+Package pdftex.def Info: reproc.pdf used on input line 2780.
 (pdftex.def)             Requested size: 375.80544pt x 187.90198pt.
- <many_speed.png, id=1272, 722.7pt x 578.16pt>
+ <many_speed.png, id=1271, 722.7pt x 578.16pt>
 File: many_speed.png Graphic file (type png)
 
 <use many_speed.png>
-Package pdftex.def Info: many_speed.png used on input line 2803.
+Package pdftex.def Info: many_speed.png used on input line 2800.
 (pdftex.def)             Requested size: 281.85587pt x 225.48149pt.
  [50 <./force-distance.pdf>] [51 <./reproc-time.pdf> <./reproc.pdf
 
 pdfTeX warning: pdflatex (file ./reproc.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
->] <cloud-repelling.png, id=1400, 867.24pt x 578.16pt>
+>] <cloud-repelling.png, id=1399, 867.24pt x 578.16pt>
 File: cloud-repelling.png Graphic file (type png)
 
 <use cloud-repelling.png>
-Package pdftex.def Info: cloud-repelling.png used on input line 2834.
+Package pdftex.def Info: cloud-repelling.png used on input line 2831.
 (pdftex.def)             Requested size: 399.29462pt x 266.19502pt.
- <d0_violin.pdf, id=1401, 578.16pt x 397.485pt>
+ <d0_violin.pdf, id=1400, 578.16pt x 397.485pt>
 File: d0_violin.pdf Graphic file (type pdf)
 
 <use d0_violin.pdf>
-Package pdftex.def Info: d0_violin.pdf used on input line 2843.
+Package pdftex.def Info: d0_violin.pdf used on input line 2840.
 (pdftex.def)             Requested size: 305.33788pt x 209.92003pt.
  [52 <./many_speed.png>] [53 <./cloud-repelling.png>]
-[54 <./d0_violin.pdf>] <force-distance-fit.pdf, id=1467, 867.24pt x 397.485pt>
+[54 <./d0_violin.pdf>] <force-distance-fit.pdf, id=1466, 867.24pt x 397.485pt>
 File: force-distance-fit.pdf Graphic file (type pdf)
 
 <use force-distance-fit.pdf>
-Package pdftex.def Info: force-distance-fit.pdf used on input line 2915.
+Package pdftex.def Info: force-distance-fit.pdf used on input line 2912.
 (pdftex.def)             Requested size: 469.755pt x 215.30586pt.
 
-<force-distance-fit-loglog.pdf, id=1469, 867.24pt x 397.485pt>
+<force-distance-fit-loglog.pdf, id=1468, 867.24pt x 397.485pt>
 File: force-distance-fit-loglog.pdf Graphic file (type pdf)
 
 <use force-distance-fit-loglog.pdf>
-Package pdftex.def Info: force-distance-fit-loglog.pdf used on input line 2931.
+Package pdftex.def Info: force-distance-fit-loglog.pdf used on input line 2928.
 
 (pdftex.def)             Requested size: 375.80544pt x 172.24347pt.
 
-<alpha_violin.pdf, id=1473, 690.2033pt x 1099.2098pt>
+<alpha_violin.pdf, id=1472, 690.2033pt x 1099.2098pt>
 File: alpha_violin.pdf Graphic file (type pdf)
  <use alpha_violin.pdf>
-Package pdftex.def Info: alpha_violin.pdf used on input line 2951.
+Package pdftex.def Info: alpha_violin.pdf used on input line 2948.
 (pdftex.def)             Requested size: 281.85587pt x 448.88426pt.
 
-<rescaled_powerlaw.pdf, id=1475, 578.16pt x 397.485pt>
+<rescaled_powerlaw.pdf, id=1474, 578.16pt x 397.485pt>
 File: rescaled_powerlaw.pdf Graphic file (type pdf)
 
 <use rescaled_powerlaw.pdf>
-Package pdftex.def Info: rescaled_powerlaw.pdf used on input line 2965.
+Package pdftex.def Info: rescaled_powerlaw.pdf used on input line 2962.
 (pdftex.def)             Requested size: 328.82706pt x 226.0654pt.
  [55 <./force-distance-fit.pdf>]
-<beta_violin.pdf, id=1518, 751.60799pt x 516.73048pt>
+<beta_violin.pdf, id=1517, 751.60799pt x 516.73048pt>
 File: beta_violin.pdf Graphic file (type pdf)
  <use beta_violin.pdf>
-Package pdftex.def Info: beta_violin.pdf used on input line 3002.
+Package pdftex.def Info: beta_violin.pdf used on input line 2999.
 (pdftex.def)             Requested size: 375.80544pt x 258.36461pt.
 
-<delta_violin.pdf, id=1520, 751.60799pt x 516.73048pt>
+<delta_violin.pdf, id=1519, 751.60799pt x 516.73048pt>
 File: delta_violin.pdf Graphic file (type pdf)
  <use delta_violin.pdf>
-Package pdftex.def Info: delta_violin.pdf used on input line 3019.
+Package pdftex.def Info: delta_violin.pdf used on input line 3016.
 (pdftex.def)             Requested size: 375.80544pt x 258.36461pt.
 
 [56 <./force-distance-fit-loglog.pdf>] [57 <./alpha_violin.pdf>] [58 <./rescale
@@ -1346,298 +1340,298 @@ d_powerlaw.pdf> <./beta_violin.pdf
 
 pdfTeX warning: pdflatex (file ./beta_violin.pdf): PDF inclusion: multiple pdfs
  with page group included in a single page
->] [59 <./delta_violin.pdf>] <E0_violin.pdf, id=1728, 578.16pt x 397.485pt>
+>] [59 <./delta_violin.pdf>] <E0_violin.pdf, id=1727, 578.16pt x 397.485pt>
 File: E0_violin.pdf Graphic file (type pdf)
 
 <use E0_violin.pdf>
-Package pdftex.def Info: E0_violin.pdf used on input line 3095.
+Package pdftex.def Info: E0_violin.pdf used on input line 3092.
 (pdftex.def)             Requested size: 375.80544pt x 258.36218pt.
- [60 <./E0_violin.pdf>] [61]
-<xi_violin.pdf, id=1815, 751.60799pt x 516.73048pt>
+ [60 <./E0_violin.pdf>]
+<xi_violin.pdf, id=1794, 751.60799pt x 516.73048pt>
 File: xi_violin.pdf Graphic file (type pdf)
  <use xi_violin.pdf>
-Package pdftex.def Info: xi_violin.pdf used on input line 3180.
+Package pdftex.def Info: xi_violin.pdf used on input line 3177.
 (pdftex.def)             Requested size: 375.80544pt x 258.36461pt.
 
-<delta-xi-corr.pdf, id=1818, 433.62pt x 433.62pt>
+[61] <delta-xi-corr.pdf, id=1816, 433.62pt x 433.62pt>
 File: delta-xi-corr.pdf Graphic file (type pdf)
  <use delta-xi-corr.pdf>
-Package pdftex.def Info: delta-xi-corr.pdf used on input line 3190.
+Package pdftex.def Info: delta-xi-corr.pdf used on input line 3187.
 (pdftex.def)             Requested size: 469.755pt x 469.7781pt.
 
-<delta-xi-facets.pdf, id=1819, 815.52176pt x 722.7pt>
+<delta-xi-facets.pdf, id=1817, 815.52176pt x 722.7pt>
 File: delta-xi-facets.pdf Graphic file (type pdf)
 
 <use delta-xi-facets.pdf>
-Package pdftex.def Info: delta-xi-facets.pdf used on input line 3198.
+Package pdftex.def Info: delta-xi-facets.pdf used on input line 3195.
 (pdftex.def)             Requested size: 469.755pt x 416.28812pt.
  [62 <./xi_violin.pdf>] [63 <./delta-xi-corr.pdf>]
 [64 <./delta-xi-facets.pdf>]
-<interp-delta.png, id=1968, 11657.70692pt x 4152.74539pt>
+<interp-delta.png, id=1966, 11657.70692pt x 4152.74539pt>
 File: interp-delta.png Graphic file (type png)
 
 <use interp-delta.png>
-Package pdftex.def Info: interp-delta.png used on input line 3248.
+Package pdftex.def Info: interp-delta.png used on input line 3245.
 (pdftex.def)             Requested size: 422.77663pt x 150.55693pt.
- <time-delta-corr.pdf, id=1971, 433.62pt x 433.62pt>
+ <time-delta-corr.pdf, id=1969, 433.62pt x 433.62pt>
 File: time-delta-corr.pdf Graphic file (type pdf)
 
 <use time-delta-corr.pdf>
-Package pdftex.def Info: time-delta-corr.pdf used on input line 3271.
+Package pdftex.def Info: time-delta-corr.pdf used on input line 3268.
 (pdftex.def)             Requested size: 422.77663pt x 422.80096pt.
- [65 <./interp-delta.png>] [66 <./time-delta-corr.pdf>] <3phases.pdf, id=2027, 
+ [65 <./interp-delta.png>] [66 <./time-delta-corr.pdf>] <3phases.pdf, id=2025, 
 578.16pt x 397.485pt>
 File: 3phases.pdf Graphic file (type pdf)
  <use 3phases.pdf>
-Package pdftex.def Info: 3phases.pdf used on input line 3326.
+Package pdftex.def Info: 3phases.pdf used on input line 3323.
 (pdftex.def)             Requested size: 375.80544pt x 258.36218pt.
 
-<tau_violin.pdf, id=2028, 751.60799pt x 516.73048pt>
+<tau_violin.pdf, id=2026, 751.60799pt x 516.73048pt>
 File: tau_violin.pdf Graphic file (type pdf)
  <use tau_violin.pdf>
-Package pdftex.def Info: tau_violin.pdf used on input line 3333.
+Package pdftex.def Info: tau_violin.pdf used on input line 3330.
 (pdftex.def)             Requested size: 375.80544pt x 258.36461pt.
 
-<sticking-event.pdf, id=2033, 578.16pt x 397.485pt>
+<sticking-event.pdf, id=2031, 578.16pt x 397.485pt>
 File: sticking-event.pdf Graphic file (type pdf)
  <use sticking-event.pdf>
-Package pdftex.def Info: sticking-event.pdf used on input line 3364.
+Package pdftex.def Info: sticking-event.pdf used on input line 3361.
 (pdftex.def)             Requested size: 375.80544pt x 258.36218pt.
 
 [67] [68 <./3phases.pdf> <./tau_violin.pdf
 
 pdfTeX warning: pdflatex (file ./tau_violin.pdf): PDF inclusion: multiple pdfs 
 with page group included in a single page
->] <retract-powerlaw.pdf, id=2086, 1011.78pt x 516.73048pt>
+>] <retract-powerlaw.pdf, id=2084, 1011.78pt x 516.73048pt>
 File: retract-powerlaw.pdf Graphic file (type pdf)
 
 <use retract-powerlaw.pdf>
-Package pdftex.def Info: retract-powerlaw.pdf used on input line 3397.
+Package pdftex.def Info: retract-powerlaw.pdf used on input line 3394.
 (pdftex.def)             Requested size: 469.755pt x 239.91449pt.
  [69 <./sticking-event.pdf>]
-<interpolation.png, id=2128, 867.24pt x 289.08pt>
+<interpolation.png, id=2126, 867.24pt x 289.08pt>
 File: interpolation.png Graphic file (type png)
  <use interpolation.png>
-Package pdftex.def Info: interpolation.png used on input line 3413.
+Package pdftex.def Info: interpolation.png used on input line 3410.
 (pdftex.def)             Requested size: 422.77663pt x 140.92703pt.
 
 [70 <./retract-powerlaw.pdf> <./interpolation.png>] [71] [72
 
 ]
 Chapter 4.
-<Fig_01-A.png, id=2186, 3673.01646pt x 3604.99765pt>
+<Fig_01-A.png, id=2184, 3673.01646pt x 3604.99765pt>
 File: Fig_01-A.png Graphic file (type png)
  <use Fig_01-A.png>
-Package pdftex.def Info: Fig_01-A.png used on input line 3536.
+Package pdftex.def Info: Fig_01-A.png used on input line 3533.
 (pdftex.def)             Requested size: 234.8775pt x 230.48253pt.
 
-[73] <doublets-schema.png, id=2204, 515.57983pt x 343.18156pt>
+[73] <doublets-schema.png, id=2202, 515.57983pt x 343.18156pt>
 File: doublets-schema.png Graphic file (type png)
 
 <use doublets-schema.png>
-Package pdftex.def Info: doublets-schema.png used on input line 3558.
+Package pdftex.def Info: doublets-schema.png used on input line 3555.
 (pdftex.def)             Requested size: 328.82706pt x 218.8814pt.
- <Fig_01-B.png, id=2205, 4676.29411pt x 4336.2pt>
+ <Fig_01-B.png, id=2203, 4676.29411pt x 4336.2pt>
 File: Fig_01-B.png Graphic file (type png)
 
 <use Fig_01-B.png>
-Package pdftex.def Info: Fig_01-B.png used on input line 3568.
+Package pdftex.def Info: Fig_01-B.png used on input line 3565.
 (pdftex.def)             Requested size: 234.8775pt x 217.74901pt.
- <Fig_01-C.png, id=2206, 9361.09059pt x 9586.40294pt>
+ <Fig_01-C.png, id=2204, 9361.09059pt x 9586.40294pt>
 File: Fig_01-C.png Graphic file (type png)
 
 <use Fig_01-C.png>
-Package pdftex.def Info: Fig_01-C.png used on input line 3577.
+Package pdftex.def Info: Fig_01-C.png used on input line 3574.
 (pdftex.def)             Requested size: 234.8775pt x 240.47864pt.
  [74 <./Fig_01-A.png>] [75 <./doublets-schema.png> <./Fig_01-B.png>] <notations
--doublets.png, id=2227, 718.685pt x 584.1825pt>
+-doublets.png, id=2224, 718.685pt x 584.1825pt>
 File: notations-doublets.png Graphic file (type png)
 
 <use notations-doublets.png>
-Package pdftex.def Info: notations-doublets.png used on input line 3601.
+Package pdftex.def Info: notations-doublets.png used on input line 3598.
 (pdftex.def)             Requested size: 234.8775pt x 190.9178pt.
  [76 <./Fig_01-C.png>]
-<doublet-contract.png, id=2236, 101.6598pt x 203.8014pt>
+<doublet-contract.png, id=2233, 101.6598pt x 203.8014pt>
 File: doublet-contract.png Graphic file (type png)
 
 <use doublet-contract.png>
-Package pdftex.def Info: doublet-contract.png used on input line 3644.
+Package pdftex.def Info: doublet-contract.png used on input line 3641.
 (pdftex.def)             Requested size: 140.92793pt x 282.53055pt.
- [77 <./notations-doublets.png>] [78 <./doublet-contract.png>] <yd.png, id=2251
+ [77 <./notations-doublets.png>] [78 <./doublet-contract.png>] <yd.png, id=2248
 , 559.08875pt x 345.29pt>
 File: yd.png Graphic file (type png)
  <use yd.png>
-Package pdftex.def Info: yd.png used on input line 3682.
+Package pdftex.def Info: yd.png used on input line 3679.
 (pdftex.def)             Requested size: 281.85587pt x 174.07765pt.
- [79 <./yd.png>] <Fig_02-A.png, id=2268, 6847.5825pt x 5020.18393pt>
+ [79 <./yd.png>] <Fig_02-A.png, id=2265, 6847.5825pt x 5020.18393pt>
 File: Fig_02-A.png Graphic file (type png)
  <use Fig_02-A.png>
-Package pdftex.def Info: Fig_02-A.png used on input line 3737.
+Package pdftex.def Info: Fig_02-A.png used on input line 3734.
 (pdftex.def)             Requested size: 234.8775pt x 172.1241pt.
 
-<Fig_02-B.png, id=2269, 7265.71606pt x 5781.6pt>
+<Fig_02-B.png, id=2266, 7265.71606pt x 5781.6pt>
 File: Fig_02-B.png Graphic file (type png)
  <use Fig_02-B.png>
-Package pdftex.def Info: Fig_02-B.png used on input line 3746.
+Package pdftex.def Info: Fig_02-B.png used on input line 3743.
 (pdftex.def)             Requested size: 234.8775pt x 186.84996pt.
 
-<light_table.png, id=2270, 722.7pt x 903.375pt>
+<light_table.png, id=2267, 722.7pt x 903.375pt>
 File: light_table.png Graphic file (type png)
  <use light_table.png>
-Package pdftex.def Info: light_table.png used on input line 3764.
+Package pdftex.def Info: light_table.png used on input line 3761.
 (pdftex.def)             Requested size: 422.77663pt x 528.46536pt.
 
-<Fig_03-A.png, id=2273, 923.6106pt x 744.381pt>
+<Fig_03-A.png, id=2270, 923.6106pt x 744.381pt>
 File: Fig_03-A.png Graphic file (type png)
  <use Fig_03-A.png>
-Package pdftex.def Info: Fig_03-A.png used on input line 3772.
+Package pdftex.def Info: Fig_03-A.png used on input line 3769.
 (pdftex.def)             Requested size: 234.8775pt x 189.29784pt.
 
-<Fig_03-B.png, id=2282, 1200.6456pt x 918.3108pt>
+<Fig_03-B.png, id=2279, 1200.6456pt x 918.3108pt>
 File: Fig_03-B.png Graphic file (type png)
  <use Fig_03-B.png>
-Package pdftex.def Info: Fig_03-B.png used on input line 3786.
+Package pdftex.def Info: Fig_03-B.png used on input line 3783.
 (pdftex.def)             Requested size: 234.8775pt x 179.63737pt.
 
-<Fig_03-C.png, id=2289, 1157.7654pt x 915.9018pt>
+<Fig_03-C.png, id=2286, 1157.7654pt x 915.9018pt>
 File: Fig_03-C.png Graphic file (type png)
  <use Fig_03-C.png>
-Package pdftex.def Info: Fig_03-C.png used on input line 3797.
+Package pdftex.def Info: Fig_03-C.png used on input line 3794.
 (pdftex.def)             Requested size: 234.8775pt x 185.8045pt.
 
-<Fig_03-D.png, id=2296, 1186.1916pt x 918.3108pt>
+<Fig_03-D.png, id=2293, 1186.1916pt x 918.3108pt>
 File: Fig_03-D.png Graphic file (type png)
  <use Fig_03-D.png>
-Package pdftex.def Info: Fig_03-D.png used on input line 3805.
+Package pdftex.def Info: Fig_03-D.png used on input line 3802.
 (pdftex.def)             Requested size: 234.8775pt x 181.82329pt.
  [80 <./Fig_02-A.png>] [81 <./Fig_02-B.png>] [82 <./light_table.png>] [83 <./Fi
 g_03-A.png> <./Fig_03-B.png>] [84 <./Fig_03-C.png> <./Fig_03-D.png>]
-<Fig_03-E.png, id=2352, 1951.29pt x 1375.539pt>
+<Fig_03-E.png, id=2348, 1951.29pt x 1375.539pt>
 File: Fig_03-E.png Graphic file (type png)
  <use Fig_03-E.png>
-Package pdftex.def Info: Fig_03-E.png used on input line 3863.
+Package pdftex.def Info: Fig_03-E.png used on input line 3860.
 (pdftex.def)             Requested size: 234.8775pt x 165.5613pt.
- [85 <./Fig_03-E.png>] [86] <modl-2D-doublet.png, id=2384, 654.0435pt x 213.919
+ [85 <./Fig_03-E.png>] [86] <modl-2D-doublet.png, id=2380, 654.0435pt x 213.919
 2pt>
 File: modl-2D-doublet.png Graphic file (type png)
 
 <use modl-2D-doublet.png>
-Package pdftex.def Info: modl-2D-doublet.png used on input line 3964.
+Package pdftex.def Info: modl-2D-doublet.png used on input line 3961.
 (pdftex.def)             Requested size: 654.0419pt x 213.91867pt.
 File: modl-2D-doublet.png Graphic file (type png)
  <use modl-2D-doublet.png>
-Package pdftex.def Info: modl-2D-doublet.png used on input line 3964.
+Package pdftex.def Info: modl-2D-doublet.png used on input line 3961.
 (pdftex.def)             Requested size: 469.755pt x 153.64305pt.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 3993.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 3990.
 
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1pcr.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ) [87 <./modl-2D-doublet.png>]
-<double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png, id=2396, 361.35pt x 722
+<double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png, id=2392, 361.35pt x 722
 .7pt>
 File: double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png Graphic file (type 
 png)
  <use double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png>
 Package pdftex.def Info: double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png 
-used on input line 4023.
+used on input line 4020.
 (pdftex.def)             Requested size: 234.8775pt x 469.76045pt.
 
-<c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png, id=2397, 361.35pt x 722.7pt>
+<c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png, id=2393, 361.35pt x 722.7pt>
 File: c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png Graphic file (type png)
 <use c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png>
 Package pdftex.def Info: c-R-_100-by-100-RC-40_0-noise-0_5-delta-4_0_.png used 
-on input line 4040.
+on input line 4037.
 (pdftex.def)             Requested size: 281.85587pt x 563.71475pt.
 
-<max_proj_340A.png, id=2403, 1084.05pt x 1084.05pt>
+<max_proj_340A.png, id=2399, 1084.05pt x 1084.05pt>
 File: max_proj_340A.png Graphic file (type png)
  <use max_proj_340A.png>
-Package pdftex.def Info: max_proj_340A.png used on input line 4081.
+Package pdftex.def Info: max_proj_340A.png used on input line 4078.
 (pdftex.def)             Requested size: 375.80544pt x 375.80066pt.
 
-<3dblur.png, id=2405, 2125.58824pt x 1336.995pt>
+<3dblur.png, id=2401, 2125.58824pt x 1336.995pt>
 File: 3dblur.png Graphic file (type png)
  <use 3dblur.png>
-Package pdftex.def Info: 3dblur.png used on input line 4097.
+Package pdftex.def Info: 3dblur.png used on input line 4094.
 (pdftex.def)             Requested size: 281.85587pt x 177.2836pt.
 
-<ring_artifact.png, id=2407, 650.43pt x 289.08pt>
+<ring_artifact.png, id=2403, 650.43pt x 289.08pt>
 File: ring_artifact.png Graphic file (type png)
  <use ring_artifact.png>
-Package pdftex.def Info: ring_artifact.png used on input line 4113.
+Package pdftex.def Info: ring_artifact.png used on input line 4110.
 (pdftex.def)             Requested size: 328.82706pt x 146.14964pt.
 
 [88] [89 <./double-c-_100-by-100-rc-40_0-noise-0_5-delta-4_0_.png>] [90 <./c-R-
 _100-by-100-RC-40_0-noise-0_5-delta-4_0_.png>] [91 <./max_proj_340A.png>]
 [92 <./3dblur.png> <./ring_artifact.png>]
-<max_proj_model.png, id=2443, 1084.05pt x 1084.05pt>
+<max_proj_model.png, id=2439, 1084.05pt x 1084.05pt>
 File: max_proj_model.png Graphic file (type png)
  <use max_proj_model.png>
-Package pdftex.def Info: max_proj_model.png used on input line 4139.
+Package pdftex.def Info: max_proj_model.png used on input line 4136.
 (pdftex.def)             Requested size: 234.8775pt x 234.8692pt.
 
-<Doublet-402-A-Fit-t-0.png, id=2445, 1084.05pt x 1084.05pt>
+<Doublet-402-A-Fit-t-0.png, id=2441, 1084.05pt x 1084.05pt>
 File: Doublet-402-A-Fit-t-0.png Graphic file (type png)
 
 <use Doublet-402-A-Fit-t-0.png>
-Package pdftex.def Info: Doublet-402-A-Fit-t-0.png used on input line 4152.
+Package pdftex.def Info: Doublet-402-A-Fit-t-0.png used on input line 4149.
 (pdftex.def)             Requested size: 234.8775pt x 234.8692pt.
 
-<gof-2d-doublets.png, id=2449, 362.35374pt x 246.9225pt>
+<gof-2d-doublets.png, id=2445, 362.35374pt x 246.9225pt>
 File: gof-2d-doublets.png Graphic file (type png)
 
 <use gof-2d-doublets.png>
-Package pdftex.def Info: gof-2d-doublets.png used on input line 4178.
+Package pdftex.def Info: gof-2d-doublets.png used on input line 4175.
 (pdftex.def)             Requested size: 281.85587pt x 192.07127pt.
 
-<gof-3d-doublets.png, id=2450, 350.30875pt x 237.88875pt>
+<gof-3d-doublets.png, id=2446, 350.30875pt x 237.88875pt>
 File: gof-3d-doublets.png Graphic file (type png)
 
 <use gof-3d-doublets.png>
-Package pdftex.def Info: gof-3d-doublets.png used on input line 4186.
+Package pdftex.def Info: gof-3d-doublets.png used on input line 4183.
 (pdftex.def)             Requested size: 281.85587pt x 191.41472pt.
 
-<srhod_superimpose.png, id=2458, 1084.05pt x 1084.05pt>
+<srhod_superimpose.png, id=2454, 1084.05pt x 1084.05pt>
 File: srhod_superimpose.png Graphic file (type png)
 
 <use srhod_superimpose.png>
-Package pdftex.def Info: srhod_superimpose.png used on input line 4199.
+Package pdftex.def Info: srhod_superimpose.png used on input line 4196.
 (pdftex.def)             Requested size: 375.80544pt x 375.80066pt.
  [93 <./max_proj_model.png>] [94 <./Doublet-402-A-Fit-t-0.png> <./gof-2d-double
 ts.png>] [95 <./gof-3d-doublets.png>] [96 <./srhod_superimpose.png>] [97] [98
 
 ]
 Chapter 5.
-<oocyte-wild-type.png, id=2498, 513.92pt x 513.92pt>
+<oocyte-wild-type.png, id=2494, 513.92pt x 513.92pt>
 File: oocyte-wild-type.png Graphic file (type png)
 
 <use oocyte-wild-type.png>
-Package pdftex.def Info: oocyte-wild-type.png used on input line 4265.
+Package pdftex.def Info: oocyte-wild-type.png used on input line 4262.
 (pdftex.def)             Requested size: 281.85587pt x 281.857pt.
- <3-oocytes.png, id=2500, 1156.32pt x 289.08pt>
+ <3-oocytes.png, id=2496, 1156.32pt x 289.08pt>
 File: 3-oocytes.png Graphic file (type png)
 
 <use 3-oocytes.png>
-Package pdftex.def Info: 3-oocytes.png used on input line 4291.
+Package pdftex.def Info: 3-oocytes.png used on input line 4288.
 (pdftex.def)             Requested size: 469.755pt x 117.43845pt.
- <decay-all.png, id=2502, 867.24pt x 1156.32pt>
+ <decay-all.png, id=2498, 867.24pt x 1156.32pt>
 File: decay-all.png Graphic file (type png)
 
 <use decay-all.png>
-Package pdftex.def Info: decay-all.png used on input line 4315.
+Package pdftex.def Info: decay-all.png used on input line 4312.
 (pdftex.def)             Requested size: 375.80544pt x 501.07195pt.
  [99] [100 <./oocyte-wild-type.png> <./3-oocytes.png>]
-<corrtime.png, id=2517, 750.805pt x 515.9275pt>
+<corrtime.png, id=2513, 750.805pt x 515.9275pt>
 File: corrtime.png Graphic file (type png)
  <use corrtime.png>
-Package pdftex.def Info: corrtime.png used on input line 4375.
+Package pdftex.def Info: corrtime.png used on input line 4372.
 (pdftex.def)             Requested size: 305.33788pt x 209.82333pt.
 
-<CellAct-WT.png, id=2521, 722.7pt x 578.16pt>
+<CellAct-WT.png, id=2517, 722.7pt x 578.16pt>
 File: CellAct-WT.png Graphic file (type png)
  <use CellAct-WT.png>
-Package pdftex.def Info: CellAct-WT.png used on input line 4397.
+Package pdftex.def Info: CellAct-WT.png used on input line 4394.
 (pdftex.def)             Requested size: 446.26581pt x 357.0175pt.
  [101]
 [102 <./decay-all.png>] [103 <./corrtime.png>] [104 <./CellAct-WT.png>]
@@ -1651,279 +1645,304 @@ Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-[107
+<actin_cloud_bpj_final_submission.pdf, id=2553, 597.50829pt x 845.0471pt>
+File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
+
+<use actin_cloud_bpj_final_submission.pdf>
+Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf used on input lin
+e 4517.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
+
+<use actin_cloud_bpj_final_submission.pdf>
+Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf used on input lin
+e 4517.
+(pdftex.def)             Requested size: 469.755pt x 664.3692pt.
+File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
+
+<use actin_cloud_bpj_final_submission.pdf>
+Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf used on input lin
+e 4517.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
+
+<use actin_cloud_bpj_final_submission.pdf>
+Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf used on input lin
+e 4517.
+(pdftex.def)             Requested size: 469.755pt x 664.3692pt.
+ [107
 
 ]
-<actin_cloud_bpj_final_submission.pdf, id=2565, page=1, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2561, page=1, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 1>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page1 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [108 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2616, page=2, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2613, page=2, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 2>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page2 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 2>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page2 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 2>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page2 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [109 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2632, page=3, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2629, page=3, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 3>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page3 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 3>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page3 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 3>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page3 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [110 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2657, page=4, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2654, page=4, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 4>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page4 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 4>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page4 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 4>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page4 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [111 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2672, page=5, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2669, page=5, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 5>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page5 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 5>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page5 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 5>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page5 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [112 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2682, page=6, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2679, page=6, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 6>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page6 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 6>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page6 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 6>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page6 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [113 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2692, page=7, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2689, page=7, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 7>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page7 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 7>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page7 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 7>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page7 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [114 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2697, page=8, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2694, page=8, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 8>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page8 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 8>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page8 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 8>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page8 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [115 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2708, page=9, 597.50829pt x 845.0471p
+<actin_cloud_bpj_final_submission.pdf, id=2705, page=9, 597.50829pt x 845.0471p
 t>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 9>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page9 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 9>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page9 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 9>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page9 used on in
-put line 4520.
+put line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [116 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2713, page=10, 597.50829pt x 845.0471
+<actin_cloud_bpj_final_submission.pdf, id=2710, page=10, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 10>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page10 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 10>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page10 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 10>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page10 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [117 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2718, page=11, 597.50829pt x 845.0471
+<actin_cloud_bpj_final_submission.pdf, id=2715, page=11, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 11>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page11 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 11>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page11 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 11>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page11 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [118 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2726, page=12, 597.50829pt x 845.0471
+<actin_cloud_bpj_final_submission.pdf, id=2723, page=12, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 12>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page12 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 12>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page12 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 12>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page12 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [119 <./actin_cloud_bpj_final_submission.pdf>]
-<actin_cloud_bpj_final_submission.pdf, id=2735, page=13, 597.50829pt x 845.0471
+<actin_cloud_bpj_final_submission.pdf, id=2731, page=13, 597.50829pt x 845.0471
 pt>
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
  <use actin_cloud_bpj_final_submission.pdf, page 13>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page13 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 13>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page13 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
 File: actin_cloud_bpj_final_submission.pdf Graphic file (type pdf)
 
 <use actin_cloud_bpj_final_submission.pdf, page 13>
 Package pdftex.def Info: actin_cloud_bpj_final_submission.pdf, page13 used on i
-nput line 4520.
+nput line 4517.
 (pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
  [120 <./actin_cloud_bpj_final_submission.pdf>]
 
@@ -1931,109 +1950,128 @@ Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-<supplemental.pdf, id=2747, page=1, 614.295pt x 794.97pt>
+<supplemental.pdf, id=2742, 614.295pt x 794.97pt>
+File: supplemental.pdf Graphic file (type pdf)
+ <use supplemental.pdf>
+Package pdftex.def Info: supplemental.pdf used on input line 4518.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: supplemental.pdf Graphic file (type pdf)
+
+<use supplemental.pdf>
+Package pdftex.def Info: supplemental.pdf used on input line 4518.
+(pdftex.def)             Requested size: 469.755pt x 607.9196pt.
+File: supplemental.pdf Graphic file (type pdf)
+ <use supplemental.pdf>
+Package pdftex.def Info: supplemental.pdf used on input line 4518.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: supplemental.pdf Graphic file (type pdf)
+ <use supplemental.pdf>
+Package pdftex.def Info: supplemental.pdf used on input line 4518.
+(pdftex.def)             Requested size: 469.755pt x 607.9196pt.
+
+<supplemental.pdf, id=2745, page=1, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4518.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 1>
-Package pdftex.def Info: supplemental.pdf, page1 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page1 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [121 <./supplemental.pdf>]
-<supplemental.pdf, id=2807, page=2, 614.295pt x 794.97pt>
+<supplemental.pdf, id=2805, page=2, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 2>
-Package pdftex.def Info: supplemental.pdf, page2 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page2 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 2>
-Package pdftex.def Info: supplemental.pdf, page2 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page2 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 2>
-Package pdftex.def Info: supplemental.pdf, page2 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page2 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [122 <./supplemental.pdf>]
-<supplemental.pdf, id=4034, page=3, 614.295pt x 794.97pt>
+<supplemental.pdf, id=4032, page=3, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 3>
-Package pdftex.def Info: supplemental.pdf, page3 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page3 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 3>
-Package pdftex.def Info: supplemental.pdf, page3 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page3 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 3>
-Package pdftex.def Info: supplemental.pdf, page3 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page3 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [123 <./supplemental.pdf>]
-<supplemental.pdf, id=4042, page=4, 614.295pt x 794.97pt>
+<supplemental.pdf, id=4040, page=4, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 4>
-Package pdftex.def Info: supplemental.pdf, page4 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page4 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 4>
-Package pdftex.def Info: supplemental.pdf, page4 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page4 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 4>
-Package pdftex.def Info: supplemental.pdf, page4 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page4 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [124 <./supplemental.pdf>]
-<supplemental.pdf, id=4050, page=5, 614.295pt x 794.97pt>
+<supplemental.pdf, id=4048, page=5, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 5>
-Package pdftex.def Info: supplemental.pdf, page5 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page5 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 5>
-Package pdftex.def Info: supplemental.pdf, page5 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page5 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 5>
-Package pdftex.def Info: supplemental.pdf, page5 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page5 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [125 <./supplemental.pdf>]
-<supplemental.pdf, id=4058, page=6, 614.295pt x 794.97pt>
+<supplemental.pdf, id=4056, page=6, 614.295pt x 794.97pt>
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 6>
-Package pdftex.def Info: supplemental.pdf, page6 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page6 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
  <use supplemental.pdf, page 6>
-Package pdftex.def Info: supplemental.pdf, page6 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page6 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: supplemental.pdf Graphic file (type pdf)
 
 <use supplemental.pdf, page 6>
-Package pdftex.def Info: supplemental.pdf, page6 used on input line 4521.
+Package pdftex.def Info: supplemental.pdf, page6 used on input line 4518.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [126 <./supplemental.pdf>]
 
@@ -2041,320 +2079,339 @@ Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-[127] <elife-sub.pdf, id=4073, page=1, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4064, 597.23125pt x 845.1575pt>
+File: elife-sub.pdf Graphic file (type pdf)
+ <use elife-sub.pdf>
+Package pdftex.def Info: elife-sub.pdf used on input line 4524.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: elife-sub.pdf Graphic file (type pdf)
+
+<use elife-sub.pdf>
+Package pdftex.def Info: elife-sub.pdf used on input line 4524.
+(pdftex.def)             Requested size: 469.755pt x 664.7655pt.
+File: elife-sub.pdf Graphic file (type pdf)
+ <use elife-sub.pdf>
+Package pdftex.def Info: elife-sub.pdf used on input line 4524.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: elife-sub.pdf Graphic file (type pdf)
+ <use elife-sub.pdf>
+Package pdftex.def Info: elife-sub.pdf used on input line 4524.
+(pdftex.def)             Requested size: 469.755pt x 664.7655pt.
+ [127]
+<elife-sub.pdf, id=4072, page=1, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 1>
-Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4524.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 1>
-Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 1>
-Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 1>
-Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 1>
-Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page1 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [128 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4092, page=2, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4091, page=2, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 2>
-Package pdftex.def Info: elife-sub.pdf, page2 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page2 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 2>
-Package pdftex.def Info: elife-sub.pdf, page2 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page2 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 2>
-Package pdftex.def Info: elife-sub.pdf, page2 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page2 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [129 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4110, page=3, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4109, page=3, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 3>
-Package pdftex.def Info: elife-sub.pdf, page3 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page3 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 3>
-Package pdftex.def Info: elife-sub.pdf, page3 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page3 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 3>
-Package pdftex.def Info: elife-sub.pdf, page3 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page3 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [130 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4122, page=4, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4121, page=4, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 4>
-Package pdftex.def Info: elife-sub.pdf, page4 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page4 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 4>
-Package pdftex.def Info: elife-sub.pdf, page4 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page4 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 4>
-Package pdftex.def Info: elife-sub.pdf, page4 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page4 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [131 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4127, page=5, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4126, page=5, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 5>
-Package pdftex.def Info: elife-sub.pdf, page5 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page5 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 5>
-Package pdftex.def Info: elife-sub.pdf, page5 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page5 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 5>
-Package pdftex.def Info: elife-sub.pdf, page5 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page5 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [132 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4332, page=6, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4331, page=6, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 6>
-Package pdftex.def Info: elife-sub.pdf, page6 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page6 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 6>
-Package pdftex.def Info: elife-sub.pdf, page6 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page6 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 6>
-Package pdftex.def Info: elife-sub.pdf, page6 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page6 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [133 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4418, page=7, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4417, page=7, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 7>
-Package pdftex.def Info: elife-sub.pdf, page7 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page7 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 7>
-Package pdftex.def Info: elife-sub.pdf, page7 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page7 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 7>
-Package pdftex.def Info: elife-sub.pdf, page7 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page7 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [134 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4781, page=8, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4780, page=8, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 8>
-Package pdftex.def Info: elife-sub.pdf, page8 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page8 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 8>
-Package pdftex.def Info: elife-sub.pdf, page8 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page8 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 8>
-Package pdftex.def Info: elife-sub.pdf, page8 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page8 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [135 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4975, page=9, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4974, page=9, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 9>
-Package pdftex.def Info: elife-sub.pdf, page9 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page9 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 9>
-Package pdftex.def Info: elife-sub.pdf, page9 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page9 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 9>
-Package pdftex.def Info: elife-sub.pdf, page9 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page9 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [136 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4980, page=10, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4979, page=10, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 10>
-Package pdftex.def Info: elife-sub.pdf, page10 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page10 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 10>
-Package pdftex.def Info: elife-sub.pdf, page10 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page10 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 10>
-Package pdftex.def Info: elife-sub.pdf, page10 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page10 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [137 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4985, page=11, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4984, page=11, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 11>
-Package pdftex.def Info: elife-sub.pdf, page11 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page11 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 11>
-Package pdftex.def Info: elife-sub.pdf, page11 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page11 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 11>
-Package pdftex.def Info: elife-sub.pdf, page11 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page11 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [138 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4990, page=12, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4989, page=12, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 12>
-Package pdftex.def Info: elife-sub.pdf, page12 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page12 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 12>
-Package pdftex.def Info: elife-sub.pdf, page12 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page12 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 12>
-Package pdftex.def Info: elife-sub.pdf, page12 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page12 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [139 <./elife-sub.pdf>]
-<elife-sub.pdf, id=4996, page=13, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=4995, page=13, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 13>
-Package pdftex.def Info: elife-sub.pdf, page13 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page13 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 13>
-Package pdftex.def Info: elife-sub.pdf, page13 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page13 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 13>
-Package pdftex.def Info: elife-sub.pdf, page13 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page13 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [140 <./elife-sub.pdf>]
-<elife-sub.pdf, id=5001, page=14, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=5000, page=14, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 14>
-Package pdftex.def Info: elife-sub.pdf, page14 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page14 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 14>
-Package pdftex.def Info: elife-sub.pdf, page14 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page14 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 14>
-Package pdftex.def Info: elife-sub.pdf, page14 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page14 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [141 <./elife-sub.pdf>]
-<elife-sub.pdf, id=5008, page=15, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=5007, page=15, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 15>
-Package pdftex.def Info: elife-sub.pdf, page15 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page15 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 15>
-Package pdftex.def Info: elife-sub.pdf, page15 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page15 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 15>
-Package pdftex.def Info: elife-sub.pdf, page15 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page15 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [142 <./elife-sub.pdf>]
-<elife-sub.pdf, id=5015, page=16, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=5014, page=16, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 16>
-Package pdftex.def Info: elife-sub.pdf, page16 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page16 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 16>
-Package pdftex.def Info: elife-sub.pdf, page16 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page16 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 16>
-Package pdftex.def Info: elife-sub.pdf, page16 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page16 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [143 <./elife-sub.pdf>]
-<elife-sub.pdf, id=5022, page=17, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=5021, page=17, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 17>
-Package pdftex.def Info: elife-sub.pdf, page17 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page17 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 17>
-Package pdftex.def Info: elife-sub.pdf, page17 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page17 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 17>
-Package pdftex.def Info: elife-sub.pdf, page17 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page17 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [144 <./elife-sub.pdf>]
-<elife-sub.pdf, id=5027, page=18, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=5026, page=18, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 18>
-Package pdftex.def Info: elife-sub.pdf, page18 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page18 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 18>
-Package pdftex.def Info: elife-sub.pdf, page18 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page18 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 18>
-Package pdftex.def Info: elife-sub.pdf, page18 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page18 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [145 <./elife-sub.pdf>]
-<elife-sub.pdf, id=5033, page=19, 597.23125pt x 845.1575pt>
+<elife-sub.pdf, id=5032, page=19, 597.23125pt x 845.1575pt>
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 19>
-Package pdftex.def Info: elife-sub.pdf, page19 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page19 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
  <use elife-sub.pdf, page 19>
-Package pdftex.def Info: elife-sub.pdf, page19 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page19 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
 File: elife-sub.pdf Graphic file (type pdf)
 
 <use elife-sub.pdf, page 19>
-Package pdftex.def Info: elife-sub.pdf, page19 used on input line 4527.
+Package pdftex.def Info: elife-sub.pdf, page19 used on input line 4524.
 (pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
  [146 <./elife-sub.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 4530--4533
+Underfull \hbox (badness 10000) in paragraph at lines 4527--4530
 []\T1/ptm/m/n/10.95 This ver-sion of the manuscript is based on the source file
 s repos-i-tory ver-sion
  []
@@ -2362,505 +2419,533 @@ s repos-i-tory ver-sion
 [147] [148
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4554--4556
+Underfull \hbox (badness 10000) in paragraph at lines 4551--4553
 \T1/ptm/m/n/10.95 April 2008. [][]URL: http://www.sciencedirect.com/science/art
-icle/pii/S0006291X07025508[][],
- []
-
-
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 4563--4565
-\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=379
-9374&tool=pmcentrez&rendertype=abstract[][],
+icle/pii/S0006291X07025508[][][][][][][],
  []
 
 [149
 
 ]
-Underfull \hbox (badness 5637) in paragraph at lines 4569--4571
-[]\T1/ptm/m/n/10.95 Guillaume Char-ras and Ewa Paluch. Blebs lead the way: how 
-to mi-
+Overfull \hbox (91.34453pt too wide) in paragraph at lines 4560--4560
+[][][]\T1/ptm/m/n/9 http://www.pnas.org/content/110/41/16456 http://www.pubmedc
+entral.nih.gov/articlerender.fcgi?artid=3799374&tool=pmcentrez&rendertype=abstr
+act| 
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 4569--4571
-\T1/ptm/m/n/10.95 grate with-out lamel-lipo-dia.. \T1/ptm/m/it/10.95 Na-ture re
--views. Molec-u-lar cell bi-ol-ogy\T1/ptm/m/n/10.95 , 9(9):730^^U6, Septem-
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4560--4562
+\T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=379
+9374&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4572--4574
+Underfull \hbox (badness 5274) in paragraph at lines 4563--4565
+\T1/ptm/m/n/10.95 Azoury, Clau-dia Umaña-Diaz, Maria Al-monacid, Is-abelle Queg
+uiner, Pierre Nas-soy, Cé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4566--4568
+[][]\T1/ptm/m/n/10.95 URL: http://dx.doi.org/10.1038/nrm2453 http://www.ncbi.nl
+m.nih.gov/pubmed/18628785[][][][][][][],
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 4569--4571
+[]\T1/ptm/m/n/10.95 Andrew G. Clark, Kai Dierkes, and Ewa K. Paluch. Mon-i-tor-
+ing actin cor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4569--4571
 \T1/ptm/m/n/10.95 tex thick-ness in live cells.. \T1/ptm/m/it/10.95 Bio-phys-i-
 cal jour-nal\T1/ptm/m/n/10.95 , 105(3):570^^U80, Au-gust 2013. [][]URL:
  []
 
 
-Overfull \hbox (12.87149pt too wide) in paragraph at lines 4575--4577
+Overfull \hbox (21.37149pt too wide) in paragraph at lines 4572--4574
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=544
-73&tool=pmcentrez&rendertype=abstract[][],
+73&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4581--4583
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 4578--4580
 []\T1/ptm/m/n/10.95 Jan Faix and Kle-mens Rot-tner. The mak-ing of filopo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4581--4583
+Underfull \hbox (badness 10000) in paragraph at lines 4578--4580
 \T1/ptm/m/n/10.95 dia.. \T1/ptm/m/it/10.95 Cur-rent opin-ion in cell bi-ol-ogy\
-T1/ptm/m/n/10.95 , 18(1):18^^U25, Febru-ary 2006. [][]URL:
+T1/ptm/m/n/10.95 , 18(1):18^^U25, Febru-ary 2006.
  []
 
 
-Underfull \hbox (badness 6691) in paragraph at lines 4587--4589
-[]\T1/ptm/m/n/10.95 Daniel A Fletcher and R Dy-che Mullins. Cell me-chan-ics an
-d the cy-
+Underfull \hbox (badness 10000) in paragraph at lines 4578--4580
+[][]\T1/ptm/m/n/10.95 URL: http://www.sciencedirect.com/science/article/pii/S09
+5506740500178X[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4590--4592
+Underfull \hbox (badness 10000) in paragraph at lines 4587--4589
 []\T1/ptm/m/n/10.95 M. L Gardel, M. T Valen-tine, J. C Crocker, A. R Bausch, an
 d
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4590--4592
+Underfull \hbox (badness 10000) in paragraph at lines 4587--4589
 \T1/ptm/m/n/10.95 D. A Weitz. Mi-crorhe-ol-ogy of en-tan-gled F-actin so-lu-tio
 ns.. \T1/ptm/m/it/10.95 Phys-i-cal re-view let-ters\T1/ptm/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4590--4592
+Underfull \hbox (badness 10000) in paragraph at lines 4587--4589
 \T1/ptm/m/n/10.95 91(15):158302, Oc-to-ber 2003. [][]URL: http://www.ncbi.nlm.n
 ih.gov/pubmed/14611506
  []
 
-[150]
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 4602--4604
+
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4599--4601
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=379
-7517&tool=pmcentrez&rendertype=abstract[][],
+7517&tool=pmcentrez&rendertype=abstract[][][][][][][],
+ []
+
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 4602--4604
+[]\T1/ptm/m/n/10.95 Sven Huels-mann, Jari Ylänne, and Nicholas H Brown. Filopod
+ia-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4605--4607
-[]\T1/ptm/m/n/10.95 Sven Huels-mann, Jari Ylänne, and Nicholas H Brown.
+Underfull \hbox (badness 10000) in paragraph at lines 4602--4604
+\T1/ptm/m/n/10.95 like actin ca-bles po-si-tion nu-clei in as-so-ci-a-tion with
+ per-in-u-clear actin in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4605--4607
-\T1/ptm/m/n/10.95 Filopodia-like actin ca-bles po-si-tion nu-clei in as-so-ci-a
--tion with per-in-u-clear actin in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4605--4607
+Underfull \hbox (badness 10000) in paragraph at lines 4602--4604
 \T1/ptm/m/n/10.95 Drosophila nurse cells.. \T1/ptm/m/it/10.95 De-vel-op-men-tal
  cell\T1/ptm/m/n/10.95 , 26(6):604^^U15, Septem-ber 2013. [][]URL:
  []
 
 
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 4605--4607
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4602--4604
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=379
-1400&tool=pmcentrez&rendertype=abstract[][],
+1400&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 4608--4610
+Overfull \hbox (28.65207pt too wide) in paragraph at lines 4605--4605
+[][][]\T1/ptm/m/n/9 http://dx.doi.org/10.1021/ma946418x http://pubs.acs.org/doi
+/abs/10.1021/ma946418x http://pubs.acs.org/doi/full/10.1021/ma946418x
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 4605--4607
 \T1/ptm/m/it/10.95 Macro-molecules\T1/ptm/m/n/10.95 , 29(3):1036^^U1040, Jan-ua
 ry 1996. [][]URL: http://dx.doi.org/10.1021/ma946418x
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4608--4610
+Underfull \hbox (badness 10000) in paragraph at lines 4605--4607
 \T1/ptm/m/n/10.95 http://pubs.acs.org/doi/abs/10.1021/ma946418x http://pubs.acs
 .org/doi/full/10.1021/ma946418x
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4614--4616
-[]\T1/ptm/m/n/10.95 Kosei Iwabuchi and Shingo Tak-agi. Actin-based mech-a-nisms
- for light-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4617--4619
 []\T1/ptm/m/n/10.95 Diana E Jaalouk and Jan Lam-merd-ing. Mechan-otrans-duc-tio
 n gone
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4617--4619
+Underfull \hbox (badness 10000) in paragraph at lines 4614--4616
 \T1/ptm/m/n/10.95 awry.. \T1/ptm/m/it/10.95 Na-ture re-views. Molec-u-lar cell 
 bi-ol-ogy\T1/ptm/m/n/10.95 , 10(1):63^^U73, Jan-uary 2009. [][]URL:
  []
 
 
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 4617--4619
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4614--4616
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=266
-8954&tool=pmcentrez&rendertype=abstract[][],
+8954&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4620--4622
+Underfull \hbox (badness 10000) in paragraph at lines 4617--4619
 []\T1/ptm/m/n/10.95 Marcus Jah-nel, Mar-tin Behrndt, Anita Jan-nasch, Erik Schä
 f-fer, and
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 4620--4622
+Underfull \hbox (badness 6893) in paragraph at lines 4617--4619
 \T1/ptm/m/n/10.95 Stephan W. Grill. Mea-sur-ing the com-plete force field of an
  op-ti-cal trap. \T1/ptm/m/it/10.95 Op-tics Let-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4620--4622
+Underfull \hbox (badness 10000) in paragraph at lines 4617--4619
 \T1/ptm/m/it/10.95 ters\T1/ptm/m/n/10.95 , 36(7):1260^^U1262, April 2011. [][]U
 RL: http://ol.osa.org/abstract.cfm?URI=ol-36-7-1260
  []
 
-[151]
-Underfull \hbox (badness 10000) in paragraph at lines 4647--4649
+[152]
+Underfull \hbox (badness 10000) in paragraph at lines 4644--4646
 []\T1/ptm/m/n/10.95 F. MacK-in-tosh, J. Käs, and P. Jan-mey. Elas-tic-ity of Se
 mi-flex-i-ble
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4650--4652
-[]\T1/ptm/m/n/10.95 R E Ma-haffy, S Park, E Gerde, J Käs, and C K Shih. Quan-
+[153]
+Underfull \hbox (badness 10000) in paragraph at lines 4647--4649
+[]\T1/ptm/m/n/10.95 R E Ma-haffy, S Park, E Gerde, J Käs, and C K Shih. Quan-ti
+-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4650--4652
-\T1/ptm/m/n/10.95 ti-ta-tive anal-y-sis of the vis-coelas-tic prop-er-ties of t
-hin re-gions of fi-brob-lasts us-ing
+Underfull \hbox (badness 10000) in paragraph at lines 4647--4649
+\T1/ptm/m/n/10.95 ta-tive anal-y-sis of the vis-coelas-tic prop-er-ties of thin
+ re-gions of fi-brob-lasts us-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4650--4652
+Underfull \hbox (badness 10000) in paragraph at lines 4647--4649
 \T1/ptm/m/n/10.95 atomic force mi-croscopy.. \T1/ptm/m/it/10.95 Bio-phys-i-cal 
 jour-nal\T1/ptm/m/n/10.95 , 86(3):1777^^U93, March 2004. [][]URL:
  []
 
 
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 4650--4652
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4647--4649
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=130
-4012&tool=pmcentrez&rendertype=abstract[][],
+4012&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4653--4655
-[]\T1/ptm/m/n/10.95 Jean-Léon Maitre, Hélène Berthoumieux, Si-mon Fred-erik Gab
-riel
+Overfull \hbox (31.10014pt too wide) in paragraph at lines 4650--4650
+[][][]\T1/ptm/m/n/9 http://www.sciencemag.org.rproxy.sc.univ-paris-diderot.fr/c
+ontent/338/6104/253.long http://www.ncbi.nlm.nih.gov/pubmed/22923438
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4653--4655
-\T1/ptm/m/n/10.95 Krens, Guil-laume Sal-breux, Frank Jülicher, Ewa Paluch, and 
-Carl-Philipp Heisen-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4653--4655
-\T1/ptm/m/n/10.95 berg. Ad-he-sion func-tions in cell sort-ing by me-chan-i-cal
-ly cou-pling the cor-tices of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4653--4655
-\T1/ptm/m/n/10.95 ad-her-ing cells.. \T1/ptm/m/it/10.95 Sci-ence (New York, N.Y
-.)\T1/ptm/m/n/10.95 , 338(6104):253^^U6, Oc-to-ber 2012. [][]URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4653--4655
-\T1/ptm/m/n/10.95 http://www.sciencemag.org.rproxy.sc.univ-paris-diderot.fr/con
-tent/338/6104/253.long
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4653--4655
+Underfull \hbox (badness 10000) in paragraph at lines 4650--4652
 \T1/ptm/m/n/10.95 http://www.ncbi.nlm.nih.gov/pubmed/22923438 http://www.scienc
 emag.org/content/338/6104/253
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4659--4661
+Underfull \hbox (badness 10000) in paragraph at lines 4653--4653
+[][][]\T1/ptm/m/n/9 http://www.pnas.org/content/101/16/5992.abstract http://www
+.pnas.org/content/101/16/5992.full
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4656--4656
+[][][]\T1/ptm/m/n/9 http://www.sciencemag.org/content/315/5810/370.abstract htt
+p://www.sciencemag.org/content/315/5810/370.short
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 4656--4658
 []\T1/ptm/m/n/10.95 Daisuke Mizuno, Cather-ine Tardin, C. F. Schmidt, and F C M
-ack-in-
+ack-in-tosh.
  []
 
 
-Overfull \hbox (8.67896pt too wide) in paragraph at lines 4659--4661
+Underfull \hbox (badness 10000) in paragraph at lines 4656--4658
+\T1/ptm/m/n/10.95 Nonequi-lib-rium me-chan-ics of ac-tive cy-toskele-tal net-wo
+rks.. \T1/ptm/m/it/10.95 Sci-ence (New York, N.Y.)\T1/ptm/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (17.17896pt too wide) in paragraph at lines 4656--4658
 \T1/ptm/m/n/10.95 http://www.sciencemag.org/content/315/5810/370.short http://w
-ww.ncbi.nlm.nih.gov/pubmed/17234946[][],
+ww.ncbi.nlm.nih.gov/pubmed/17234946[][][][][][][],
  []
 
-[152]
-Underfull \hbox (badness 10000) in paragraph at lines 4662--4664
+
+Underfull \hbox (badness 10000) in paragraph at lines 4659--4659
+[][][]\T1/ptm/m/n/9 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2
+064339&tool=pmcentrez&rendertype=abstract
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4659--4661
 []\T1/ptm/m/n/10.95 Nobuhiro Mo-rone, Takahiro Fu-ji-wara, Kotono Murase, Rin-s
 hi S Ka-
  []
 
 
-Underfull \hbox (badness 6141) in paragraph at lines 4662--4664
+Underfull \hbox (badness 6141) in paragraph at lines 4659--4661
 \T1/ptm/m/n/10.95 sai, Hi-roshi Ike, Shigeki Yuasa, Jiro Usukura, and Ak-i-hiro
  Kusumi. Three-dimensional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4662--4664
+Underfull \hbox (badness 10000) in paragraph at lines 4659--4661
 \T1/ptm/m/n/10.95 re-con-struc-tion of the mem-brane skele-ton at the plasma me
 m-brane in-ter-face by elec-
  []
 
 
-Underfull \hbox (badness 8075) in paragraph at lines 4662--4664
+Underfull \hbox (badness 8075) in paragraph at lines 4659--4661
 \T1/ptm/m/n/10.95 tron to-mog-ra-phy.. \T1/ptm/m/it/10.95 The Jour-nal of cell 
 bi-ol-ogy\T1/ptm/m/n/10.95 , 174(6):851^^U62, Septem-ber 2006. [][]URL:
  []
 
 
-Overfull \hbox (21.08398pt too wide) in paragraph at lines 4662--4664
+Overfull \hbox (21.08398pt too wide) in paragraph at lines 4659--4661
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=206
 4339&tool=pmcentrez&rendertype=abstract
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4665--4667
+Underfull \hbox (badness 8170) in paragraph at lines 4662--4664
 []\T1/ptm/m/n/10.95 David C Morse. Vis-coelas-tic-ity of con-cen-trated isotrop
-ic so-lu-tions of semi-
+ic so-lu-tions of semi-flex-
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 4665--4667
-\T1/ptm/m/n/10.95 flex-i-ble poly-mers. 2. Lin-ear re-sponse. \T1/ptm/m/it/10.9
-5 Macro-molecules\T1/ptm/m/n/10.95 , 9297(98):7044^^U7067, 1998. [][]URL:
+Underfull \hbox (badness 10000) in paragraph at lines 4662--4664
+\T1/ptm/m/n/10.95 i-ble poly-mers. 2. Lin-ear re-sponse. \T1/ptm/m/it/10.95 Mac
+ro-molecules\T1/ptm/m/n/10.95 , 9297(98):7044^^U7067, 1998. [][]URL:
+ []
+
+[154]
+Underfull \hbox (badness 5985) in paragraph at lines 4665--4667
+\T1/ptm/m/n/10.95 i-ble Poly-mers. 1. Model and Stress Ten-sor. \T1/ptm/m/it/10
+.95 Macro-molecules\T1/ptm/m/n/10.95 , 31(20):7030^^U7043, Oc-to-ber
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 4668--4670
-[]\T1/ptm/m/n/10.95 David C. Morse. Vis-coelas-tic-ity of Con-cen-trated Isotro
-pic So-lu-tions of Semi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4671--4673
-[][]\T1/ptm/m/n/10.95 URL: http://www.sciencedirect.com/science/article/pii/S00
-91679X06820066[][], [][]doi:10.1016/S0091-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4677--4679
+Underfull \hbox (badness 10000) in paragraph at lines 4674--4676
 \T1/ptm/m/n/10.95 De-cem-ber 2005. [][]URL: http://www.nature.com.gate1.inist.f
 r/ncb/journal/v7/n12/full/ncb1336.html
  []
 
 
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 4683--4685
+Overfull \hbox (32.32147pt too wide) in paragraph at lines 4680--4682
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=211
-4620&tool=pmcentrez&rendertype=abstract[][],
+4620&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
+Underfull \hbox (badness 10000) in paragraph at lines 4686--4688
 []\T1/ptm/m/n/10.95 Thomas D. Pol-lard and Gary G. Borisy. Cel-lu-lar motil-ity
  driven
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
+Underfull \hbox (badness 10000) in paragraph at lines 4686--4688
 \T1/ptm/m/n/10.95 by as-sem-bly and dis-as-sem-bly of actin fil-a-ments.. \T1/p
 tm/m/it/10.95 Cell\T1/ptm/m/n/10.95 , 112(4):453^^U65, Febru-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
+Underfull \hbox (badness 10000) in paragraph at lines 4686--4688
 \T1/ptm/m/n/10.95 ary 2003. [][]URL: http://linkinghub.elsevier.com/retrieve/pi
 i/S009286740300120X
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4692--4694
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
 []\T1/ptm/m/n/10.95 Léa-Laetitia Pon-tani, Jasper van der Gucht, Guil-laume Sal
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4692--4694
+Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
 \T1/ptm/m/n/10.95 breux, Julien Heuvingh, Jean-François Joanny, and Cé-cile Syk
 es. Re-con-sti-tu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4692--4694
+Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
 \T1/ptm/m/n/10.95 tion of an actin cor-tex in-side a li-po-some.. \T1/ptm/m/it/
 10.95 Bio-phys-i-cal jour-nal\T1/ptm/m/n/10.95 , 96(1):192^^U8,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4692--4694
+Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
 \T1/ptm/m/n/10.95 Jan-uary 2009. [][]URL: http://www.cell.com/biophysj/abstract
 /S0006-3495(08)00038-6
  []
 
-[153]
-Underfull \hbox (badness 5288) in paragraph at lines 4698--4700
-[]\T1/ptm/m/n/10.95 David Pruyne, Marie Evan-ge-lista, Chang-song Yang, Er-fei 
-Bi, Sally Zig-
+
+Underfull \hbox (badness 5091) in paragraph at lines 4695--4697
+\T1/ptm/m/n/10.95 An-thony Bretscher, and Charles Boone. Role of formins in act
+in as-sem-bly: nu-cle-ation
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 4698--4700
+[]\T1/ptm/m/n/10.95 Thomas Pu-jol, Olivia du Roure, Marc Fer-migier, and Julien
+ Heuvingh. Im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4698--4700
+\T1/ptm/m/n/10.95 pact of branch-ing on the elas-tic-ity of actin net-works.. \
+T1/ptm/m/it/10.95 Pro-ceed-ings of the Na-tional
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4701--4703
-[]\T1/ptm/m/n/10.95 Thomas Pu-jol, Olivia du Roure, Marc Fer-migier, and Julien
- Heuvingh.
- []
-
-
-Underfull \hbox (badness 6944) in paragraph at lines 4701--4703
-\T1/ptm/m/n/10.95 Im-pact of branch-ing on the elas-tic-ity of actin net-works.
-. \T1/ptm/m/it/10.95 Pro-ceed-ings of the Na-tional
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4704--4706
 []\T1/ptm/m/n/10.95 Guillaume Sal-breux, Guil-laume Char-ras, and Ewa Paluch. A
 ctin cor-
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 4704--4706
+Underfull \hbox (badness 6910) in paragraph at lines 4701--4703
 \T1/ptm/m/n/10.95 tex me-chan-ics and cel-lu-lar mor-pho-gen-e-sis.. \T1/ptm/m/
 it/10.95 Trends in cell bi-ol-ogy\T1/ptm/m/n/10.95 , 22(10):536^^U45, Oc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4704--4706
+Underfull \hbox (badness 10000) in paragraph at lines 4701--4703
 \T1/ptm/m/n/10.95 to-ber 2012. [][]URL: http://www.sciencedirect.com/science/ar
 ticle/pii/S0962892412001110
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4707--4709
+Underfull \hbox (badness 10000) in paragraph at lines 4704--4706
 []\T1/ptm/m/n/10.95 O San-dre, L More-aux, and F Brochard-Wyart. Dy-nam-ics of 
 tran-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4707--4709
+Underfull \hbox (badness 10000) in paragraph at lines 4704--4706
 \T1/ptm/m/n/10.95 sient pores in stretched vesi-cles.. \T1/ptm/m/it/10.95 Pro-c
 eed-ings of the Na-tional Academy of Sci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4707--4709
+Underfull \hbox (badness 10000) in paragraph at lines 4704--4706
 \T1/ptm/m/it/10.95 ences of the United States of Amer-ica\T1/ptm/m/n/10.95 , 96
 (19):10591^^U6, Septem-ber 1999. [][]URL:
  []
 
 
-Overfull \hbox (12.87149pt too wide) in paragraph at lines 4707--4709
+Overfull \hbox (25.37149pt too wide) in paragraph at lines 4704--4706
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=179
-27&tool=pmcentrez&rendertype=abstract[][]. 
+27&tool=pmcentrez&rendertype=abstract[][][][][][][]. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4710--4712
+Underfull \hbox (badness 10000) in paragraph at lines 4707--4709
 []\T1/ptm/m/n/10.95 Dorothy A Schafer. Cell bi-ol-ogy: barbed ends rule.. \T1/p
 tm/m/it/10.95 Na-ture\T1/ptm/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4710--4712
+Underfull \hbox (badness 10000) in paragraph at lines 4707--4709
 \T1/ptm/m/n/10.95 430(7001):734^^U5, Au-gust 2004. [][]URL: http://www.nature.c
 om.rproxy.sc.univ-paris-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4719--4721
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 4716--4718
 []\T1/ptm/m/n/10.95 Dag Sverre Sel-je-botn. Pro-ceed-ings of the Python in Sci-
 ence Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4719--4721
+Underfull \hbox (badness 10000) in paragraph at lines 4716--4718
 \T1/ptm/m/n/10.95 fer-ence (SciPy): Fast nu-mer-i-cal com-pu-ta-tions with Cyth
 on. 2009. [][]URL:
  []
 
-[154]
-Underfull \hbox (badness 10000) in paragraph at lines 4737--4739
+
+Overfull \hbox (50.9805pt too wide) in paragraph at lines 4734--4734
+[][][]\T1/ptm/m/n/9 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/ http:/
+/www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/pdf/zpq04409018581.pdf| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4734--4736
 \T1/ptm/m/n/10.95 Novem-ber 2009. [][]URL: http://www.ncbi.nlm.nih.gov/pmc/arti
 cles/PMC2765453/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4737--4739
+Underfull \hbox (badness 10000) in paragraph at lines 4734--4736
 \T1/ptm/m/n/10.95 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765453/pdf/zpq04
-409018581.pdf[][],
+409018581.pdf[][][][][][][],
+ []
+
+[157]
+Underfull \hbox (badness 10000) in paragraph at lines 4740--4740
+[][][]\T1/ptm/m/n/9 http://www.pnas.org/content/102/22/7847.abstract http://www
+.pnas.org/content/102/22/7847.full.pdf
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4740--4742
-[]\T1/ptm/m/n/10.95 O. Val-iron, N. Cau-dron, and D. Job. Mi-cro-tubule dy-nam-
-ics. \T1/ptm/m/it/10.95 Cel-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4740--4742
-\T1/ptm/m/it/10.95 lu-lar and Molec-u-lar Life Sci-ences\T1/ptm/m/n/10.95 , 58(
-14):2069^^U2084, De-cem-ber 2001. [][]URL:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4743--4745
 \T1/ptm/m/n/10.95 http://www.pnas.org/content/102/22/7847.abstract http://www.p
 nas.org/content/102/22/7847.full.pdf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4746--4748
+Underfull \hbox (badness 10000) in paragraph at lines 4743--4745
 []\T1/ptm/m/n/10.95 Filip Vasilev, Jong T. Chun, Gio-vanni Grag-naniello, Ezio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4746--4748
+Underfull \hbox (badness 10000) in paragraph at lines 4743--4745
 \T1/ptm/m/n/10.95 Garante, and Luigia San-tella. Ef-fects of ion-o-mycin on egg
  ac-ti-va-tion and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4746--4748
+Underfull \hbox (badness 10000) in paragraph at lines 4743--4745
 \T1/ptm/m/n/10.95 early de-vel-op-ment in starfish.. \T1/ptm/m/it/10.95 PloS on
 e\T1/ptm/m/n/10.95 , 7(6):e39231, Jan-uary 2012. [][]URL:
  []
 
 
-Overfull \hbox (23.82147pt too wide) in paragraph at lines 4746--4748
+Overfull \hbox (36.32147pt too wide) in paragraph at lines 4743--4745
 \T1/ptm/m/n/10.95 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=337
-7674&tool=pmcentrez&rendertype=abstract[][],
+7674&tool=pmcentrez&rendertype=abstract[][][][][][][],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4749--4751
+Overfull \hbox (59.40323pt too wide) in paragraph at lines 4746--4746
+[][][]\T1/ptm/m/n/9 http://rsi.aip.org/resource/1/rsinak/v77/i1/p013704_s1?isAu
+thorized=no http://scitation.aip.org/content/aip/journal/rsi/77/1/10.1063/1.216
+5568| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4746--4748
 \T1/ptm/m/n/10.95 Jan-uary 2006. [][]URL: http://rsi.aip.org/resource/1/rsinak/
 v77/i1/p013704_s1?isAuthorized=no
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 4755--4757
+Underfull \hbox (badness 10000) in paragraph at lines 4749--4751
+\T1/ptm/m/n/10.95 Septem-ber 2011. [][]URL: http://www.sciencedirect.com/scienc
+e/article/pii/S0022283611007376[][][][][][][],
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 4752--4754
+[]\T1/ptm/m/n/10.95 Elena G Yarmola and Michael R Bubb. How de-poly-mer-iza-tio
+n can pro-
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 4752--4754
 \T1/ptm/m/n/10.95 mote poly-mer-iza-tion: the case of actin and pro-filin.. \T1
 /ptm/m/it/10.95 BioEs-says : news and re-views
  []
 
-[155] (./actingeldynamics.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4772.
- [156]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4772.
+[158] (./actingeldynamics.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4769.
+ [159]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4769.
  (./actingeldynamics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4772.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4772.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4769.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4769.
 
 Package rerunfilecheck Info: File `actingeldynamics.out' has not changed.
-(rerunfilecheck)             Checksum: 815D2E2059F1B143BB1C97ECC8E0708D;7389.
+(rerunfilecheck)             Checksum: 01169C34C4F4B6D6C37AF0B9743D8FAD;7389.
 
 
 LaTeX Warning: There were undefined references.
@@ -2868,46 +2953,46 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4772.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4769.
  ) 
 Here is how much of TeX's memory you used:
- 11260 strings out of 493488
- 168845 string characters out of 3141326
- 293628 words of memory out of 3000000
- 13573 multiletter control sequences out of 15000+200000
- 87556 words of font info for 85 fonts, out of 3000000 for 9000
- 958 hyphenation exceptions out of 8191
- 41i,18n,51p,3280b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
-ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2
-012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/201
-2/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2012/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2012/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2012/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2012/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2012/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2012/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2012/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/
-public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
-pe1/public/amsfonts/symbols/msbm7.pfb></usr/local/texlive/2012/texmf-dist/fonts
-/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2012/texmf-dist/fonts/t
-ype1/urw/courier/ucrr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw
-/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helvet
-ic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on actingeldynamics.pdf (168 pages, 29812741 bytes).
+ 11650 strings out of 493117
+ 174329 string characters out of 6135433
+ 294331 words of memory out of 5000000
+ 13953 multiletter control sequences out of 15000+600000
+ 93571 words of font info for 93 fonts, out of 8000000 for 9000
+ 1142 hyphenation exceptions out of 8191
+ 41i,18n,51p,3280b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/symbols/msbm7.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/urw/courier/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw
+/helvetic/uhvb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/helvet
+ic/uhvr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on actingeldynamics.pdf (171 pages, 29827800 bytes).
 PDF statistics:
- 5544 PDF objects out of 6186 (max. 8388607)
- 3804 compressed objects within 39 object streams
- 620 named destinations out of 1000 (max. 500000)
- 1462 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5887 PDF objects out of 6186 (max. 8388607)
+ 4138 compressed objects within 42 object streams
+ 768 named destinations out of 1000 (max. 500000)
+ 1477 words of extra memory for PDF output out of 10000 (max. 10000000)
 

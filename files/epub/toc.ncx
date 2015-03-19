@@ -1,0 +1,776 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Actin gel dynamics:Matthias Bussonnier</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="index.html" />
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Remerciements</text>
+      </navLabel>
+      <content src="parts/remerciements.html" />
+    </navPoint>
+    <navPoint id="navPoint3" playOrder="3">
+      <navLabel>
+        <text>Preamble</text>
+      </navLabel>
+      <content src="parts/part1.html" />
+    </navPoint>
+    <navPoint id="navPoint4" playOrder="4">
+      <navLabel>
+        <text>Background</text>
+      </navLabel>
+      <content src="parts/part1.html#background" />
+      <navPoint id="navPoint5" playOrder="4">
+        <navLabel>
+          <text>Background</text>
+        </navLabel>
+        <content src="parts/part1.html#background" />
+      </navPoint>
+      <navPoint id="navPoint6" playOrder="5">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="parts/part1.html#introduction" />
+      </navPoint>
+      <navPoint id="navPoint7" playOrder="6">
+        <navLabel>
+          <text>Living Cells</text>
+        </navLabel>
+        <content src="parts/part1.html#living-cells" />
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="7">
+        <navLabel>
+          <text>Oocyte</text>
+        </navLabel>
+        <content src="parts/part1.html#oocyte" />
+        <navPoint id="navPoint9" playOrder="7">
+          <navLabel>
+            <text>Oocyte</text>
+          </navLabel>
+          <content src="parts/part1.html#oocyte" />
+        </navPoint>
+        <navPoint id="navPoint10" playOrder="8">
+          <navLabel>
+            <text>Cell Organelles</text>
+          </navLabel>
+          <content src="parts/part1.html#cell-organelles" />
+        </navPoint>
+        <navPoint id="navPoint11" playOrder="9">
+          <navLabel>
+            <text>The Cytoskeleton</text>
+          </navLabel>
+          <content src="parts/part1.html#the-cytoskeleton" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="10">
+        <navLabel>
+          <text>The Role And Composition Of The Cytoskeleton</text>
+        </navLabel>
+        <content src="parts/part1.html#the-role-and-composition-of-the-cytoskeleton" />
+        <navPoint id="navPoint13" playOrder="10">
+          <navLabel>
+            <text>The Role And Composition Of The Cytoskeleton</text>
+          </navLabel>
+          <content src="parts/part1.html#the-role-and-composition-of-the-cytoskeleton" />
+        </navPoint>
+        <navPoint id="navPoint14" playOrder="11">
+          <navLabel>
+            <text>Composition of the cell cytoskeleton</text>
+          </navLabel>
+          <content src="parts/part1.html#composition-of-the-cell-cytoskeleton" />
+        </navPoint>
+        <navPoint id="navPoint15" playOrder="12">
+          <navLabel>
+            <text>The actin cortex</text>
+          </navLabel>
+          <content src="parts/part1.html#the-actin-cortex" />
+        </navPoint>
+        <navPoint id="navPoint16" playOrder="13">
+          <navLabel>
+            <text>Cell Motility</text>
+          </navLabel>
+          <content src="parts/part1.html#cell-motility" />
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="14">
+          <navLabel>
+            <text>Organelle Positioning</text>
+          </navLabel>
+          <content src="parts/part1.html#organelle-positioning" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="15">
+        <navLabel>
+          <text>In vitro reconstituted actin networks</text>
+        </navLabel>
+        <content src="parts/part1.html#in-vitro-reconstituted-actin-networks" />
+        <navPoint id="navPoint19" playOrder="15">
+          <navLabel>
+            <text>In vitro reconstituted actin networks</text>
+          </navLabel>
+          <content src="parts/part1.html#in-vitro-reconstituted-actin-networks" />
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="16">
+          <navLabel>
+            <text>Bead motility assay</text>
+          </navLabel>
+          <content src="parts/part1.html#bead-motility-assay" />
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="17">
+          <navLabel>
+            <text>Liposomes</text>
+          </navLabel>
+          <content src="parts/part1.html#liposomes" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint22" playOrder="18">
+        <navLabel>
+          <text>Membrane Physics</text>
+        </navLabel>
+        <content src="parts/part1.html#membrane-physics" />
+      </navPoint>
+      <navPoint id="navPoint23" playOrder="19">
+        <navLabel>
+          <text>Actin networks as viscoelastic material</text>
+        </navLabel>
+        <content src="parts/part1.html#actin-networks-as-viscoelastic-material" />
+        <navPoint id="navPoint24" playOrder="19">
+          <navLabel>
+            <text>Actin networks as viscoelastic material</text>
+          </navLabel>
+          <content src="parts/part1.html#actin-networks-as-viscoelastic-material" />
+        </navPoint>
+        <navPoint id="navPoint25" playOrder="20">
+          <navLabel>
+            <text>Elastic Modulus</text>
+          </navLabel>
+          <content src="parts/part1.html#elastic-modulus" />
+        </navPoint>
+        <navPoint id="navPoint26" playOrder="21">
+          <navLabel>
+            <text>Poisson&#39;s Ratio</text>
+          </navLabel>
+          <content src="parts/part1.html#poisson-s-ratio" />
+        </navPoint>
+        <navPoint id="navPoint27" playOrder="22">
+          <navLabel>
+            <text>Viscosity</text>
+          </navLabel>
+          <content src="parts/part1.html#viscosity" />
+        </navPoint>
+        <navPoint id="navPoint28" playOrder="23">
+          <navLabel>
+            <text>Viscoelasticity</text>
+          </navLabel>
+          <content src="parts/part1.html#viscoelasticity" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="24">
+        <navLabel>
+          <text>Optical tweezer</text>
+        </navLabel>
+        <content src="parts/part1.html#optical-tweezer" />
+        <navPoint id="navPoint30" playOrder="24">
+          <navLabel>
+            <text>Optical tweezer</text>
+          </navLabel>
+          <content src="parts/part1.html#optical-tweezer" />
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="25">
+          <navLabel>
+            <text>Determination of trapping forces and bead displacement</text>
+          </navLabel>
+          <content src="parts/part1.html#determination-of-trapping-forces-and-bead-displacement" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint32" playOrder="26">
+      <navLabel>
+        <text>Materials and Methods</text>
+      </navLabel>
+      <content src="parts/part2.html" />
+      <navPoint id="navPoint33" playOrder="26">
+        <navLabel>
+          <text>Materials and Methods</text>
+        </navLabel>
+        <content src="parts/part2.html" />
+      </navPoint>
+      <navPoint id="navPoint34" playOrder="27">
+        <navLabel>
+          <text>Buffers</text>
+        </navLabel>
+        <content src="parts/part2.html#buffers" />
+        <navPoint id="navPoint35" playOrder="27">
+          <navLabel>
+            <text>Buffers</text>
+          </navLabel>
+          <content src="parts/part2.html#buffers" />
+        </navPoint>
+        <navPoint id="navPoint36" playOrder="28">
+          <navLabel>
+            <text>G-Buffer</text>
+          </navLabel>
+          <content src="parts/part2.html#g-buffer" />
+        </navPoint>
+        <navPoint id="navPoint37" playOrder="29">
+          <navLabel>
+            <text>Polymerisation Buffer</text>
+          </navLabel>
+          <content src="parts/part2.html#polymerisation-buffer" />
+        </navPoint>
+        <navPoint id="navPoint38" playOrder="30">
+          <navLabel>
+            <text>X-Buffer with BSA</text>
+          </navLabel>
+          <content src="parts/part2.html#x-buffer-with-bsa" />
+        </navPoint>
+        <navPoint id="navPoint39" playOrder="31">
+          <navLabel>
+            <text>ATP-Mix Buffer</text>
+          </navLabel>
+          <content src="parts/part2.html#atp-mix-buffer" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="32">
+        <navLabel>
+          <text>Protein preparation</text>
+        </navLabel>
+        <content src="parts/part2.html#protein-preparation" />
+        <navPoint id="navPoint41" playOrder="32">
+          <navLabel>
+            <text>Protein preparation</text>
+          </navLabel>
+          <content src="parts/part2.html#protein-preparation" />
+        </navPoint>
+        <navPoint id="navPoint42" playOrder="33">
+          <navLabel>
+            <text>pWA (also called pVCA)</text>
+          </navLabel>
+          <content src="parts/part2.html#pwa-also-called-pvca" />
+        </navPoint>
+        <navPoint id="navPoint43" playOrder="34">
+          <navLabel>
+            <text>Actin</text>
+          </navLabel>
+          <content src="parts/part2.html#actin" />
+        </navPoint>
+        <navPoint id="navPoint44" playOrder="35">
+          <navLabel>
+            <text>Profilin</text>
+          </navLabel>
+          <content src="parts/part2.html#profilin" />
+        </navPoint>
+        <navPoint id="navPoint45" playOrder="36">
+          <navLabel>
+            <text>Arp2/3</text>
+          </navLabel>
+          <content src="parts/part2.html#arp2-3" />
+        </navPoint>
+        <navPoint id="navPoint46" playOrder="37">
+          <navLabel>
+            <text>Capping protein</text>
+          </navLabel>
+          <content src="parts/part2.html#capping-protein" />
+        </navPoint>
+        <navPoint id="navPoint47" playOrder="38">
+          <navLabel>
+            <text>Myosin II</text>
+          </navLabel>
+          <content src="parts/part2.html#myosin-ii" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint48" playOrder="39">
+        <navLabel>
+          <text>Lipids, reagent and proteins</text>
+        </navLabel>
+        <content src="parts/part2.html#lipids-reagent-and-proteins" />
+      </navPoint>
+      <navPoint id="navPoint49" playOrder="40">
+        <navLabel>
+          <text>Doublet preparation</text>
+        </navLabel>
+        <content src="parts/part2.html#doublet-preparation" />
+      </navPoint>
+      <navPoint id="navPoint50" playOrder="41">
+        <navLabel>
+          <text>Bead Preparation</text>
+        </navLabel>
+        <content src="parts/part2.html#bead-preparation" />
+        <navPoint id="navPoint51" playOrder="41">
+          <navLabel>
+            <text>Bead Preparation</text>
+          </navLabel>
+          <content src="parts/part2.html#bead-preparation" />
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="42">
+          <navLabel>
+            <text>Actin-Bead Preparation</text>
+          </navLabel>
+          <content src="parts/part2.html#actin-bead-preparation" />
+        </navPoint>
+        <navPoint id="navPoint53" playOrder="43">
+          <navLabel>
+            <text>Probe Bead Preparation</text>
+          </navLabel>
+          <content src="parts/part2.html#probe-bead-preparation" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint54" playOrder="44">
+        <navLabel>
+          <text>Force indentation experiments</text>
+        </navLabel>
+        <content src="parts/part2.html#force-indentation-experiments" />
+        <navPoint id="navPoint55" playOrder="44">
+          <navLabel>
+            <text>Force indentation experiments</text>
+          </navLabel>
+          <content src="parts/part2.html#force-indentation-experiments" />
+        </navPoint>
+        <navPoint id="navPoint56" playOrder="45">
+          <navLabel>
+            <text>Preparation of sample</text>
+          </navLabel>
+          <content src="parts/part2.html#preparation-of-sample" />
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="46">
+          <navLabel>
+            <text>QPD positioning and calibration of microscope</text>
+          </navLabel>
+          <content src="parts/part2.html#qpd-positioning-and-calibration-of-microscope" />
+        </navPoint>
+        <navPoint id="navPoint58" playOrder="47">
+          <navLabel>
+            <text>Initial bead trapping</text>
+          </navLabel>
+          <content src="parts/part2.html#initial-bead-trapping" />
+        </navPoint>
+        <navPoint id="navPoint59" playOrder="48">
+          <navLabel>
+            <text>Indentations</text>
+          </navLabel>
+          <content src="parts/part2.html#indentations" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint60" playOrder="49">
+        <navLabel>
+          <text>Time Shared Optical Traps</text>
+        </navLabel>
+        <content src="parts/part2.html#time-shared-optical-traps" />
+      </navPoint>
+      <navPoint id="navPoint61" playOrder="50">
+        <navLabel>
+          <text>Oocyte</text>
+        </navLabel>
+        <content src="parts/part2.html#oocyte" />
+        <navPoint id="navPoint62" playOrder="50">
+          <navLabel>
+            <text>Oocyte</text>
+          </navLabel>
+          <content src="parts/part2.html#oocyte" />
+        </navPoint>
+        <navPoint id="navPoint63" playOrder="51">
+          <navLabel>
+            <text>Oocyte obtention</text>
+          </navLabel>
+          <content src="parts/part2.html#oocyte-obtention" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint64" playOrder="52">
+      <navLabel>
+        <text>Mechanical properties of a far reaching actin cloud</text>
+      </navLabel>
+      <content src="parts/part3.html" />
+      <navPoint id="navPoint65" playOrder="52">
+        <navLabel>
+          <text>Mechanical properties of a far reaching actin cloud</text>
+        </navLabel>
+        <content src="parts/part3.html" />
+      </navPoint>
+      <navPoint id="navPoint66" playOrder="53">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="parts/part3.html#introduction" />
+      </navPoint>
+      <navPoint id="navPoint67" playOrder="54">
+        <navLabel>
+          <text>Actin-Bead System</text>
+        </navLabel>
+        <content src="parts/part3.html#actin-bead-system" />
+      </navPoint>
+      <navPoint id="navPoint68" playOrder="55">
+        <navLabel>
+          <text>Probe Bead System</text>
+        </navLabel>
+        <content src="parts/part3.html#probe-bead-system" />
+      </navPoint>
+      <navPoint id="navPoint69" playOrder="56">
+        <navLabel>
+          <text>Experimental description</text>
+        </navLabel>
+        <content src="parts/part3.html#experimental-description" />
+        <navPoint id="navPoint70" playOrder="56">
+          <navLabel>
+            <text>Experimental description</text>
+          </navLabel>
+          <content src="parts/part3.html#experimental-description" />
+        </navPoint>
+        <navPoint id="navPoint71" playOrder="57">
+          <navLabel>
+            <text>Approach Phase</text>
+          </navLabel>
+          <content src="parts/part3.html#approach-phase" />
+        </navPoint>
+        <navPoint id="navPoint72" playOrder="58">
+          <navLabel>
+            <text>Relaxation Phase</text>
+          </navLabel>
+          <content src="parts/part3.html#relaxation-phase" />
+        </navPoint>
+        <navPoint id="navPoint73" playOrder="59">
+          <navLabel>
+            <text>Retraction part</text>
+          </navLabel>
+          <content src="parts/part3.html#retraction-part" />
+        </navPoint>
+        <navPoint id="navPoint74" playOrder="60">
+          <navLabel>
+            <text>Reconstitution of Force-distance-curve</text>
+          </navLabel>
+          <content src="parts/part3.html#reconstitution-of-force-distance-curve" />
+        </navPoint>
+        <navPoint id="navPoint75" playOrder="61">
+          <navLabel>
+            <text>Repetitive indent</text>
+          </navLabel>
+          <content src="parts/part3.html#repetitive-indent" />
+        </navPoint>
+        <navPoint id="navPoint76" playOrder="62">
+          <navLabel>
+            <text>Effect of approach speed</text>
+          </navLabel>
+          <content src="parts/part3.html#effect-of-approach-speed" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint77" playOrder="63">
+        <navLabel>
+          <text>Experimental observations</text>
+        </navLabel>
+        <content src="parts/part3.html#experimental-observations" />
+        <navPoint id="navPoint78" playOrder="63">
+          <navLabel>
+            <text>Experimental observations</text>
+          </navLabel>
+          <content src="parts/part3.html#experimental-observations" />
+        </navPoint>
+        <navPoint id="navPoint79" playOrder="64">
+          <navLabel>
+            <text>Approach phase modeling</text>
+          </navLabel>
+          <content src="parts/part3.html#approach-phase-modeling" />
+        </navPoint>
+        <navPoint id="navPoint80" playOrder="65">
+          <navLabel>
+            <text>Variation of parameters with Capping Protein</text>
+          </navLabel>
+          <content src="parts/part3.html#variation-of-parameters-with-capping-protein" />
+        </navPoint>
+        <navPoint id="navPoint81" playOrder="66">
+          <navLabel>
+            <text>Determination of Young&#39;s Modulus</text>
+          </navLabel>
+          <content src="parts/part3.html#determination-of-young-s-modulus" />
+        </navPoint>
+        <navPoint id="navPoint82" playOrder="67">
+          <navLabel>
+            <text>Mechanical properties</text>
+          </navLabel>
+          <content src="parts/part3.html#mechanical-properties" />
+        </navPoint>
+        <navPoint id="navPoint83" playOrder="68">
+          <navLabel>
+            <text>Interpretation</text>
+          </navLabel>
+          <content src="parts/part3.html#interpretation" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint84" playOrder="69">
+        <navLabel>
+          <text>Relaxation phase</text>
+        </navLabel>
+        <content src="parts/part3.html#id29" />
+        <navPoint id="navPoint85" playOrder="69">
+          <navLabel>
+            <text>Relaxation phase</text>
+          </navLabel>
+          <content src="parts/part3.html#id29" />
+        </navPoint>
+        <navPoint id="navPoint86" playOrder="70">
+          <navLabel>
+            <text>Retraction Phase</text>
+          </navLabel>
+          <content src="parts/part3.html#retraction-phase" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint87" playOrder="71">
+        <navLabel>
+          <text>Discussion</text>
+        </navLabel>
+        <content src="parts/part3.html#discussion" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint88" playOrder="72">
+      <navLabel>
+        <text>Cortical tension measured on liposome doublets</text>
+      </navLabel>
+      <content src="parts/part4.html" />
+      <navPoint id="navPoint89" playOrder="72">
+        <navLabel>
+          <text>Cortical tension measured on liposome doublets</text>
+        </navLabel>
+        <content src="parts/part4.html" />
+      </navPoint>
+      <navPoint id="navPoint90" playOrder="73">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="parts/part4.html#introduction" />
+      </navPoint>
+      <navPoint id="navPoint91" playOrder="74">
+        <navLabel>
+          <text>Experimental description</text>
+        </navLabel>
+        <content src="parts/part4.html#experimental-description" />
+        <navPoint id="navPoint92" playOrder="74">
+          <navLabel>
+            <text>Experimental description</text>
+          </navLabel>
+          <content src="parts/part4.html#experimental-description" />
+        </navPoint>
+        <navPoint id="navPoint93" playOrder="75">
+          <navLabel>
+            <text>Formation of liposomes doublets</text>
+          </navLabel>
+          <content src="parts/part4.html#formation-of-liposomes-doublets" />
+        </navPoint>
+        <navPoint id="navPoint94" playOrder="76">
+          <navLabel>
+            <text>Formation of actin cortex on doublets</text>
+          </navLabel>
+          <content src="parts/part4.html#formation-of-actin-cortex-on-doublets" />
+        </navPoint>
+        <navPoint id="navPoint95" playOrder="77">
+          <navLabel>
+            <text>Visualisation of the interface</text>
+          </navLabel>
+          <content src="parts/part4.html#visualisation-of-the-interface" />
+        </navPoint>
+        <navPoint id="navPoint96" playOrder="78">
+          <navLabel>
+            <text>Geometrical parameters</text>
+          </navLabel>
+          <content src="parts/part4.html#geometrical-parameters" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint97" playOrder="79">
+        <navLabel>
+          <text>Experimental Observations</text>
+        </navLabel>
+        <content src="parts/part4.html#experimental-observations" />
+        <navPoint id="navPoint98" playOrder="79">
+          <navLabel>
+            <text>Experimental Observations</text>
+          </navLabel>
+          <content src="parts/part4.html#experimental-observations" />
+        </navPoint>
+        <navPoint id="navPoint99" playOrder="80">
+          <navLabel>
+            <text>Effect of myosin-II injection</text>
+          </navLabel>
+          <content src="parts/part4.html#effect-of-myosin-ii-injection" />
+        </navPoint>
+        <navPoint id="navPoint100" playOrder="81">
+          <navLabel>
+            <text>Relation between the angles and tension</text>
+          </navLabel>
+          <content src="parts/part4.html#relation-between-the-angles-and-tension" />
+        </navPoint>
+        <navPoint id="navPoint101" playOrder="82">
+          <navLabel>
+            <text>Contact angle dispersion</text>
+          </navLabel>
+          <content src="parts/part4.html#contact-angle-dispersion" />
+        </navPoint>
+        <navPoint id="navPoint102" playOrder="83">
+          <navLabel>
+            <text>Tension of actin-shell</text>
+          </navLabel>
+          <content src="parts/part4.html#tension-of-actin-shell" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint103" playOrder="84">
+        <navLabel>
+          <text>3D observation</text>
+        </navLabel>
+        <content src="parts/part4.html#d-observation" />
+      </navPoint>
+      <navPoint id="navPoint104" playOrder="85">
+        <navLabel>
+          <text>Discussion</text>
+        </navLabel>
+        <content src="parts/part4.html#discussion" />
+        <navPoint id="navPoint105" playOrder="85">
+          <navLabel>
+            <text>Discussion</text>
+          </navLabel>
+          <content src="parts/part4.html#discussion" />
+        </navPoint>
+        <navPoint id="navPoint106" playOrder="86">
+          <navLabel>
+            <text>Cortical tension is homogeneous for single doublet</text>
+          </navLabel>
+          <content src="parts/part4.html#cortical-tension-is-homogeneous-for-single-doublet" />
+        </navPoint>
+        <navPoint id="navPoint107" playOrder="87">
+          <navLabel>
+            <text>Relative increase in cortical tension</text>
+          </navLabel>
+          <content src="parts/part4.html#relative-increase-in-cortical-tension" />
+        </navPoint>
+        <navPoint id="navPoint108" playOrder="88">
+          <navLabel>
+            <text>Cortical tension increase in doublets and in cells</text>
+          </navLabel>
+          <content src="parts/part4.html#cortical-tension-increase-in-doublets-and-in-cells" />
+        </navPoint>
+        <navPoint id="navPoint109" playOrder="89">
+          <navLabel>
+            <text>Different contributions for cortical tension</text>
+          </navLabel>
+          <content src="parts/part4.html#different-contributions-for-cortical-tension" />
+        </navPoint>
+        <navPoint id="navPoint110" playOrder="90">
+          <navLabel>
+            <text>Conclusion</text>
+          </navLabel>
+          <content src="parts/part4.html#conclusion" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint111" playOrder="91">
+        <navLabel>
+          <text>3D fitting</text>
+        </navLabel>
+        <content src="parts/part4.html#d-fitting" />
+        <navPoint id="navPoint112" playOrder="91">
+          <navLabel>
+            <text>3D fitting</text>
+          </navLabel>
+          <content src="parts/part4.html#d-fitting" />
+        </navPoint>
+        <navPoint id="navPoint113" playOrder="92">
+          <navLabel>
+            <text>First step: Fitting a single liposome</text>
+          </navLabel>
+          <content src="parts/part4.html#first-step-fitting-a-single-liposome" />
+        </navPoint>
+        <navPoint id="navPoint114" playOrder="93">
+          <navLabel>
+            <text>Fitting a doublet</text>
+          </navLabel>
+          <content src="parts/part4.html#fitting-a-doublet" />
+        </navPoint>
+        <navPoint id="navPoint115" playOrder="94">
+          <navLabel>
+            <text>Discussion</text>
+          </navLabel>
+          <content src="parts/part4.html#id24" />
+        </navPoint>
+        <navPoint id="navPoint116" playOrder="95">
+          <navLabel>
+            <text>Conclusion</text>
+          </navLabel>
+          <content src="parts/part4.html#id25" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint117" playOrder="96">
+      <navLabel>
+        <text>Active cytoplasm movement in mouse oocytes</text>
+      </navLabel>
+      <content src="parts/part5.html" />
+      <navPoint id="navPoint118" playOrder="96">
+        <navLabel>
+          <text>Active cytoplasm movement in mouse oocytes</text>
+        </navLabel>
+        <content src="parts/part5.html" />
+      </navPoint>
+      <navPoint id="navPoint119" playOrder="97">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="parts/part5.html#introduction" />
+      </navPoint>
+      <navPoint id="navPoint120" playOrder="98">
+        <navLabel>
+          <text>Oocytes</text>
+        </navLabel>
+        <content src="parts/part5.html#oocytes" />
+      </navPoint>
+      <navPoint id="navPoint121" playOrder="99">
+        <navLabel>
+          <text>Measure of activity</text>
+        </navLabel>
+        <content src="parts/part5.html#measure-of-activity" />
+      </navPoint>
+      <navPoint id="navPoint122" playOrder="100">
+        <navLabel>
+          <text>Conclusion</text>
+        </navLabel>
+        <content src="parts/part5.html#conclusion" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint123" playOrder="101">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="parts/conclusion.html" />
+    </navPoint>
+    <navPoint id="navPoint124" playOrder="102">
+      <navLabel>
+        <text>Appendix</text>
+      </navLabel>
+      <content src="parts/extra.html" />
+      <navPoint id="navPoint125" playOrder="102">
+        <navLabel>
+          <text>Appendix</text>
+        </navLabel>
+        <content src="parts/extra.html" />
+      </navPoint>
+      <navPoint id="navPoint126" playOrder="103">
+        <navLabel>
+          <text>Mechanical detection of a long range actin network emanating from a biomimetic cortex Preprint</text>
+        </navLabel>
+        <content src="parts/extra.html#mechanical-detection-of-a-long-range-actin-network-emanating-from-a-biomimetic-cortex-preprint" />
+      </navPoint>
+      <navPoint id="navPoint127" playOrder="104">
+        <navLabel>
+          <text>Cell-sized liposome doublets reveal active cortical tension build up Draft</text>
+        </navLabel>
+        <content src="parts/extra.html#cell-sized-liposome-doublets-reveal-active-cortical-tension-build-up-draft" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
